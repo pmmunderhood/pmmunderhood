@@ -1,7 +1,7 @@
-const name = "!!!ANYUNDERHOOD.NAME"
-const site = "!!!ANYUNDERHOOD.SITE"
+const name = "pmmunderhood"
+const site = "pmmunderhood.com"
 
-const description = "!!!ANYUNDERHOOD.description"
+const description = "Shared twitter account for Product Marketing Managers"
 
 module.exports = {
   "underhood": {
@@ -9,15 +9,15 @@ module.exports = {
     description
   },
   "github": {
-    user: "!!!ANYUNDERHOOD.github.user",
-    repo: "!!!ANYUNDERHOOD.github.repo"
+    user: "pmmunderhood",
+    repo: "pmmunderhood"
   },
   "curator": {
-    email: "!!!ANYUNDERHOOD.curator.email",
-    twitter: "!!!ANYUNDERHOOD.curator.twitter",
+    email: "pmmunderhood@gmail.com  ",
+    twitter: "NatashaKatson",
   },
   "site": {
-    "title": "Сайт @" + name,
+    "title": "@" + name,
     "description": description,
     // TODO: RSS "feed_url": "https://" + site + "/rss.xml",
     "site_url": "https://" + site + "/",

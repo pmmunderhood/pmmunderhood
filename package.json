@@ -1,7 +1,7 @@
 {
-  "name": "anyunderhood",
-  "version": "0.0.0",
-  "description": "",
+  "name": "pmmunderhood",
+  "version": "1.0.0",
+  "description": "Site for Product Marketing Managers",
   "main": "index.js",
   "scripts": {
     "update": "babel-node scripts/update",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suxxes/abroadunderhood.git"
+    "url": "git+https://github.com/pmmunderhood/pmmunderhood.git"
   },
-  "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
+  "author": "Daniil Katson <daniil@beargummy.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/suxxes/abroadunderhood/issues"
+    "url": "https://github.com/pmmunderhood/pmmunderhood/issues"
   },
-  "homepage": "https://github.com/suxxes/abroadunderhood#readme",
+  "homepage": "https://github.com/pmmunderhood/pmmunderhood#readme",
   "dependencies": {
     "article-data": "^0.3.1",
     "autoprefixer": "^6.7.7",

@@ -1,4 +1,4 @@
-name: Deploy to anyunderhood.github.io
+name: Deploy to pmmunderhood.github.io
 
 on:
   push:
@@ -39,7 +39,7 @@ jobs:
     - name: Checkout ghpages repo
       uses: actions/checkout@v2
       with:
-        repository: anyunderhood/anyunderhood.github.io
+        repository: pmmunderhood/pmmunderhood.github.io
         path: github.io
         token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
@@ -52,13 +52,13 @@ jobs:
 #       run: cp -r project/dist/ github.io
       run: cp -a project/dist/. github.io/
 
-    - name: Commit and Push to anyunderhood.github.io
+    - name: Commit and Push to pmmunderhood.github.io
       working-directory: ./github.io # Make failable
       run: | 
         git add .
-        git config --local user.email "???"
-        git config --local user.name "anyunderhood"
-        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/anyunderhood/anyunderhood.github.io) || echo "Nothing to commit"
+        git config --local user.email "ci@github"
+        git config --local user.name "pmmunderhood"
+        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/pmmunderhood/pmmunderhood.github.io) || echo "Nothing to commit"
       env:
         REPO_OWNER: ${{ secrets.repository_owner }}
         CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
