@@ -40,11 +40,9 @@ Please refer to the [documentation](https://help.twitter.com/en/using-twitter/cr
 
 People won't comment if you ignore them. Here are some tools that might help:
 
-1. [Like](https://help.twitter
-.com/en/using-twitter/liking-tweets-and-moments) – like comments, tweets, 
+1. [Like](https://help.twitter.com/en/using-twitter/liking-tweets-and-moments) – like comments, tweets, 
 whatever you find interesting.
-2. [Retweet with a quote](https://help.twitter
-.com/en/using-twitter/how-to-retweet) – 
+2. [Retweet with a quote](https://help.twitter.com/en/using-twitter/how-to-retweet) – 
 if you find someones question interesting enough, you can retweet it with 
 the answer and the tweet will appear in everyone's feed. I recommend to use 
 this tool, it makes the content more visible.
@@ -64,8 +62,7 @@ Do not hesitate to share with your friends that you became an author of the week
 
 #### Plan for the week
 
-Publish a plan for your week on your first day. Here is [an example]
-(https://twitter.com/pmmunderhood/status/1315621876060901377). It helps subscribers learn in advance what you will be talking about and provide you with some feedback.
+Publish a plan for your week on your first day. Here is [an example](https://twitter.com/pmmunderhood/status/1315621876060901377). It helps subscribers learn in advance what you will be talking about and provide you with some feedback.
 
 #### Your first day
 

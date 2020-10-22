@@ -14,8 +14,7 @@ It’s similar to “ask-me-anything” on Reddit.
 * The authors can easily communicate with the participants.
 * Personal brand: as an author, you share your professional expertise with the community.
 
-Follow [@{{pmmunderhood}}][uh] on Twitter.
+Follow [@pmmunderhood](https://twitter.com/pmmunderhood) on Twitter.
 
 P.S. There are some other shared accounts on Twitter. You can find the full list in [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)
 
-[uh]: https://twitter.com/{{pmmunderhood}}
