@@ -1,4 +1,4 @@
-name: Deploy to pmmunderhood.github.io
+name: Update gh-pages
 
 on:
   push:
@@ -27,28 +27,29 @@ jobs:
       run: |
         npm ci
         npm run build
-        
+
     - name: Checkout ghpages repo
       uses: actions/checkout@v2
       with:
-        repository: pmmunderhood/pmmunderhood.github.io
-        path: github.io
+        ref: gh-pages
+        path: gh-pages
         token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
     - name: Remove all files from repo
       run: git rm -r .
-      working-directory: ./github.io
+      working-directory: ./gh-pages
     
-    - name: Copy dist to github.io repo
-      run: cp -a project/dist/. github.io/
-
-    - name: Commit and Push to pmmunderhood.github.io
-      working-directory: ./github.io # Make failable
+    - name: Copy dist to gh-pages
+      run: cp -a project/dist/. gh-pages/
+      
+    - name: Commit and Push to gh-pages
+      working-directory: ./gh-pages # Make failable
       run: | 
         git add .
         git config --local user.email "ci@github"
         git config --local user.name "pmmunderhood"
-        (git commit -m "Deploy to github.io $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/pmmunderhood/pmmunderhood.github.io) || echo "Nothing to commit"
+        (git commit -m "Update gh-pages $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/pmmunderhood/pmmunderhood gh-pages) || echo "Nothing to commit"
       env:
         REPO_OWNER: ${{ secrets.repository_owner }}
         CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
