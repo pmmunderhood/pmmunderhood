@@ -1,46 +1,46 @@
-Стать автором несложно и весело.
+It's easy to become an author!
 
-## Что я получу, как автор?
+## What will you gain as an author?
 
-* Новые подписчики из вашей целевой аудитории
-* Испытание идей: отклик от множества читателей
-* Вы также сможете проверить ваш опыт и получить совет от кого-то более опытного
-* Новые люди и захватывающие идеи
-* Интересный и совершенно новый опыт
-* Меньше ограничений — это не ваш личный твиттер!
-* Вы получите технические и общие вопросы, которые люди могут стесняться
-  спросить в вашем твиттере
-* Это почётно и это состязание среди авторов
-* Это весело
+* New subscribers from your target audience
+* Get all of your experience together. Check if it's similar to other PMMs
+* New people, new ideas, new things
+* A new and unique experience
+* Add an archive of your week to your Linkedin profile
+* Visibility among the community
+* It's cool to be an author
 
-## Следует ли мне подготовить план для моей недели?
+## Why do you need it?
 
-— TL;DR: следует. Опыт подсказывает, что лучше иметь план, чем нет.
-На самом деле вам не нужен план, как таковой — подойдёт список тем,
-которые вы хотите обсудить. Планирование сильно и положительно влияет
-как на читателей, так и на авторов. Идеально иметь по 1 крупной теме на каждый день и опубликовать их первым сообщением.
+For the same reason as any other public activity:
 
-## Буду ли я раздражен необходимостью отвечать на вопросы?
+- You will promote your personal brand and get new subscribers
+- Get feedback from the followers on your ideas, get tips
+- Meet new people from the industry
+- Organize your thoughts on different topics, which can help you in preparations for articles or talks 
+- Help someone to become better or not make your mistakes
+- Have fun
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи [@{{underhood.name}}][twitterhood].
-Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
-Само собой не нужно кормить троллей.
+## What should you prepare for your week?
 
-## Какие есть популярные темы для обсуждения с читателями?
+— Tl;DR. It's better to have a plan in advance. You don't have to prepare everything, but a list of topics you want to discuss might be enough. 
+Ideally, you should have a list of topics for a week and publish it on your first day.
 
-Пройдитесь по авторам с главной страницы. У большинства расписание указано одним из первых сообщений. Не бойтесь повториться с темой – в этом нет ничего страшного, ведь ваш опыт различается.
+## What are the most popular topics that you can cover?
 
-## Как стать автором?
+You can talk about anything you want related to Product Marketing. You can check what did other authors talk about. Check the first tweet of each author with their plan for a week.
 
-— [Напишите в твиттер {{curator.twitter}}][twitterhood], если хотите вести твиттер одну неделю или
-если хотите предложить кого-то на место автора
+## How can you become an author?
 
-## Этикет
+— [DM {{curator.twitter}}][natasha.katson], or email pmmunderhood@gmail.com if you want to become an author or know 
+ anyone who can be an author of the week. 
 
-Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
-или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@{{underhood.name}}][twitterhood]
+## Code of conduct
 
-Если вы заметили нарушение, как можно скорее напишите [{{curator.twitter}}][twitterhood].
+Please respect different opinions, be polite, and don't be rude. Be professional; consider your week a product that you market.
+We do not tolerate harassment in any form. Harassment includes offensive comments related to gender, gender identity and expression, 
+age, sexual orientation, disability, body size, race, ethnicity, religion, technology choices, sexual images.
 
-[twitterhood]: https://twitter.com/{{underhood.name}}
+Please contact [{{curator.twitter}}][natasha.katson] if you see that the rules are ignored.
+
+[twitterhood]: https://twitter.com/{{pmmunderhood}}

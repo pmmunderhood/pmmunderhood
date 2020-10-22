@@ -1,25 +1,21 @@
 {{underhood.description}}
 
-Интересный аналог Reddit "спроси-меня-что-угодно", но в твиттере и конечно же,
-с новыми функциями. Возможность читать и обсуждать противоречивые и важные
-вопросы с еженедельно меняющимися авторами.
+Shared Twitter is a platform where different people from the industry share their personal experiences. The concept is simple - every week, 
+the account has a new author who reveals a new topic every day through a series of tweets and conversations with the followers.
+A shared account lets you exchange knowledge with industry experts and learn new things about industry insights.
+It’s similar to “ask-me-anything” on Reddit. 
 
-## Какие плюсы?
 
-* Критическое мышление: каждый автор уникален, поэтому встреченные мысли,
-  могут отличаться, как небо и земля
-* Зона комфорта: {{underhood.name}} будет периодически выводить вас из неё
-* Новое: вы будете открывать новые тренды, интересные вещи и людей
-* "Случайный режим": это похоже на случайную песню на радио, вы определённо
-  найдёте что-то интересное для себя, что никогда бы в ином случае не нашли
-* Опыт: авторы могут делиться свои многолетним опытом
-* Сдвиг парадигмы мышления: авторы могут делиться своими мыслями
-  и приёмами работы, которые кардинально отличаются от ваших
-* Легко общаться с автором, потому что это двухсторонний канал связи
-* Это весело
+## What thare the benefits?
 
-Подписывайтесь на [@{{underhood.name}}][uh] в твиттере.
+* Experience: each author is unique and comes with their own experience.
+* Broadening the horizons: you’ll discover new trends and meet interesting people.
+* The shift of your habits: authors can have work methods that are fundamentally different from yours.
+* The authors can easily communicate with the participants.
+* Personal brand: as an author, you share your professional expertise with the community.
 
-PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)
+Follow [@{{pmmunderhood}}][uh] on Twitter.
 
-[uh]: https://twitter.com/{{underhood.name}}
+P.S. There are some other shared accounts on Twitter. You can find the full list in [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)
+
+[uh]: https://twitter.com/{{pmmunderhood}}

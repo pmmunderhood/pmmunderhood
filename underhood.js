@@ -1,7 +1,7 @@
 const name = "pmmunderhood"
 const site = "pmmunderhood.com"
 
-const description = "Shared twitter account for Product Marketing Managers"
+const description = "Shared Twitter account for Product Marketing Managers"
 
 module.exports = {
   "underhood": {

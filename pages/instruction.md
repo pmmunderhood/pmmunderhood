@@ -1,110 +1,100 @@
-## Памятка для автора коллективного твиттера
+## Memo for the author of a shared Twitter account 
 
-Коллективный твиттер – это площадка, на которой разные люди из индустрии делятся своим личным опытом. Концепция простая – каждую неделю у аккаунта новый автор, который каждый день раскрывает какую-то новую тему через серии твитов и общение с подписчиками.
+As an author, you can cover any topics related to Product Marketing. Please read the information on this page before your week.
 
-Вы сами решаете, как много будете писать, какие темы раскрывать, какой тон общения с аудиторией выбрать. На неделю коллективный твиттер становится вашим личным – и ни аудитория, ни куратор не навязывают вам каких-то жестких правил. Все, приведенное ниже – best practices и рекомендации.
+### How much time will it take?
 
-### Зачем это вам?
+It depends. Preparations can take from 5 to 16 hours (or less, or more). It all depends on the topics you want to cover and the number of tweets you want to publish.
 
-За тем же, зачем и любая другая публичная активность:
 
-- Вы прокачаете свой личный бренд и получите новых подписчиков
-- Получите отклик читателей на свои идеи, получите советы
-- Заведете новые знакомства
-- Упорядочите свои собственные мысли по разным темам, что сможет послужить почвой для последующей серии статей или выступлений
-- Повеселитесь и посоревнуетесь с предыдущими авторами
-- Поможете кому-то стать лучше или не совершать ваших ошибок
+### What should you write about?
 
-### Сколько времени займет?
+Write about anything that you find interesting or what you love to do.
 
-Тут все индивидуально и зависит только от вас. Кто-то отделывается парой твитов, кто-то тратит на твиттер весь свой день. Чтобы получить какую-то картинку, я провел опрос среди 31 прошлого автора.
+Here are some ideas:
 
-![Времени в день на ведение аккаунта](https://imgur.com/download/S2sM16r)
-![Времени на подготовку к авторству](https://imgur.com/download/0yVIGvL)
-![Что отнимало больше всего времени](https://imgur.com/download/wi0hc8L)
+- Interesting use cases from your experience (product releases, what went well and wrong; what did you learn).
+- Various lifehacks from your experience.
+- Personal growth: books, webinars, useful resources.
+- Your company: processes, culture (please be careful with NDA).
+- Your general thoughts about the industry.
+- Anything else that you find essential to cover.  
 
-### О чем писать?
+Don't worry if someone already covered the same topic you want to talk about. It's ok, everyone has their own experience.
 
-Главное правило – пишите о том, что вам интересно, даже если это с первого взгляда кажется не форматом. В какие стороны можно покопать:
+### How much should I write?
 
-- Интересные кейсы из практики (как что-то делали и запускали, с какими проблемами сталкивались, чему научились).
-- Фреймворк, методология или технология, в которой вы неплохо разбираетесь.
-- Очевидные и не очень лайфхаки, которым вас научили улицы.
-- Личный рост и развитие – книги, таймменеджмент, путешествия, спорт.
-- Ваша компания – процессы и подходы к разработке, культура.
-- Философия – ваши мысли про что угодно, связанное с индустрией.
-- Что угодно еще, о чем вы можете интересно писать и дискутировать.
+Again, it depends on you and the topics you have chosen. Of course, subscribers are more interested in reading more information - but do what you feel right. During your week, Twitter becomes your personal platform, so you have to decide what impression you want to leave.
 
-Не бойтесь повторяться с темой. Если кто-то уже раскрывал ее до вас, то вы как минимум предоставите еще один взгляд на проблему. Хуже точно не будет :)
+On average, the number of tweets among productive authors goes around 20-30 tweets per day. 
 
-### Как много писать?
+### Other recommendations 
 
-Тут ответ такой же, как и в секции про время – зависит от вас и выбранных вами тем. Подписчикам, конечно, интереснее читать большее количество информации – но решайте сами. На эту неделю твиттер становится вашей личной площадкой, поэтому вам самим надо решать, какое впечатление вы хотите оставить.
+#### Threads
 
-В среднем у продуктивных авторов количество твитов колеблется в районе 20-30 штук в день. Чтобы составить собственное представление – просто полистайте в твиттере последние недели других ведущих.
+Combine a series of tweets on the same topic into threads. Such threads are very convenient to share in other channels, plus it's convenient to read those threads in the Twitter feed.
 
-### Что стоит делать, чтобы было хорошо?
+Please refer to the [documentation](https://help.twitter.com/en/using-twitter/create-a-thread) if you are not familiar with threads .
 
-#### Цепочки твитов
+#### Interact with subscribers
 
-Объединяйте серию твитов по одной теме в цепочки. Такие треды очень удобно шарить в других каналах, плюс у людей с включенной алгоритмической лентой такие твиты не будут перемешиваться.
+People won't comment if you ignore them. Here are some tools that might help:
 
-Подробнее можете почитать в [документации](https://help.twitter.com/en/using-twitter/create-a-thread).
+1. [Like](https://help.twitter
+.com/en/using-twitter/liking-tweets-and-moments) – like comments, tweets, 
+whatever you find interesting.
+2. [Retweet with a quote](https://help.twitter
+.com/en/using-twitter/how-to-retweet) – 
+if you find someones question interesting enough, you can retweet it with 
+the answer and the tweet will appear in everyone's feed. I recommend to use 
+this tool, it makes the content more visible.
+3. [Reply](https://help.twitter.com/en/using-twitter/mentions-and-replies) – 
+Reply to other people's tweets. Please note that few subscribers will see, but it's a useful tool for dialogue. 
+4. [Retweet](https://help.twitter.com/en/using-twitter/how-to-retweet) – if 
+you find some interesing tweet, you can retweet it. For example, someone 
+tweets about you being a cool author :) 
 
-#### Взаимодействуйте с подписчиками
+#### Publish a meta-thread
 
-Люди любят писать не впустую. У вас есть следующие инструменты:
+At the end of the week, you can make another thread and cover the links to all the exciting threads over the past week.
 
-1. [Лайки](https://help.twitter.com/en/using-twitter/liking-tweets-and-moments) – для того, чтобы отмечать интересные и полезные посты. Довольно бесполезный инструмент, можно лайкать хоть все подряд.
-2. [Ретвиты](https://help.twitter.com/en/using-twitter/how-to-retweet) – если чей-то чужой твит кажется вам интересным и важным – ретвитьте его. Он отобразится в ленте у всех подписчиков.
-3. [Реплаи](https://help.twitter.com/en/using-twitter/mentions-and-replies) – ответы на чужие твиты, которые увидят мало подписчиков. По сути, инструмент для диалога. В ленте эти твиты увидят только те люди, которые подписаны на все аккаунты, участвующие в беседе.
-4. [Цитирование (retweet with comment)](https://help.twitter.com/en/using-twitter/how-to-retweet) – ответы на чужие твиты, которые увидят все подписчики. Полезно, когда вы ведете интересную беседу. Используйте этот инструмент почаще.
+#### Share in your social network
 
-#### Делайте метатред
+Do not hesitate to share with your friends that you became an author of the week in your social network. Your friends might be interested in reading about your experience.
 
-В конце недели сделайте еще один тред, в котором в нескольких твитах подряд дайте ссылки на все ваши интересные треды за последнюю неделю. Именно этот твит будет очень удобно шарить всем, с кем вы захотите поделиться результатами своего труда.
+#### Plan for the week
 
-#### Шарьте в своих социалках
+Publish a plan for your week on your first day. Here is [an example]
+(https://twitter.com/pmmunderhood/status/1315621876060901377). It helps subscribers learn in advance what you will be talking about and provide you with some feedback.
 
-Не стесняйтесь рассказать в своих социалочках про то, что вы стали автором коллективного твиттера. Вашим друзьям будет интересно вас почитать.
+#### Your first day
 
-#### Недельный план
+Please use this checklist for your first day:
 
-В свой первый день запостите расписание тем на всю неделю вперед. Вот [пример](https://twitter.com/mobileunderhood/status/1087218272720711680). Это помогает подписчикам заранее оценить, о чем примерно вы будете рассказывать, дать фидбэк.
+1. Change the profile picture and the bio in the profile.
+2. Introduce yourself. Tell about yourself and your company
+3. Publish the plan for the week.
+4. [Pin the tweet](https://twitter.com/twittersupport/status/458707240325615617)
+ with the plan.
 
-#### Первый день
+### What you should not do
 
-В первый день не забудьте пройтись по следующему чек-листу:
+#### 1 day - 1 tweet
 
-1. Поменяйте фото и биографию в профиле
-2. Представьтесь, расскажите о себе и своей компании
-3. [Запиньте твит](https://twitter.com/twittersupport/status/458707240325615617) из пункта 2 в профиле.
-4. Выложите расписание на всю неделю
+You won't cover your thoughts in 280 characters per day, subscribers hope for
+ more insights. 
 
-### Что не надо делать, чтобы не было плохо?
+#### Advertising
 
-#### Не задавайте открытые вопросы
+Do not advertise your products here, please. People come to learn about 
+experience, not the tools.
 
-Аудитории плохо заходят твиты вида "Как вы думаете, за что отвечает senior разработчик?". Используйте вместо этого [опросы](https://help.twitter.com/en/using-twitter/twitter-polls) – в них участвуют гораздо активнее. Если нужен именно текстовый ответ – лучше провоцируйте набросами.
+### What else?
 
-#### 1 день – 1 твит
+> You haven't used Twitter before 
 
-Не, ну если вы уверены, что лаконичность – ваша лучшая сторона, то без проблем. Но я пока не видел, чтобы такая неделя удалась.
+It's ok, don't worry about it. You'll be alright.
 
-#### Реклама
+> You are not sure what to share
 
-А вот прямая реклама у нас запрещена, это единственное правило. Например, подробно рассказывать про ваши вакансии, продавать гаражи, впаривать подписки на свои продукты.
-
-### А что насчет...?
-
-> Я раньше никогда не сидел в Твиттере
-
-Ничего страшного, таких авторов у нас не меньше половины. Там ничего сложного нет, обещаю.
-
-> Зачем твиттер, когда есть телеграм?
-
-В твиттере сильно круче реализованы возможности для живого взаимодействия с аудиторией. Ну и телеграм – это скучно!
-
-> Я скучный, мне не о чем рассказать
-
-У меня нет цели звать на роль ведущих только звезд сообщества. У всех есть, чем поделиться – просто расскажите, как проходят ваши обычные дни. Не стесняйтесь, людям интересен любой опыт!
+Everyone has something to share - just tell us how your regular days go. Don't be shy, people are interested in any experience!
