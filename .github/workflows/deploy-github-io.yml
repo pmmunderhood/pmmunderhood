@@ -28,14 +28,6 @@ jobs:
         npm ci
         npm run build
         
-    - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
-      with:
-        # Artifact name
-        name: static-website
-        # A file, directory or wildcard pattern that describes what to upload
-        path: project/dist/
-
     - name: Checkout ghpages repo
       uses: actions/checkout@v2
       with:
@@ -46,10 +38,8 @@ jobs:
     - name: Remove all files from repo
       run: git rm -r .
       working-directory: ./github.io
-   
     
     - name: Copy dist to github.io repo
-#       run: cp -r project/dist/ github.io
       run: cp -a project/dist/. github.io/
 
     - name: Commit and Push to pmmunderhood.github.io
