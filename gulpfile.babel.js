@@ -115,7 +115,7 @@ const about = () => {
     .pipe(
       jade({
         locals: Object.assign({}, article, {
-          title: 'О проекте',
+          title: 'About',
           url: 'about/',
           helpers: { bust },
         }),
@@ -135,7 +135,7 @@ const forAuthors = () => {
     .pipe(
       jade({
         locals: Object.assign({}, article, {
-          title: 'Авторам',
+          title: 'Become an author',
           url: 'authoring/',
           helpers: { bust },
         }),
@@ -155,7 +155,7 @@ const instruction = () => {
     .pipe(
       jade({
         locals: Object.assign({}, article, {
-          title: 'Автору',
+          title: 'Memo for the author',
           url: 'instruction/',
           helpers: { bust },
         }),

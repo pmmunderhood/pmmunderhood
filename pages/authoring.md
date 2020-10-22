@@ -32,7 +32,7 @@ You can talk about anything you want related to Product Marketing. You can check
 
 ## How can you become an author?
 
-— DM [natasha.katson](https://twitter.com/natashakatson), or email 
+— DM [NatashaKatson](https://twitter.com/natashakatson), or email 
 [pmmunderhood@gmail.com](mailto:pmmunderhood@gmail.com) if you want to become an author or know anyone who can be an author of the week. 
 
 ## Code of conduct

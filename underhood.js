@@ -13,11 +13,11 @@ module.exports = {
     repo: "pmmunderhood"
   },
   "curator": {
-    email: "pmmunderhood@gmail.com  ",
+    email: "pmmunderhood@gmail.com",
     twitter: "NatashaKatson",
   },
   "site": {
-    "title": "@" + name,
+    "title": name,
     "description": description,
     // TODO: RSS "feed_url": "https://" + site + "/rss.xml",
     "site_url": "https://" + site + "/",

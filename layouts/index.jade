@@ -21,7 +21,7 @@ block content
             span.author__info
               span.author__headline.small The author of this week is
               h2.author__username= "@" + currentAuthor.username
-              if currentAuthor.info.location
+              //- if currentAuthor.info.location
                 span.small
                   span.glyphicon.glyphicon-map-marker
                   = " " + currentAuthor.info.location
@@ -38,7 +38,7 @@ block content
                 != " &ndash; "
                 = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at)
               h2.author__username= "@" + author.username
-              if author.info.location
+              //- if author.info.location
                 span.small
                   span.glyphicon.glyphicon-map-marker
                   = " " + author.info.location
