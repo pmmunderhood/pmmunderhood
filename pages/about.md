@@ -1,5 +1,3 @@
-{{underhood.description}}
-
 Shared Twitter is a platform where different people from the industry share their personal experiences. The concept is simple - every week, 
 the account has a new author who reveals a new topic every day through a series of tweets and conversations with the followers.
 A shared account lets you exchange knowledge with industry experts and learn new things about industry insights.
