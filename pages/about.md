@@ -6,7 +6,7 @@ A shared account lets you exchange knowledge with industry experts and learn new
 It’s similar to “ask-me-anything” on Reddit. 
 
 
-## What thare the benefits?
+## What are the benefits?
 
 * Experience: each author is unique and comes with their own experience.
 * Broadening the horizons: you’ll discover new trends and meet interesting people.
