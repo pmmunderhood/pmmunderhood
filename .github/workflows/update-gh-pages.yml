@@ -1,0 +1,55 @@
+name: Update gh-pages
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [12.x]
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        path: project
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Run build on npm setup
+      working-directory: ./project
+      run: |
+        npm ci
+        npm run build
+
+    - name: Checkout ghpages repo
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        path: gh-pages
+        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
+    - name: Remove all files from repo
+      run: git rm -r .
+      working-directory: ./gh-pages
+    
+    - name: Copy dist to gh-pages
+      run: cp -a project/dist/. gh-pages/
+      
+    - name: Commit and Push to gh-pages
+      working-directory: ./gh-pages # Make failable
+      run: | 
+        git add .
+        git config --local user.email "ci@github"
+        git config --local user.name "pmmunderhood"
+        (git commit -m "Update gh-pages $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/pmmunderhood/pmmunderhood gh-pages) || echo "Nothing to commit"
+      env:
+        REPO_OWNER: ${{ secrets.repository_owner }}
+        CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+
