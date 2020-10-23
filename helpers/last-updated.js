@@ -13,7 +13,7 @@ const timestamp = (() => {
 const date = moment.unix(timestamp);
 
 function lastUpdated() {
-  return date.locale('ru').format('D MMMM в H:mm');
+  return date.locale('en').format('D MMMM at H:mm');
 }
 
 lastUpdated.raw = timestamp;

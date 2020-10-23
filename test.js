@@ -6,7 +6,7 @@ import { head } from 'ramda';
 import authors from './helpers/input-authors';
 
 const latestInfo = head(authors).info;
-const numbers = input => typeNumbers(input, { locale: 'ru' });
+const numbers = input => typeNumbers(input, { locale: 'en' });
 const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 
 describe('index page', () => {

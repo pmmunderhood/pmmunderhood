@@ -41,8 +41,8 @@ const jadeDefaults = {
     underhood,
     github,
     curator,
-    numbers: (input) => numbers(input, { locale: 'ru' }),
-    people: numd('человек', 'человека', 'человек'),
+    numbers: (input) => numbers(input, { locale: 'en' }),
+    people: numd('people', 'people', 'people'),
   },
 };
 
@@ -109,7 +109,7 @@ const stats = () => {
 const about = () => {
   let readme = fs.readFileSync('./pages/about.md', { encoding: 'utf8' });
   readme = replaceMd(readme);
-  const article = articleData(readme, 'D MMMM YYYY', 'ru');
+  const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
     .src('layouts/article.jade')
     .pipe(
@@ -129,7 +129,7 @@ const about = () => {
 const forAuthors = () => {
   let readme = fs.readFileSync('./pages/authoring.md', { encoding: 'utf8' });
   readme = replaceMd(readme);
-  const article = articleData(readme, 'D MMMM YYYY', 'ru');
+  const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
     .src('layouts/article.jade')
     .pipe(
@@ -149,7 +149,7 @@ const forAuthors = () => {
 const instruction = () => {
   let readme = fs.readFileSync('./pages/instruction.md', { encoding: 'utf8' });
   readme = replaceMd(readme);
-  const article = articleData(readme, 'D MMMM YYYY', 'ru');
+  const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
     .src('layouts/article.jade')
     .pipe(
@@ -177,7 +177,7 @@ const authorsArchives = (done) => {
           jade({
             pretty: true,
             locals: {
-              title: `Неделя @${author.username} в @${site.title}`,
+              title: `@${author.username}'s week at @${site.title}`,
               author,
               helpers: { authorRender, bust },
             },

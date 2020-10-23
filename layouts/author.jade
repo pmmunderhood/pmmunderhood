@@ -155,7 +155,7 @@ block content
             .tweets(id="links")
               .tweets--header.text-left(id="links")
                 .tweets--weekday
-                  .h2= "Ссылки"
+                  .h2= "Links"
 
               each group in helpers.authorRender.getLinks(author.tweets)
                 .h3= group.host
@@ -179,7 +179,7 @@ block content
 
                   li.tweets--weekday
                     a.h3(href="#links")
-                      = " Ссылки"
+                      = " Links"
 
       - var prev = helpers.authorRender.prevAuthor(author);
       - var next = helpers.authorRender.nextAuthor(author);
