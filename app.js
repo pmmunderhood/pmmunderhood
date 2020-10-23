@@ -173,7 +173,7 @@
 	
 	    var lastUpdated = $('.js-last-updated');
 	    var timestamp = lastUpdated.getAttribute('data-timestamp');
-	    lastUpdated.textContent = moment.unix(timestamp).locale('ru').fromNow();
+	    lastUpdated.textContent = moment.unix(timestamp).locale('en').fromNow();
 	  }.apply(null, __WEBPACK_AMD_REQUIRE_ARRAY__));});
 	}
 
