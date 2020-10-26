@@ -35,8 +35,9 @@ jobs:
           TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
           TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-      - run: git add .
-      - run: git config --local user.email "ci@github"
-      - run: git config --local user.name "pmmunderhood"
-      - run: git commit -m 'Update authors'
-      - run: git push
+      - run: |
+          git add .
+          git config --local user.email "ci@github"
+          git config --local user.name "pmmunderhood"
+          git commit -m 'Update authors'
+          git push

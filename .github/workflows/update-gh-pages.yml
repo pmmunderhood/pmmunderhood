@@ -33,7 +33,6 @@ jobs:
       with:
         ref: gh-pages
         path: gh-pages
-        token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
     - name: Remove all files from repo
       run: git rm -r .
@@ -43,13 +42,10 @@ jobs:
       run: cp -a project/dist/. gh-pages/
       
     - name: Commit and Push to gh-pages
-      working-directory: ./gh-pages # Make failable
+      working-directory: ./gh-pages
       run: | 
         git add .
         git config --local user.email "ci@github"
         git config --local user.name "pmmunderhood"
-        (git commit -m "Update gh-pages $(date)"; git push https://$REPO_OWNER:$CUSTOM_GITHUB_TOKEN@github.com/pmmunderhood/pmmunderhood gh-pages) || echo "Nothing to commit"
-      env:
-        REPO_OWNER: ${{ secrets.repository_owner }}
-        CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
+        (git commit -m "Update gh-pages $(date)"; git push origin gh-pages) || echo "Nothing to commit"
 
