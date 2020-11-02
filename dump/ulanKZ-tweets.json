@@ -1,0 +1,592 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 02 10:13:13 +0000 2020",
+      "id": 1323206520784507000,
+      "id_str": "1323206520784506881",
+      "full_text": "Hi folks! My name is Ulan Karazhigitov and this week I will be sharing my thoughts and experience for PMMs. I was doing Product marketing at @Microsoft last 4 years in multi country region (24 countries, Central and Eastern Europe). I am currently based in Almaty, Kazakhstan.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Microsoft",
+            "name": "Microsoft",
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              141,
+              151
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:25:29 +0000 2020",
+      "id": 1323209608308138000,
+      "id_str": "1323209608308137984",
+      "full_text": "Plan for the week:\nDay 1. How to get job offer from Microsoft. Hiring process.\n2. Roles and responsibilities within Marketing and Operations team.\n3. Success criteria of the role, scorecard metrics How PMMs are being evaluated \n4. Exit opportunities and career development",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:27:20 +0000 2020",
+      "id": 1323210074421121000,
+      "id_str": "1323210074421121024",
+      "full_text": "5. Why Change management is the crucial part of adoption of your product or service.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323209608308138000,
+      "in_reply_to_status_id_str": "1323209608308137984",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:38:16 +0000 2020",
+      "id": 1323212828006850600,
+      "id_str": "1323212828006850562",
+      "full_text": "Here is my linkedin profile - https://t.co/ONAJTjmAJ0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ONAJTjmAJ0",
+            "expanded_url": "https://www.linkedin.com/in/ulankz/",
+            "display_url": "linkedin.com/in/ulankz/",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323206520784507000,
+      "in_reply_to_status_id_str": "1323206520784506881",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:41:34 +0000 2020",
+      "id": 1323213654536425500,
+      "id_str": "1323213654536425473",
+      "full_text": "Let's start. Hiring process at Microsoft (MS).\nThere are thousands of applicants sending their CVs to MS' recruiters for each opened role, which resulting in MILLIONS of CV every year.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:43:24 +0000 2020",
+      "id": 1323214119500189700,
+      "id_str": "1323214119500189697",
+      "full_text": "CEO Satya Nadella once said: \"I was lucky to join Microsoft in 90s, because I am not confident that with nowadays tough competition in labor market I could pass even the screening phase\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323213654536425500,
+      "in_reply_to_status_id_str": "1323213654536425473",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:50:37 +0000 2020",
+      "id": 1323215935990321200,
+      "id_str": "1323215935990321157",
+      "full_text": "Generally, there are 3 options:\n1. submit your CV via careers site (almost no chance 😂)\n2. if you are fresh grad - apply thru special programs: one for bachelors, another for Masters\\MBAs \n3. referral thru personal contacts at the company",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323214119500189700,
+      "in_reply_to_status_id_str": "1323214119500189697",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:54:31 +0000 2020",
+      "id": 1323216916497006600,
+      "id_str": "1323216916497006600",
+      "full_text": "1. Career site. Imagine you are recruiter and you have 1K+ cv landed into system and you have only 7 days to pick the first list. AND you always have several roles opened simultaneously. Even with the help of AI algorithm it's impossible to go thru each application.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323215935990321200,
+      "in_reply_to_status_id_str": "1323215935990321157",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 10:57:20 +0000 2020",
+      "id": 1323217626240266200,
+      "id_str": "1323217626240266240",
+      "full_text": "So, recruiters will only see internal candidates or ex MS (alumni) and people with more or less similar experience from other well known competitors and organizations. Career site is literally a lottery with the very small chance to land you even 1st round of interviews.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323216916497006600,
+      "in_reply_to_status_id_str": "1323216916497006600",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:13:38 +0000 2020",
+      "id": 1323221724570259500,
+      "id_str": "1323221724570259456",
+      "full_text": "2. Fresh grad/MBA. That was my option 4 years ago. I was doing Full Time MBA from @DukeFuqua at Nazarbayev University and HRs from Microsoft picked our cohort. There is special program called MACH (ms academic college hires) now being renamed to ASPIRE. I applied and won :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DukeFuqua",
+            "name": "Duke Fuqua",
+            "id": 61297162,
+            "id_str": "61297162",
+            "indices": [
+              82,
+              92
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323217626240266200,
+      "in_reply_to_status_id_str": "1323217626240266240",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:16:29 +0000 2020",
+      "id": 1323222443163586600,
+      "id_str": "1323222443163586561",
+      "full_text": "3. Referral. This one may get you directly to hiring manager, skipping recruiter. Formally, you still will follow formal process, but it will take far less time period. Moreover, if you will be hired, then your referral will get nice cash bonus for successful recommendation.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323221724570259500,
+      "in_reply_to_status_id_str": "1323221724570259456",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:23:28 +0000 2020",
+      "id": 1323224202858684400,
+      "id_str": "1323224202858684419",
+      "full_text": "Overall recruiting process takes from 3 weeks to several month. For me it was 2 last month of MBA program.\nStages:\n1. recruiters\n2. hiring manager\n3. team members\n4. Manager's manager/country manager\n5. close collaborators\nProcess may vary from role to role.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323222443163586600,
+      "in_reply_to_status_id_str": "1323222443163586561",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:27:33 +0000 2020",
+      "id": 1323225226679931000,
+      "id_str": "1323225226679930883",
+      "full_text": "Given the amount of applicants you have to be ready and do a homework to successfully pass the round. Read, get in touch with insiders, be aware of essential points of the role. Be prepared. You may get situational case-like question. i.e launch of new product etc.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323224202858684400,
+      "in_reply_to_status_id_str": "1323224202858684419",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:29:26 +0000 2020",
+      "id": 1323225703152820200,
+      "id_str": "1323225703152820224",
+      "full_text": "If it's role for specific region (CIS, russian speaking countries in my case) than you also should be aware of local market situation, key competitors, some penetration and adoption rates per countries.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323225226679931000,
+      "in_reply_to_status_id_str": "1323225226679930883",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 02 11:30:25 +0000 2020",
+      "id": 1323225950960627700,
+      "id_str": "1323225950960627713",
+      "full_text": "That's it for today. Don't hesitate to post you reactions and questions :) Have a nice day. Stay tuned!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323225703152820200,
+      "in_reply_to_status_id_str": "1323225703152820224",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
