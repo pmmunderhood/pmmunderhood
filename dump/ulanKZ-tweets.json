@@ -587,6 +587,2057 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 11:08:49 +0000 2020",
+      "id": 1323582900097474600,
+      "id_str": "1323582900097474560",
+      "full_text": "Happy 2nd Day! Roles and responsibilities within the Marketing team (at Microsoft subsidiary). It differs form market to market, so I'll share experience from Central and Eastern region, ok?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 11:22:08 +0000 2020",
+      "id": 1323586255159001000,
+      "id_str": "1323586255159001095",
+      "full_text": "PMMs are part of Product Business group (BG) - Cloud BG Lead responsible for Azure products, Modern Workplace - for Windows, Office365 and Security. BG Lead - manager for PMMs. Marketing director - manager of BG Leads.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323582900097474600,
+      "in_reply_to_status_id_str": "1323582900097474560",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 11:29:04 +0000 2020",
+      "id": 1323587999746195500,
+      "id_str": "1323587999746195456",
+      "full_text": "Product marketers may vary in customer segments -enterprise, smb, corporate, \nindustries - banking, retail, oil &amp; gas, mining etc\nproducts - productivity, security, Data and AI etc.\nHence, there are different expectations from the PMM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323586255159001000,
+      "in_reply_to_status_id_str": "1323586255159001095",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 11:30:51 +0000 2020",
+      "id": 1323588448419270700,
+      "id_str": "1323588448419270656",
+      "full_text": "Sometimes experience in given segment or industry is more relevant than product knowledge per se. Especially in highly regulated sectors like Finance or Public sector.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323587999746195500,
+      "in_reply_to_status_id_str": "1323587999746195456",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 11:40:51 +0000 2020",
+      "id": 1323590962233356300,
+      "id_str": "1323590962233356288",
+      "full_text": "BGs and PMMs partly responsible for both - revenue/sales and product adoption and usage. This unit is developing product strategy in given market. Key collaborators are MarComs (marketing communication managers) and Sales unit. Marcoms are execution power.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323588448419270700,
+      "in_reply_to_status_id_str": "1323588448419270656",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 12:49:52 +0000 2020",
+      "id": 1323608333195108400,
+      "id_str": "1323608333195108353",
+      "full_text": "As we discovered org structure a bit, let's move to  PMM role. PMM is at heart of product, market, developers and clients.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 12:57:30 +0000 2020",
+      "id": 1323610252227600400,
+      "id_str": "1323610252227600384",
+      "full_text": "Product feedback to core engineering team. PMMs are customer facing role. We know customer feedback from the day 1 and if it significant enough we are delivering customer's needs and pain points to developers. As an example, look at MS Teams during pandemic period.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323608333195108400,
+      "in_reply_to_status_id_str": "1323608333195108353",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 12:59:50 +0000 2020",
+      "id": 1323610840453570600,
+      "id_str": "1323610840453570560",
+      "full_text": "A lot of educators and K12 orgs switched to distance learning mode, but Edu as the segment wasn't core audience for Teams. But given high importance of the continuation of edu proccess, MS reprioritized roadmap to edu users and now there are a lot of pure edu functionality.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323610252227600400,
+      "in_reply_to_status_id_str": "1323610252227600384",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:01:43 +0000 2020",
+      "id": 1323611316276383700,
+      "id_str": "1323611316276383748",
+      "full_text": "vast majority of feedback came from PMMs, because PMMs were first to react and deliver workshops to edu orgs. Our main goal is always deliver value to customer, therefore we listen carefully to their experiences.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323610840453570600,
+      "in_reply_to_status_id_str": "1323610840453570560",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:07:14 +0000 2020",
+      "id": 1323612700660871200,
+      "id_str": "1323612700660871171",
+      "full_text": "Market. Sometimes there are market blockers and other obstacles i.e regulations and industry  legislation. In such cases PMMs may drive either clear explanation of use cases from govt entities or policy changes, working closely with consultants and experts.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323611316276383700,
+      "in_reply_to_status_id_str": "1323611316276383748",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:08:50 +0000 2020",
+      "id": 1323613105763553300,
+      "id_str": "1323613105763553281",
+      "full_text": "Here is example from my experience... oh stop. I am under NDA. Let's skip it 🤣",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323612700660871200,
+      "in_reply_to_status_id_str": "1323612700660871171",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:11:56 +0000 2020",
+      "id": 1323613885996376000,
+      "id_str": "1323613885996376064",
+      "full_text": "One of the core area for PMM - to extract value from product to customer. We are segmenting customers, roles (HR, CFO, C-level, BDMs, etc). Next step is to develop go to market strategy via various channels and activities. After budgets are set and potential return estimated...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323613105763553300,
+      "in_reply_to_status_id_str": "1323613105763553281",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:13:14 +0000 2020",
+      "id": 1323614214632673300,
+      "id_str": "1323614214632673280",
+      "full_text": "... PMM starts to work with sales team to pick right stakeholders on customer side to deliver appropriate message and MarComs to execute the motion.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323613885996376000,
+      "in_reply_to_status_id_str": "1323613885996376064",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 03 13:13:55 +0000 2020",
+      "id": 1323614383998668800,
+      "id_str": "1323614383998668802",
+      "full_text": "Day 2 is finished. Happy to answer to your questions!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323614214632673300,
+      "in_reply_to_status_id_str": "1323614214632673280",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:24:33 +0000 2020",
+      "id": 1323964350399422500,
+      "id_str": "1323964350399422465",
+      "full_text": "Hello! Day 3. Success criteria and and KPIs.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:31:51 +0000 2020",
+      "id": 1323966184497287200,
+      "id_str": "1323966184497287169",
+      "full_text": "Microsoft uses mix of CBI and RBI incentives. CBI stands for \"Commitment based incentives\" and RBI - revenue based incentives.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:35:44 +0000 2020",
+      "id": 1323967163925958700,
+      "id_str": "1323967163925958658",
+      "full_text": "CBI is subject of the initial discussion with direct manager. It may affect any business related objectives except sales targets. i.e adoption of specific sophisticated workload or newly introduced feature.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323966184497287200,
+      "in_reply_to_status_id_str": "1323966184497287169",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:41:24 +0000 2020",
+      "id": 1323968588479344600,
+      "id_str": "1323968588479344641",
+      "full_text": "CBI is always related to emerging products and services. When product becomes more popular and started to grow organically PMMs are no longer put their efforts and investments to any Go-to-market or other activities.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323967163925958700,
+      "in_reply_to_status_id_str": "1323967163925958658",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:43:41 +0000 2020",
+      "id": 1323969165493981200,
+      "id_str": "1323969165493981184",
+      "full_text": "CBI is also called Scorecard metrics and may include penetration of the product, usage of particular feature (Teams meeting appointments in Enterprise segment for example).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323968588479344600,
+      "in_reply_to_status_id_str": "1323968588479344641",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 12:47:03 +0000 2020",
+      "id": 1323970010621059000,
+      "id_str": "1323970010621059074",
+      "full_text": "RBI. PMMs co-responsible for overall sales level of covered product group. Not pure sales, but right product with correct split of users to appropriate customer segment. There is always trade-off between sales team who wants to sell more and PMM whose goal to sell RIGHT.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 13:10:39 +0000 2020",
+      "id": 1323975950590218200,
+      "id_str": "1323975950590218240",
+      "full_text": "In the end, PMM is co-owning the product from sales perspective, helping sales team in every possible way to showcase value to the customer's stakeholders.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1323970010621059000,
+      "in_reply_to_status_id_str": "1323970010621059074",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 13:14:15 +0000 2020",
+      "id": 1323976856530505700,
+      "id_str": "1323976856530505728",
+      "full_text": "In SaaS economy there is no long term sense to sell product which customer don't want and don't know how to use. In return, you'll never get renewal of subscription for the next period. Increase of LTV (lifetime value) is the key criteria of PMM success.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 16:47:13 +0000 2020",
+      "id": 1324030450180989000,
+      "id_str": "1324030450180988933",
+      "full_text": "Well, as I was in interview role once, I can share smth here :) For each role interviewer has set of skills s/he needs to check and verify. HR IT platform provides list of questions which can help you determine whether candidate good enough or not yet. https://t.co/MztF9Naw4P",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MztF9Naw4P",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1323228137879183363",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              253,
+              276
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1323228137879183400,
+      "quoted_status_id_str": "1323228137879183363",
+      "quoted_status_permalink": {
+        "url": "https://t.co/MztF9Naw4P",
+        "expanded": "https://twitter.com/NatashaKatson/status/1323228137879183363",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Nov 02 11:39:07 +0000 2020",
+        "id": 1323228137879183400,
+        "id_str": "1323228137879183363",
+        "full_text": "@pmmunderhood Could you please share more about the interview process? What do they ask?General questions about your experience? Or do they have some tricky cases to solve? Also, do they give a test assignment?",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          210
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pmmunderhood",
+              "name": "Product Marketing Underhood",
+              "id": 1252951365619507200,
+              "id_str": "1252951365619507200",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1323225226679931000,
+        "in_reply_to_status_id_str": "1323225226679930883",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 16:49:38 +0000 2020",
+      "id": 1324031059718230000,
+      "id_str": "1324031059718230019",
+      "full_text": "for PMMs besides general HR questions there might be smth like a case - launching new product in given circumstances. Candidate has to prove ability either to be a good executor or strategic thinker. Ideally - both.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324030450180989000,
+      "in_reply_to_status_id_str": "1324030450180988933",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 16:51:25 +0000 2020",
+      "id": 1324031506906550300,
+      "id_str": "1324031506906550274",
+      "full_text": "No assignments in general, but it's a good sign if candidate prepared summary for key areas (market analysis, competitors overview etc) depending on the role.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324031059718230000,
+      "in_reply_to_status_id_str": "1324031059718230019",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 16:54:28 +0000 2020",
+      "id": 1324032273793077200,
+      "id_str": "1324032273793077250",
+      "full_text": "Sure. There is regular sync ups between core corp product team and field subsidiaries. Subs know full roadmap T+12m (for 1 year ahead). Part of the roadmap under NDA and might be shared with top customers only, so they can plan changes accordingly and in timely fashion manner. https://t.co/VVEDXh4eR2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VVEDXh4eR2",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1323597905991766020",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              278,
+              301
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1323597905991766000,
+      "quoted_status_id_str": "1323597905991766020",
+      "quoted_status_permalink": {
+        "url": "https://t.co/VVEDXh4eR2",
+        "expanded": "https://twitter.com/NatashaKatson/status/1323597905991766020",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Nov 03 12:08:26 +0000 2020",
+        "id": 1323597905991766000,
+        "id_str": "1323597905991766020",
+        "full_text": "@pmmunderhood Do those PMMs communicate with the product team at all?",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          69
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pmmunderhood",
+              "name": "Product Marketing Underhood",
+              "id": 1252951365619507200,
+              "id_str": "1252951365619507200",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1323588448419270700,
+        "in_reply_to_status_id_str": "1323588448419270656",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 17:04:04 +0000 2020",
+      "id": 1324034691490599000,
+      "id_str": "1324034691490598913",
+      "full_text": "Customers themselves may submit request for new functionality or give feedback to the product team. PMM can reinforce this message and uplift priority for particular ask.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324032273793077200,
+      "in_reply_to_status_id_str": "1324032273793077250",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 17:09:28 +0000 2020",
+      "id": 1324036050633789400,
+      "id_str": "1324036050633789441",
+      "full_text": "One size doesn't fits all. There is no silver bullet to satisfy each of customer request. If PMM/company can't increase LTV with specific client, then maybe it's not your best customer. Totally OK to put your efforts to the most impactful area and not to waste time with others. https://t.co/v4YurUrbs3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v4YurUrbs3",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1324004707535343621",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              279,
+              302
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1324004707535343600,
+      "quoted_status_id_str": "1324004707535343621",
+      "quoted_status_permalink": {
+        "url": "https://t.co/v4YurUrbs3",
+        "expanded": "https://twitter.com/NatashaKatson/status/1324004707535343621",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Nov 04 15:04:55 +0000 2020",
+        "id": 1324004707535343600,
+        "id_str": "1324004707535343621",
+        "full_text": "@pmmunderhood And what about those PMMs who don’t have “an access” to their products? I wonder how they can influence LTV",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          121
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pmmunderhood",
+              "name": "Product Marketing Underhood",
+              "id": 1252951365619507200,
+              "id_str": "1252951365619507200",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1323976856530505700,
+        "in_reply_to_status_id_str": "1323976856530505728",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 04 17:12:20 +0000 2020",
+      "id": 1324036773077463000,
+      "id_str": "1324036773077463041",
+      "full_text": "Have a nice day ahead! Looking forward for a new topic tomorrow.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:15:16 +0000 2020",
+      "id": 1324324401505067000,
+      "id_str": "1324324401505067009",
+      "full_text": "hi! Day 4 dedicated to exit opportunities and career development for Product marketing managers.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        96
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:35:32 +0000 2020",
+      "id": 1324329501699018800,
+      "id_str": "1324329501699018753",
+      "full_text": "At Microsoft PMMs are working pretty closely with:\n1. sales team\n2. Product \n3. Partner ecosystem\n4. BDMs, IT Pros and C-suite from customer side\n\nEach area fits well into PMM's career development plan.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:37:25 +0000 2020",
+      "id": 1324329975982555100,
+      "id_str": "1324329975982555138",
+      "full_text": "When your employer is International or even global company it is easier to find a new career opportunity in new geography. Relocation within your current role is 2nd option.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324329501699018800,
+      "in_reply_to_status_id_str": "1324329501699018753",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:39:33 +0000 2020",
+      "id": 1324330512207458300,
+      "id_str": "1324330512207458306",
+      "full_text": "3rd option is to get a raise and promotion. PMM may become Business group leader expanding geo coverage.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324329975982555100,
+      "in_reply_to_status_id_str": "1324329975982555138",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:40:15 +0000 2020",
+      "id": 1324330689202970600,
+      "id_str": "1324330689202970627",
+      "full_text": "and 4th one is to do the same work, but with other product. We call it horizontal move.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324330512207458300,
+      "in_reply_to_status_id_str": "1324330512207458306",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 05 12:48:44 +0000 2020",
+      "id": 1324332822753063000,
+      "id_str": "1324332822753062912",
+      "full_text": "The role of PMM requires deep knowledge in marketing, business acumen, excellent communication and overall soft skills. Adding here maturity and experience in different industries makes PMM desirable candidate on a workforce market. Good luck and break a leg in your endeavors .",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 04:54:16 +0000 2020",
+      "id": 1324575805096272000,
+      "id_str": "1324575805096271872",
+      "full_text": "It's definitely a big PLUS for candidate, but if outsider joins a team with overall suitable work experience then it's just a matter of ability to learn new thing fast. https://t.co/qVv6HOORRK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qVv6HOORRK",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1324333121702158341",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              169,
+              192
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1324333121702158300,
+      "quoted_status_id_str": "1324333121702158341",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qVv6HOORRK",
+        "expanded": "https://twitter.com/NatashaKatson/status/1324333121702158341",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Nov 05 12:49:55 +0000 2020",
+        "id": 1324333121702158300,
+        "id_str": "1324333121702158341",
+        "full_text": "@pmmunderhood What about deep knowledge of product field? Was it required at Microsoft?",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          87
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pmmunderhood",
+              "name": "Product Marketing Underhood",
+              "id": 1252951365619507200,
+              "id_str": "1252951365619507200",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1324332822753063000,
+        "in_reply_to_status_id_str": "1324332822753062912",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 14:42:19 +0000 2020",
+      "id": 1324723793441554400,
+      "id_str": "1324723793441554434",
+      "full_text": "Last day dedicated to most important topic for product marketing managers which often underestimated - Change management.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 14:45:37 +0000 2020",
+      "id": 1324724623565607000,
+      "id_str": "1324724623565606912",
+      "full_text": "All in all end goal of product driven company is to make their service available for as many customers as possible. In enterprise marketing and sales you may sell you product to a company with 5K users, but if no one is using already purchased product, then you are in trouble.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:11:37 +0000 2020",
+      "id": 1324761368940216300,
+      "id_str": "1324761368940216322",
+      "full_text": "It's never not enough to just sell your product. You need to supervise technical deployment, then adoption and penetration of entire user base. First part is pure tech issue, second - fully related to people's side of changing old hobbits to use new product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324724623565607000,
+      "in_reply_to_status_id_str": "1324724623565606912",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:18:09 +0000 2020",
+      "id": 1324763011396096000,
+      "id_str": "1324763011396096000",
+      "full_text": "Managing the change - key task of every digital transformation. Change of any org is the summary of change of each individual in that org. Therefore, PMM (the one, who's responsible for growing of user base) have to consider ways how to onboard new users.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324761368940216300,
+      "in_reply_to_status_id_str": "1324761368940216322",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:19:03 +0000 2020",
+      "id": 1324763237221630000,
+      "id_str": "1324763237221629953",
+      "full_text": "In terms of Change management Microsoft is partnering with Prosci and uses their ADKAR model. More details here - https://t.co/Ml1X7yY0f9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ml1X7yY0f9",
+            "expanded_url": "https://www.prosci.com/adkar/adkar-model",
+            "display_url": "prosci.com/adkar/adkar-mo…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:23:13 +0000 2020",
+      "id": 1324764284728082400,
+      "id_str": "1324764284728082433",
+      "full_text": "Microsoft is covering certification fee for selected employees. And I think this is one of the best thing you can learn as PMM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324763237221630000,
+      "in_reply_to_status_id_str": "1324763237221629953",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:26:35 +0000 2020",
+      "id": 1324765132887593000,
+      "id_str": "1324765132887592962",
+      "full_text": "The more users using your product in Enterprise grade company, the more chances for your company to up- , cross sell and renew subscription. All of it will increase LTV. Increased LTV directly affects unit economics.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324764284728082400,
+      "in_reply_to_status_id_str": "1324764284728082433",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:31:12 +0000 2020",
+      "id": 1324766294739161000,
+      "id_str": "1324766294739161093",
+      "full_text": "Do not forget that for Enterprise org switching cost to new software is not cheap. Thus,  happy users will create network externality effect making swathing cost higher with every new onboarded user.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324765132887593000,
+      "in_reply_to_status_id_str": "1324765132887592962",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:32:40 +0000 2020",
+      "id": 1324766664278397000,
+      "id_str": "1324766664278396933",
+      "full_text": "Visa versa, if nobody were using your product it would be much easier to replace your service. Change management plays key role of real adoption from end users.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324766294739161000,
+      "in_reply_to_status_id_str": "1324766294739161093",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:35:12 +0000 2020",
+      "id": 1324767302626300000,
+      "id_str": "1324767302626299904",
+      "full_text": "Excellent seller works with limited amount of stakeholders. Successful deal doesn't mean next successful payment. On the other hand, Change management affecting entire user base and may guarantee you happy future with given customer.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324766664278397000,
+      "in_reply_to_status_id_str": "1324766664278396933",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:41:00 +0000 2020",
+      "id": 1324768761556197400,
+      "id_str": "1324768761556197380",
+      "full_text": "Conclusion: faster onboarding with Change management tactics plays greater role than initial sale because it increases chances to make many more repetitive sales for a longer period of time.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1324767302626300000,
+      "in_reply_to_status_id_str": "1324767302626299904",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 06 17:42:23 +0000 2020",
+      "id": 1324769108454498300,
+      "id_str": "1324769108454498305",
+      "full_text": "With that I am saying Bye bye to all followers of this week. Hope you found some of the tweets useful :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
