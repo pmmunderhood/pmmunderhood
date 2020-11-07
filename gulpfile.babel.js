@@ -14,7 +14,7 @@ import pcssInitial from 'postcss-initial';
 import webpack from 'webpack';
 
 import gulp from 'gulp';
-import gulpJade from 'gulp-jade';
+import gulpPug from 'gulp-pug';
 import rename from 'gulp-rename';
 import { log, PluginError } from 'gulp-util';
 import jimp from 'gulp-jimp';
@@ -33,7 +33,7 @@ import replaceMd from './helpers/replace-md';
 import authors from './helpers/input-authors';
 const latestInfo = head(authors).info;
 
-const jadeDefaults = {
+const pugDefaults = {
   pretty: true,
   locals: {
     site,
@@ -47,11 +47,12 @@ const jadeDefaults = {
 };
 
 const getOptions = (opts = {}) =>
-  Object.assign({}, jadeDefaults, opts, {
-    locals: Object.assign({}, jadeDefaults.locals, opts.locals),
+    Object.assign({}, pugDefaults, opts, {
+    data: Object.assign({}, pugDefaults.locals, opts.locals),
   });
 
-const jade = (opts) => gulpJade(getOptions(opts));
+
+const pug = (opts) => gulpPug(getOptions(opts));
 const firstTweet = pipe(prop('tweets'), head);
 const render = pipe(renderTweet, html);
 
@@ -68,9 +69,9 @@ const css = () =>
 const index = () => {
   const authorsToPost = authors.filter((author) => author.post !== false);
   return gulp
-    .src('layouts/index.jade')
+    .src('layouts/index.pug')
     .pipe(
-      jade({
+      pug({
         locals: {
           title: site.title,
           desc: site.description,
@@ -87,11 +88,11 @@ const index = () => {
 const stats = () => {
   const currentAuthor = head(authors.filter((author) => author.post === false));
   return gulp
-    .src('layouts/stats.jade')
+    .src('layouts/stats.pug')
     .pipe(
-      jade({
+      pug({
         locals: {
-          title: `Статистика @${site.title}`,
+          title: `Statistic @${site.title}`,
           url: 'stats/',
           desc: site.description,
           lastUpdated,
@@ -111,9 +112,9 @@ const about = () => {
   readme = replaceMd(readme);
   const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
-    .src('layouts/article.jade')
+    .src('layouts/article.pug')
     .pipe(
-      jade({
+      pug({
         locals: Object.assign({}, article, {
           title: 'About',
           url: 'about/',
@@ -131,9 +132,9 @@ const forAuthors = () => {
   readme = replaceMd(readme);
   const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
-    .src('layouts/article.jade')
+    .src('layouts/article.pug')
     .pipe(
-      jade({
+      pug({
         locals: Object.assign({}, article, {
           title: 'Become an author',
           url: 'authoring/',
@@ -151,9 +152,9 @@ const instruction = () => {
   readme = replaceMd(readme);
   const article = articleData(readme, 'D MMMM YYYY', 'en');
   return gulp
-    .src('layouts/article.jade')
+    .src('layouts/article.pug')
     .pipe(
-      jade({
+      pug({
         locals: Object.assign({}, article, {
           title: 'Memo for the author',
           url: 'instruction/',
@@ -172,9 +173,9 @@ const authorsArchives = (done) => {
     authorsToPost,
     (author) => {
       return gulp
-        .src('./layouts/author.jade')
+        .src('./layouts/author.pug')
         .pipe(
-          jade({
+          pug({
             pretty: true,
             locals: {
               title: `@${author.username}'s week at @${site.title}`,
@@ -253,7 +254,7 @@ const build = gulp.series(
 );
 
 const watchers = () => {
-  gulp.watch(['**/*.jade'], gulp.series(css, htmlPages));
+  gulp.watch(['**/*.pug'], gulp.series(css, htmlPages));
   gulp.watch(['css/**/*.css'], css);
   gulp.watch('js/**/*.js', js);
   gulp.watch('pages/**/*.md', gulp.parallel(about, forAuthors, instruction));

@@ -1,6 +1,6 @@
-import { initate as likely } from 'ilyabirman-likely';
 
-likely();
+var likely = require('ilyabirman-likely');
+likely.initiate();
 
 jQuery(window).on('load resize', () => {
   jQuery('.carousel').carousel({
