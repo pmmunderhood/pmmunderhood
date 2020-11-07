@@ -1,235 +1,13 @@
 webpackJsonp([0],[
 /* 0 */,
 /* 1 */
-/*!*******************************!*\
-  !*** ./~/moment/locale/ru.js ***!
-  \*******************************/
-/***/ (function(module, exports, __webpack_require__) {
-
-	//! moment.js locale configuration
-	//! locale : Russian [ru]
-	//! author : Viktorminator : https://github.com/Viktorminator
-	//! Author : Menelion Elensúle : https://github.com/Oire
-	//! author : Коренберг Марк : https://github.com/socketpair
-	
-	;(function (global, factory) {
-	    true ? factory(__webpack_require__(/*! ../moment */ 2)) :
-	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
-	   factory(global.moment)
-	}(this, (function (moment) { 'use strict';
-	
-	    //! moment.js locale configuration
-	
-	    function plural(word, num) {
-	        var forms = word.split('_');
-	        return num % 10 === 1 && num % 100 !== 11
-	            ? forms[0]
-	            : num % 10 >= 2 && num % 10 <= 4 && (num % 100 < 10 || num % 100 >= 20)
-	            ? forms[1]
-	            : forms[2];
-	    }
-	    function relativeTimeWithPlural(number, withoutSuffix, key) {
-	        var format = {
-	            ss: withoutSuffix ? 'секунда_секунды_секунд' : 'секунду_секунды_секунд',
-	            mm: withoutSuffix ? 'минута_минуты_минут' : 'минуту_минуты_минут',
-	            hh: 'час_часа_часов',
-	            dd: 'день_дня_дней',
-	            MM: 'месяц_месяца_месяцев',
-	            yy: 'год_года_лет',
-	        };
-	        if (key === 'm') {
-	            return withoutSuffix ? 'минута' : 'минуту';
-	        } else {
-	            return number + ' ' + plural(format[key], +number);
-	        }
-	    }
-	    var monthsParse = [
-	        /^янв/i,
-	        /^фев/i,
-	        /^мар/i,
-	        /^апр/i,
-	        /^ма[йя]/i,
-	        /^июн/i,
-	        /^июл/i,
-	        /^авг/i,
-	        /^сен/i,
-	        /^окт/i,
-	        /^ноя/i,
-	        /^дек/i,
-	    ];
-	
-	    // http://new.gramota.ru/spravka/rules/139-prop : § 103
-	    // Сокращения месяцев: http://new.gramota.ru/spravka/buro/search-answer?s=242637
-	    // CLDR data:          http://www.unicode.org/cldr/charts/28/summary/ru.html#1753
-	    var ru = moment.defineLocale('ru', {
-	        months: {
-	            format: 'января_февраля_марта_апреля_мая_июня_июля_августа_сентября_октября_ноября_декабря'.split(
-	                '_'
-	            ),
-	            standalone: 'январь_февраль_март_апрель_май_июнь_июль_август_сентябрь_октябрь_ноябрь_декабрь'.split(
-	                '_'
-	            ),
-	        },
-	        monthsShort: {
-	            // по CLDR именно "июл." и "июн.", но какой смысл менять букву на точку ?
-	            format: 'янв._февр._мар._апр._мая_июня_июля_авг._сент._окт._нояб._дек.'.split(
-	                '_'
-	            ),
-	            standalone: 'янв._февр._март_апр._май_июнь_июль_авг._сент._окт._нояб._дек.'.split(
-	                '_'
-	            ),
-	        },
-	        weekdays: {
-	            standalone: 'воскресенье_понедельник_вторник_среда_четверг_пятница_суббота'.split(
-	                '_'
-	            ),
-	            format: 'воскресенье_понедельник_вторник_среду_четверг_пятницу_субботу'.split(
-	                '_'
-	            ),
-	            isFormat: /\[ ?[Вв] ?(?:прошлую|следующую|эту)? ?\] ?dddd/,
-	        },
-	        weekdaysShort: 'вс_пн_вт_ср_чт_пт_сб'.split('_'),
-	        weekdaysMin: 'вс_пн_вт_ср_чт_пт_сб'.split('_'),
-	        monthsParse: monthsParse,
-	        longMonthsParse: monthsParse,
-	        shortMonthsParse: monthsParse,
-	
-	        // полные названия с падежами, по три буквы, для некоторых, по 4 буквы, сокращения с точкой и без точки
-	        monthsRegex: /^(январ[ья]|янв\.?|феврал[ья]|февр?\.?|марта?|мар\.?|апрел[ья]|апр\.?|ма[йя]|июн[ья]|июн\.?|июл[ья]|июл\.?|августа?|авг\.?|сентябр[ья]|сент?\.?|октябр[ья]|окт\.?|ноябр[ья]|нояб?\.?|декабр[ья]|дек\.?)/i,
-	
-	        // копия предыдущего
-	        monthsShortRegex: /^(январ[ья]|янв\.?|феврал[ья]|февр?\.?|марта?|мар\.?|апрел[ья]|апр\.?|ма[йя]|июн[ья]|июн\.?|июл[ья]|июл\.?|августа?|авг\.?|сентябр[ья]|сент?\.?|октябр[ья]|окт\.?|ноябр[ья]|нояб?\.?|декабр[ья]|дек\.?)/i,
-	
-	        // полные названия с падежами
-	        monthsStrictRegex: /^(январ[яь]|феврал[яь]|марта?|апрел[яь]|ма[яй]|июн[яь]|июл[яь]|августа?|сентябр[яь]|октябр[яь]|ноябр[яь]|декабр[яь])/i,
-	
-	        // Выражение, которое соотвествует только сокращённым формам
-	        monthsShortStrictRegex: /^(янв\.|февр?\.|мар[т.]|апр\.|ма[яй]|июн[ья.]|июл[ья.]|авг\.|сент?\.|окт\.|нояб?\.|дек\.)/i,
-	        longDateFormat: {
-	            LT: 'H:mm',
-	            LTS: 'H:mm:ss',
-	            L: 'DD.MM.YYYY',
-	            LL: 'D MMMM YYYY г.',
-	            LLL: 'D MMMM YYYY г., H:mm',
-	            LLLL: 'dddd, D MMMM YYYY г., H:mm',
-	        },
-	        calendar: {
-	            sameDay: '[Сегодня, в] LT',
-	            nextDay: '[Завтра, в] LT',
-	            lastDay: '[Вчера, в] LT',
-	            nextWeek: function (now) {
-	                if (now.week() !== this.week()) {
-	                    switch (this.day()) {
-	                        case 0:
-	                            return '[В следующее] dddd, [в] LT';
-	                        case 1:
-	                        case 2:
-	                        case 4:
-	                            return '[В следующий] dddd, [в] LT';
-	                        case 3:
-	                        case 5:
-	                        case 6:
-	                            return '[В следующую] dddd, [в] LT';
-	                    }
-	                } else {
-	                    if (this.day() === 2) {
-	                        return '[Во] dddd, [в] LT';
-	                    } else {
-	                        return '[В] dddd, [в] LT';
-	                    }
-	                }
-	            },
-	            lastWeek: function (now) {
-	                if (now.week() !== this.week()) {
-	                    switch (this.day()) {
-	                        case 0:
-	                            return '[В прошлое] dddd, [в] LT';
-	                        case 1:
-	                        case 2:
-	                        case 4:
-	                            return '[В прошлый] dddd, [в] LT';
-	                        case 3:
-	                        case 5:
-	                        case 6:
-	                            return '[В прошлую] dddd, [в] LT';
-	                    }
-	                } else {
-	                    if (this.day() === 2) {
-	                        return '[Во] dddd, [в] LT';
-	                    } else {
-	                        return '[В] dddd, [в] LT';
-	                    }
-	                }
-	            },
-	            sameElse: 'L',
-	        },
-	        relativeTime: {
-	            future: 'через %s',
-	            past: '%s назад',
-	            s: 'несколько секунд',
-	            ss: relativeTimeWithPlural,
-	            m: relativeTimeWithPlural,
-	            mm: relativeTimeWithPlural,
-	            h: 'час',
-	            hh: relativeTimeWithPlural,
-	            d: 'день',
-	            dd: relativeTimeWithPlural,
-	            M: 'месяц',
-	            MM: relativeTimeWithPlural,
-	            y: 'год',
-	            yy: relativeTimeWithPlural,
-	        },
-	        meridiemParse: /ночи|утра|дня|вечера/i,
-	        isPM: function (input) {
-	            return /^(дня|вечера)$/.test(input);
-	        },
-	        meridiem: function (hour, minute, isLower) {
-	            if (hour < 4) {
-	                return 'ночи';
-	            } else if (hour < 12) {
-	                return 'утра';
-	            } else if (hour < 17) {
-	                return 'дня';
-	            } else {
-	                return 'вечера';
-	            }
-	        },
-	        dayOfMonthOrdinalParse: /\d{1,2}-(й|го|я)/,
-	        ordinal: function (number, period) {
-	            switch (period) {
-	                case 'M':
-	                case 'd':
-	                case 'DDD':
-	                    return number + '-й';
-	                case 'D':
-	                    return number + '-го';
-	                case 'w':
-	                case 'W':
-	                    return number + '-я';
-	                default:
-	                    return number;
-	            }
-	        },
-	        week: {
-	            dow: 1, // Monday is the first day of the week.
-	            doy: 4, // The week that contains Jan 4th is the first week of the year.
-	        },
-	    });
-	
-	    return ru;
-	
-	})));
-
-
-/***/ }),
-/* 2 */
 /*!****************************!*\
   !*** ./~/moment/moment.js ***!
   \****************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 	var require;/* WEBPACK VAR INJECTION */(function(module) {//! moment.js
-	//! version : 2.25.1
+	//! version : 2.29.1
 	//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 	//! license : MIT
 	//! momentjs.com
@@ -2319,7 +2097,7 @@ webpackJsonp([0],[
 	            try {
 	                oldLocale = globalLocale._abbr;
 	                aliasedRequire = require;
-	                __webpack_require__(/*! ./locale */ 7)("./" + name);
+	                __webpack_require__(/*! ./locale */ 14)("./" + name);
 	                getSetGlobalLocale(oldLocale);
 	            } catch (e) {
 	                // mark as not found to avoid repeating expensive file require call causing high CPU
@@ -2770,8 +2548,7 @@ webpackJsonp([0],[
 	    hooks.createFromInputFallback = deprecate(
 	        'value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), ' +
 	            'which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are ' +
-	            'discouraged and will be removed in an upcoming major release. Please refer to ' +
-	            'http://momentjs.com/guides/#/warnings/js-date/ for more info.',
+	            'discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.',
 	        function (config) {
 	            config._d = new Date(config._i + (config._useUTC ? ' UTC' : ''));
 	        }
@@ -2993,8 +2770,6 @@ webpackJsonp([0],[
 	            token = tokens[i];
 	            parsedInput = (string.match(getParseRegexForToken(token, config)) ||
 	                [])[0];
-	            // console.log('token', token, 'parsedInput', parsedInput,
-	            //         'regex', getParseRegexForToken(token, config));
 	            if (parsedInput) {
 	                skipped = string.substr(0, string.indexOf(parsedInput));
 	                if (skipped.length > 0) {
@@ -3958,7 +3733,10 @@ webpackJsonp([0],[
 	    function calendar$1(time, formats) {
 	        // Support for single parameter, formats only overload to the calendar function
 	        if (arguments.length === 1) {
-	            if (isMomentInput(arguments[0])) {
+	            if (!arguments[0]) {
+	                time = undefined;
+	                formats = undefined;
+	            } else if (isMomentInput(arguments[0])) {
 	                time = arguments[0];
 	                formats = undefined;
 	            } else if (isCalendarSpec(arguments[0])) {
@@ -4636,7 +4414,7 @@ webpackJsonp([0],[
 	            eras = this.localeData().eras();
 	        for (i = 0, l = eras.length; i < l; ++i) {
 	            // truncate time
-	            val = this.startOf('day').valueOf();
+	            val = this.clone().startOf('day').valueOf();
 	
 	            if (eras[i].since <= val && val <= eras[i].until) {
 	                return eras[i].name;
@@ -4656,7 +4434,7 @@ webpackJsonp([0],[
 	            eras = this.localeData().eras();
 	        for (i = 0, l = eras.length; i < l; ++i) {
 	            // truncate time
-	            val = this.startOf('day').valueOf();
+	            val = this.clone().startOf('day').valueOf();
 	
 	            if (eras[i].since <= val && val <= eras[i].until) {
 	                return eras[i].narrow;
@@ -4676,7 +4454,7 @@ webpackJsonp([0],[
 	            eras = this.localeData().eras();
 	        for (i = 0, l = eras.length; i < l; ++i) {
 	            // truncate time
-	            val = this.startOf('day').valueOf();
+	            val = this.clone().startOf('day').valueOf();
 	
 	            if (eras[i].since <= val && val <= eras[i].until) {
 	                return eras[i].abbr;
@@ -4699,7 +4477,7 @@ webpackJsonp([0],[
 	            dir = eras[i].since <= eras[i].until ? +1 : -1;
 	
 	            // truncate time
-	            val = this.startOf('day').valueOf();
+	            val = this.clone().startOf('day').valueOf();
 	
 	            if (
 	                (eras[i].since <= val && val <= eras[i].until) ||
@@ -5850,7 +5628,7 @@ webpackJsonp([0],[
 	
 	    //! moment.js
 	
-	    hooks.version = '2.25.1';
+	    hooks.version = '2.29.1';
 	
 	    setHookCallback(createLocal);
 	
@@ -5899,10 +5677,698 @@ webpackJsonp([0],[
 	
 	})));
 	
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../webpack/buildin/module.js */ 8)(module)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(/*! ./../webpack/buildin/module.js */ 15)(module)))
+
+/***/ }),
+/* 2 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-au.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (Australia) [en-au]
+	//! author : Jared Morse : https://github.com/jarcoal
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enAu = moment.defineLocale('en-au', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'h:mm A',
+	            LTS: 'h:mm:ss A',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY h:mm A',
+	            LLLL: 'dddd, D MMMM YYYY h:mm A',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 0, // Sunday is the first day of the week.
+	            doy: 4, // The week that contains Jan 4th is the first week of the year.
+	        },
+	    });
+	
+	    return enAu;
+	
+	})));
+
 
 /***/ }),
 /* 3 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-ca.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (Canada) [en-ca]
+	//! author : Jonathan Abourbih : https://github.com/jonbca
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enCa = moment.defineLocale('en-ca', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'h:mm A',
+	            LTS: 'h:mm:ss A',
+	            L: 'YYYY-MM-DD',
+	            LL: 'MMMM D, YYYY',
+	            LLL: 'MMMM D, YYYY h:mm A',
+	            LLLL: 'dddd, MMMM D, YYYY h:mm A',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	    });
+	
+	    return enCa;
+	
+	})));
+
+
+/***/ }),
+/* 4 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-gb.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (United Kingdom) [en-gb]
+	//! author : Chris Gedrim : https://github.com/chrisgedrim
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enGb = moment.defineLocale('en-gb', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'HH:mm',
+	            LTS: 'HH:mm:ss',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY HH:mm',
+	            LLLL: 'dddd, D MMMM YYYY HH:mm',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 1, // Monday is the first day of the week.
+	            doy: 4, // The week that contains Jan 4th is the first week of the year.
+	        },
+	    });
+	
+	    return enGb;
+	
+	})));
+
+
+/***/ }),
+/* 5 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-ie.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (Ireland) [en-ie]
+	//! author : Chris Cartlidge : https://github.com/chriscartlidge
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enIe = moment.defineLocale('en-ie', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'HH:mm',
+	            LTS: 'HH:mm:ss',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY HH:mm',
+	            LLLL: 'dddd D MMMM YYYY HH:mm',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 1, // Monday is the first day of the week.
+	            doy: 4, // The week that contains Jan 4th is the first week of the year.
+	        },
+	    });
+	
+	    return enIe;
+	
+	})));
+
+
+/***/ }),
+/* 6 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-il.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (Israel) [en-il]
+	//! author : Chris Gedrim : https://github.com/chrisgedrim
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enIl = moment.defineLocale('en-il', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'HH:mm',
+	            LTS: 'HH:mm:ss',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY HH:mm',
+	            LLLL: 'dddd, D MMMM YYYY HH:mm',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	    });
+	
+	    return enIl;
+	
+	})));
+
+
+/***/ }),
+/* 7 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-in.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (India) [en-in]
+	//! author : Jatin Agrawal : https://github.com/jatinag22
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enIn = moment.defineLocale('en-in', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'h:mm A',
+	            LTS: 'h:mm:ss A',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY h:mm A',
+	            LLLL: 'dddd, D MMMM YYYY h:mm A',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 0, // Sunday is the first day of the week.
+	            doy: 6, // The week that contains Jan 1st is the first week of the year.
+	        },
+	    });
+	
+	    return enIn;
+	
+	})));
+
+
+/***/ }),
+/* 8 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-nz.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (New Zealand) [en-nz]
+	//! author : Luke McGregor : https://github.com/lukemcgregor
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enNz = moment.defineLocale('en-nz', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'h:mm A',
+	            LTS: 'h:mm:ss A',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY h:mm A',
+	            LLLL: 'dddd, D MMMM YYYY h:mm A',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 1, // Monday is the first day of the week.
+	            doy: 4, // The week that contains Jan 4th is the first week of the year.
+	        },
+	    });
+	
+	    return enNz;
+	
+	})));
+
+
+/***/ }),
+/* 9 */
+/*!**********************************!*\
+  !*** ./~/moment/locale/en-sg.js ***!
+  \**********************************/
+/***/ (function(module, exports, __webpack_require__) {
+
+	//! moment.js locale configuration
+	//! locale : English (Singapore) [en-sg]
+	//! author : Matthew Castrillon-Madrigal : https://github.com/techdimension
+	
+	;(function (global, factory) {
+	    true ? factory(__webpack_require__(/*! ../moment */ 1)) :
+	   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+	   factory(global.moment)
+	}(this, (function (moment) { 'use strict';
+	
+	    //! moment.js locale configuration
+	
+	    var enSg = moment.defineLocale('en-sg', {
+	        months: 'January_February_March_April_May_June_July_August_September_October_November_December'.split(
+	            '_'
+	        ),
+	        monthsShort: 'Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec'.split('_'),
+	        weekdays: 'Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday'.split(
+	            '_'
+	        ),
+	        weekdaysShort: 'Sun_Mon_Tue_Wed_Thu_Fri_Sat'.split('_'),
+	        weekdaysMin: 'Su_Mo_Tu_We_Th_Fr_Sa'.split('_'),
+	        longDateFormat: {
+	            LT: 'HH:mm',
+	            LTS: 'HH:mm:ss',
+	            L: 'DD/MM/YYYY',
+	            LL: 'D MMMM YYYY',
+	            LLL: 'D MMMM YYYY HH:mm',
+	            LLLL: 'dddd, D MMMM YYYY HH:mm',
+	        },
+	        calendar: {
+	            sameDay: '[Today at] LT',
+	            nextDay: '[Tomorrow at] LT',
+	            nextWeek: 'dddd [at] LT',
+	            lastDay: '[Yesterday at] LT',
+	            lastWeek: '[Last] dddd [at] LT',
+	            sameElse: 'L',
+	        },
+	        relativeTime: {
+	            future: 'in %s',
+	            past: '%s ago',
+	            s: 'a few seconds',
+	            ss: '%d seconds',
+	            m: 'a minute',
+	            mm: '%d minutes',
+	            h: 'an hour',
+	            hh: '%d hours',
+	            d: 'a day',
+	            dd: '%d days',
+	            M: 'a month',
+	            MM: '%d months',
+	            y: 'a year',
+	            yy: '%d years',
+	        },
+	        dayOfMonthOrdinalParse: /\d{1,2}(st|nd|rd|th)/,
+	        ordinal: function (number) {
+	            var b = number % 10,
+	                output =
+	                    ~~((number % 100) / 10) === 1
+	                        ? 'th'
+	                        : b === 1
+	                        ? 'st'
+	                        : b === 2
+	                        ? 'nd'
+	                        : b === 3
+	                        ? 'rd'
+	                        : 'th';
+	            return number + output;
+	        },
+	        week: {
+	            dow: 1, // Monday is the first day of the week.
+	            doy: 4, // The week that contains Jan 4th is the first week of the year.
+	        },
+	    });
+	
+	    return enSg;
+	
+	})));
+
+
+/***/ }),
+/* 10 */
 /*!**************************************!*\
   !*** ./~/tablesort/src/tablesort.js ***!
   \**************************************/
@@ -6164,16 +6630,16 @@ webpackJsonp([0],[
 
 
 /***/ }),
-/* 4 */,
-/* 5 */,
-/* 6 */
+/* 11 */,
+/* 12 */,
+/* 13 */
 /*!******************************************************************************************!*\
   !*** ./~/imports-loader?Tablesort=tablesort!./~/tablesort/src/sorts/tablesort.number.js ***!
   \******************************************************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 	/*** IMPORTS FROM imports-loader ***/
-	var Tablesort = __webpack_require__(/*! tablesort */ 3);
+	var Tablesort = __webpack_require__(/*! tablesort */ 10);
 	
 	(function(){
 	  var cleanNumber = function(i) {
@@ -6205,15 +6671,29 @@ webpackJsonp([0],[
 
 
 /***/ }),
-/* 7 */
+/* 14 */
 /*!****************************!*\
-  !*** ./~/moment/locale ru ***!
+  !*** ./~/moment/locale en ***!
   \****************************/
 /***/ (function(module, exports, __webpack_require__) {
 
 	var map = {
-		"./ru": 1,
-		"./ru.js": 1
+		"./en-au": 2,
+		"./en-au.js": 2,
+		"./en-ca": 3,
+		"./en-ca.js": 3,
+		"./en-gb": 4,
+		"./en-gb.js": 4,
+		"./en-ie": 5,
+		"./en-ie.js": 5,
+		"./en-il": 6,
+		"./en-il.js": 6,
+		"./en-in": 7,
+		"./en-in.js": 7,
+		"./en-nz": 8,
+		"./en-nz.js": 8,
+		"./en-sg": 9,
+		"./en-sg.js": 9
 	};
 	function webpackContext(req) {
 		return __webpack_require__(webpackContextResolve(req));
@@ -6226,11 +6706,11 @@ webpackJsonp([0],[
 	};
 	webpackContext.resolve = webpackContextResolve;
 	module.exports = webpackContext;
-	webpackContext.id = 7;
+	webpackContext.id = 14;
 
 
 /***/ }),
-/* 8 */
+/* 15 */
 /*!***********************************!*\
   !*** (webpack)/buildin/module.js ***!
   \***********************************/

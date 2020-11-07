@@ -2,7 +2,7 @@
 <html dir="LTR" lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Статистика @pmmunderhood</title>
+    <title>Statistic @pmmunderhood</title>
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width">
     <link href="//fonts.googleapis.com/css?family=PT+Sans:400,700italic,700,400italic&amp;subset=latin,cyrillic,greek,greek-ext,vietnamese,latin-ext,cyrillic-ext" rel="stylesheet">
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
-    <link href="/css/styles.css?e0761742a696dc176c98887f2660574c" rel="stylesheet">
+    <link href="/css/styles.css?b06f262ae02f20a9b4900dff08af6883" rel="stylesheet">
     <meta property="og:site_name" content="pmmunderhood">
     <meta property="article:author" content="https://pmmunderhood.com/about/">
     <meta name="twitter:card" content="summary">
@@ -26,7 +26,7 @@
     <meta property="description" content="Shared Twitter account for Product Marketing Managers">
     <meta name="og:url" content="https://pmmunderhood.com/stats/">
     <meta name="og:image" content="/image.png?801bf4f4eb31c2850a56812bacfb99a2">
-    <meta name="og:title" content="Статистика @pmmunderhood">
+    <meta name="og:title" content="Statistic @pmmunderhood">
     <meta name="og:description" content="Shared Twitter account for Product Marketing Managers">
   </head>
   <body data-spy="scroll" data-target="#scroll-spy">
@@ -35,12 +35,12 @@
         <div class="navbar">
           <div class="container">
             <div class="navbar-header">
-              <button data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="/" class="navbar-brand visible-xs"><span class="text-muted">@</span><b>pmmunderhood</b></a>
+              <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand visible-xs" href="/"><span class="text-muted">@</span><b>pmmunderhood</b></a>
             </div>
-            <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="navbar-collapse collapse" id="navbar-collapse">
               <div class="row">
                 <ul class="nav navbar-nav">
-                  <li><a href="https://twitter.com/pmmunderhood" class="btn btn-success"><b>Subscribe</b></a></li>
+                  <li><a class="btn btn-success" href="https://twitter.com/pmmunderhood"><b>Subscribe</b></a></li>
                   <li><a href="/about/">About</a></li>
                   <li><a href="/authoring/">Become an author</a></li>
                   <li><a href="/instruction/">Memo for the author</a></li>
@@ -54,13 +54,13 @@
         <div class="header">
           <div class="container">
             <div class="page-header">
-              <h1 class="site-title text-muted"><span class="hidden-xs"><a href="/">pmmunderhood</a><br class="visible-sm"><small class="hidden-sm">&nbsp;&middot;&nbsp;</small></span><small>Статистика</small></h1>
-              <p>Shared Twitter account for Product Marketing Managers<br>
-              </p>
+              <h1 class="site-title text-muted"><span class="hidden-xs"><a href="/">pmmunderhood</a><br class="visible-sm"><small class="hidden-sm">&nbsp;&middot;&nbsp;</small></span><small>Статистика</small>
+              </h1>
+              <p>Shared Twitter account for Product Marketing Managers<br></p>
             </div>
           </div>
           <div class="container">
-            <div data-title="Shared Twitter account for Product Marketing Managers" data-url="https://pmmunderhood.com/" class="likely likely-big">
+            <div class="likely likely-big" data-title="Shared Twitter account for Product Marketing Managers" data-url="https://pmmunderhood.com/">
               <div class="twitter"></div>
               <div class="facebook"></div>
               <div class="linkedin"></div>
@@ -70,7 +70,7 @@
         <div class="content">
           <div class="container js-stats">
             <div class="row">
-              <div class="col-md-12"><span class="small pull-right text-muted">Последнее обновление: <span data-timestamp='1604341672' class="js-last-updated">2 November pmt 18:27</span></span></div>
+              <div class="col-md-12"><span class="small pull-right text-muted">Последнее обновление: <span class="js-last-updated" data-timestamp="1604341672">2 November pmt 18:27</span></span></div>
             </div>
             <div class="row">
               <div class="col-md-12">
@@ -98,76 +98,76 @@
                     </tr>
                   </thead>
                   <tr class="host-stats__row">
-                    <td data-title="Автор" data-sort='0' class="host-stats__col host-stats__col_left col__author"><span class="cell">
-                        <div class="text-ellipsis"><a href="https://twitter.com/pmmunderhood" class="live">@ulanKZ</a></div></span>
+                    <td class="host-stats__col host-stats__col_left col__author" data-title="Автор" data-sort="0"><span class="cell">
+                        <div class="text-ellipsis"><a class="live" href="https://twitter.com/pmmunderhood">@ulanKZ</a></div></span>
                       <div class="tweet-graph__wrap hidden-xs">
-                        <div style="width: 10%" class="tweet-graph">
-                          <div style="width: 100.00%;" class="tweet-graph__bar tweet-graph__bar_own"></div>
-                          <div style="width: 0.00%;" class="tweet-graph__bar tweet-graph__bar_retweets"></div>
-                          <div style="width: 0.00%;" class="tweet-graph__bar tweet-graph__bar_replies"></div>
+                        <div class="tweet-graph" style="width: #{percent}%">
+                          <div class="tweet-graph__bar tweet-graph__bar_own" style="width: #{author.own.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_retweets" style="width: #{author.retweets.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_replies" style="width: #{author.replies.percent}%;"></div>
                         </div>
                       </div>
                     </td>
-                    <td data-title="Читатели" data-sort='12' class="host-stats__col text-success"><span class="cell nowrap"><span class="cell__content">+12
-                          <div class="text-center"><small class="text-muted"><span title="Пришли" class="cell cell--small"><span class="cell__content">+12</span></span><span>/</span><span title="Ушли" class="cell cell--small"><span class="cell__content">−0</span></span></small></div></span></span></td>
-                    <td data-title="Твиты" data-sort='15' class="host-stats__col"><span class="cell"><span class="cell__content">15</span></span></td>
-                    <td data-title="Написано" data-sort='15' class="host-stats__col"><span class="cell"><span class="cell__content">15</span></span></td>
-                    <td data-title="Ретвитнуто" data-sort='0' class="host-stats__col"><span class="cell"><span class="cell__content">0</span></span></td>
-                    <td data-title="Отвечено" data-sort='0' class="host-stats__col"><span class="cell"><span class="cell__content">0</span></span></td>
-                    <td data-title="Ретвитнули всего" data-sort='1' class="host-stats__col host-stats__col_kpi rted--1p hidden-sm"><span class="cell"><span class="cell__content">1</span></span></td>
+                    <td class="host-stats__col text-success" data-title="Читатели" data-sort="12"><span class="cell nowrap"><span class="cell__content">+12
+                          <div class="text-center"><small class="text-muted"><span class="cell cell--small" title="Пришли"><span class="cell__content">+12</span></span><span>/</span><span class="cell cell--small" title="Ушли"><span class="cell__content">−0</span></span></small></div></span></span></td>
+                    <td class="host-stats__col" data-title="Твиты" data-sort="15"><span class="cell"><span class="cell__content">15</span></span></td>
+                    <td class="host-stats__col" data-title="Написано" data-sort="15"><span class="cell"><span class="cell__content">15</span></span></td>
+                    <td class="host-stats__col" data-title="Ретвитнуто" data-sort="0"><span class="cell"><span class="cell__content">0</span></span></td>
+                    <td class="host-stats__col" data-title="Отвечено" data-sort="0"><span class="cell"><span class="cell__content">0</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--1p hidden-sm" data-title="Ретвитнули всего" data-sort="1"><span class="cell"><span class="cell__content">1</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Ретвитнули на 1 твит" data-sort="0.07" class="host-stats__col host-stats__col_kpi rted--2p hidden-sm"><span class="cell cell--best"><span class="cell__content">0.07</span></span></td>
-                    <td data-title="Лайкнули всего" data-sort='10' class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md"><span class="cell"><span class="cell__content">10</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--2p hidden-sm" data-title="Ретвитнули на 1 твит" data-sort="0.07"><span class="cell cell--best"><span class="cell__content">0.07</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md" data-title="Лайкнули всего" data-sort="10"><span class="cell"><span class="cell__content">10</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Лайкнули на 1 твит" data-sort="0.67" class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md"><span class="cell"><span class="cell__content">0.67</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md" data-title="Лайкнули на 1 твит" data-sort="0.67"><span class="cell"><span class="cell__content">0.67</span></span></td>
                   </tr>
                   <tr class="host-stats__row">
-                    <td data-title="Автор" data-sort='1' class="host-stats__col host-stats__col_left col__author"><span class="cell">
+                    <td class="host-stats__col host-stats__col_left col__author" data-title="Автор" data-sort="1"><span class="cell">
                         <div class="text-ellipsis"><a href="/khramushinaa">@khramushinaa</a></div></span>
                       <div class="tweet-graph__wrap hidden-xs">
-                        <div style="width: 54%" class="tweet-graph">
-                          <div style="width: 91.14%;" class="tweet-graph__bar tweet-graph__bar_own"></div>
-                          <div style="width: 0.00%;" class="tweet-graph__bar tweet-graph__bar_retweets"></div>
-                          <div style="width: 8.86%;" class="tweet-graph__bar tweet-graph__bar_replies"></div>
+                        <div class="tweet-graph" style="width: #{percent}%">
+                          <div class="tweet-graph__bar tweet-graph__bar_own" style="width: #{author.own.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_retweets" style="width: #{author.retweets.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_replies" style="width: #{author.replies.percent}%;"></div>
                         </div>
                       </div>
                     </td>
-                    <td data-title="Читатели" data-sort='3' class="host-stats__col text-success"><span class="cell nowrap"><span class="cell__content">+3
-                          <div class="text-center"><small class="text-muted"><span title="Пришли" class="cell cell--small"><span class="cell__content">+15</span></span><span>/</span><span title="Ушли" class="cell cell--small"><span class="cell__content">−0</span></span></small></div></span></span></td>
-                    <td data-title="Твиты" data-sort='79' class="host-stats__col"><span class="cell"><span class="cell__content">79</span></span></td>
-                    <td data-title="Написано" data-sort='72' class="host-stats__col"><span class="cell"><span class="cell__content">72</span></span></td>
-                    <td data-title="Ретвитнуто" data-sort='0' class="host-stats__col"><span class="cell"><span class="cell__content">0</span></span></td>
-                    <td data-title="Отвечено" data-sort='7' class="host-stats__col"><span class="cell cell--best"><span class="cell__content">7</span></span></td>
-                    <td data-title="Ретвитнули всего" data-sort='3' class="host-stats__col host-stats__col_kpi rted--1p hidden-sm"><span class="cell"><span class="cell__content">3</span></span></td>
+                    <td class="host-stats__col text-success" data-title="Читатели" data-sort="3"><span class="cell nowrap"><span class="cell__content">+3
+                          <div class="text-center"><small class="text-muted"><span class="cell cell--small" title="Пришли"><span class="cell__content">+15</span></span><span>/</span><span class="cell cell--small" title="Ушли"><span class="cell__content">−0</span></span></small></div></span></span></td>
+                    <td class="host-stats__col" data-title="Твиты" data-sort="79"><span class="cell"><span class="cell__content">79</span></span></td>
+                    <td class="host-stats__col" data-title="Написано" data-sort="72"><span class="cell"><span class="cell__content">72</span></span></td>
+                    <td class="host-stats__col" data-title="Ретвитнуто" data-sort="0"><span class="cell"><span class="cell__content">0</span></span></td>
+                    <td class="host-stats__col" data-title="Отвечено" data-sort="7"><span class="cell cell--best"><span class="cell__content">7</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--1p hidden-sm" data-title="Ретвитнули всего" data-sort="3"><span class="cell"><span class="cell__content">3</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Ретвитнули на 1 твит" data-sort="0.04" class="host-stats__col host-stats__col_kpi rted--2p hidden-sm"><span class="cell"><span class="cell__content">0.04</span></span></td>
-                    <td data-title="Лайкнули всего" data-sort='52' class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md"><span class="cell"><span class="cell__content">52</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--2p hidden-sm" data-title="Ретвитнули на 1 твит" data-sort="0.04"><span class="cell"><span class="cell__content">0.04</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md" data-title="Лайкнули всего" data-sort="52"><span class="cell"><span class="cell__content">52</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Лайкнули на 1 твит" data-sort="0.72" class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md"><span class="cell cell--best"><span class="cell__content">0.72</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md" data-title="Лайкнули на 1 твит" data-sort="0.72"><span class="cell cell--best"><span class="cell__content">0.72</span></span></td>
                   </tr>
                   <tr class="host-stats__row">
-                    <td data-title="Автор" data-sort='2' class="host-stats__col host-stats__col_left col__author"><span class="cell">
+                    <td class="host-stats__col host-stats__col_left col__author" data-title="Автор" data-sort="2"><span class="cell">
                         <div class="text-ellipsis"><a href="/NatashaKatson">@NatashaKatson</a></div></span>
                       <div class="tweet-graph__wrap hidden-xs">
-                        <div style="width: 100%" class="tweet-graph">
-                          <div style="width: 97.26%;" class="tweet-graph__bar tweet-graph__bar_own"></div>
-                          <div style="width: 0.00%;" class="tweet-graph__bar tweet-graph__bar_retweets"></div>
-                          <div style="width: 2.74%;" class="tweet-graph__bar tweet-graph__bar_replies"></div>
+                        <div class="tweet-graph" style="width: #{percent}%">
+                          <div class="tweet-graph__bar tweet-graph__bar_own" style="width: #{author.own.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_retweets" style="width: #{author.retweets.percent}%;"></div>
+                          <div class="tweet-graph__bar tweet-graph__bar_replies" style="width: #{author.replies.percent}%;"></div>
                         </div>
                       </div>
                     </td>
-                    <td data-title="Читатели" data-sort='106' class="host-stats__col text-success"><span class="cell nowrap"><span class="cell__content">+106
-                          <div class="text-center"><small class="text-muted"><span title="Пришли" class="cell cell--small cell--best"><span class="cell__content">+94</span></span><span>/</span><span title="Ушли" class="cell cell--small cell--best"><span class="cell__content">−0</span></span></small></div></span></span></td>
-                    <td data-title="Твиты" data-sort='146' class="host-stats__col"><span class="cell cell--best"><span class="cell__content">146</span></span></td>
-                    <td data-title="Написано" data-sort='142' class="host-stats__col"><span class="cell cell--best"><span class="cell__content">142</span></span></td>
-                    <td data-title="Ретвитнуто" data-sort='0' class="host-stats__col"><span class="cell cell--best"><span class="cell__content">0</span></span></td>
-                    <td data-title="Отвечено" data-sort='4' class="host-stats__col"><span class="cell"><span class="cell__content">4</span></span></td>
-                    <td data-title="Ретвитнули всего" data-sort='5' class="host-stats__col host-stats__col_kpi rted--1p hidden-sm"><span class="cell cell--best"><span class="cell__content">5</span></span></td>
+                    <td class="host-stats__col text-success" data-title="Читатели" data-sort="106"><span class="cell nowrap"><span class="cell__content">+106
+                          <div class="text-center"><small class="text-muted"><span class="cell cell--small cell--best" title="Пришли"><span class="cell__content">+94</span></span><span>/</span><span class="cell cell--small cell--best" title="Ушли"><span class="cell__content">−0</span></span></small></div></span></span></td>
+                    <td class="host-stats__col" data-title="Твиты" data-sort="146"><span class="cell cell--best"><span class="cell__content">146</span></span></td>
+                    <td class="host-stats__col" data-title="Написано" data-sort="142"><span class="cell cell--best"><span class="cell__content">142</span></span></td>
+                    <td class="host-stats__col" data-title="Ретвитнуто" data-sort="0"><span class="cell cell--best"><span class="cell__content">0</span></span></td>
+                    <td class="host-stats__col" data-title="Отвечено" data-sort="4"><span class="cell"><span class="cell__content">4</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--1p hidden-sm" data-title="Ретвитнули всего" data-sort="5"><span class="cell cell--best"><span class="cell__content">5</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Ретвитнули на 1 твит" data-sort="0.04" class="host-stats__col host-stats__col_kpi rted--2p hidden-sm"><span class="cell"><span class="cell__content">0.04</span></span></td>
-                    <td data-title="Лайкнули всего" data-sort='79' class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md"><span class="cell cell--best"><span class="cell__content">79</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi rted--2p hidden-sm" data-title="Ретвитнули на 1 твит" data-sort="0.04"><span class="cell"><span class="cell__content">0.04</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--1p hidden-sm hidden-md" data-title="Лайкнули всего" data-sort="79"><span class="cell cell--best"><span class="cell__content">79</span></span></td>
                     <td class="hidden-sm hidden-md"></td>
-                    <td data-title="Лайкнули на 1 твит" data-sort="0.56" class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md"><span class="cell"><span class="cell__content">0.56</span></span></td>
+                    <td class="host-stats__col host-stats__col_kpi faved--2p hidden-sm hidden-md" data-title="Лайкнули на 1 твит" data-sort="0.56"><span class="cell"><span class="cell__content">0.56</span></span></td>
                   </tr>
                 </table>
               </div>
@@ -176,17 +176,17 @@
         </div>
       </div>
     </div>
-    <div id="footer" class="text-muted">
+    <div class="text-muted" id="footer">
       <div class="hidden-xs hidden-sm">
         <div class="navbar">
           <div class="container">
             <div class="navbar-header">
-              <button data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="/" class="navbar-brand visible-xs"><span class="text-muted">@</span><b>pmmunderhood</b></a>
+              <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand visible-xs" href="/"><span class="text-muted">@</span><b>pmmunderhood</b></a>
             </div>
-            <div id="navbar-collapse" class="navbar-collapse collapse">
+            <div class="navbar-collapse collapse" id="navbar-collapse">
               <div class="row">
                 <ul class="nav navbar-nav">
-                  <li><a href="https://twitter.com/pmmunderhood" class="btn btn-success"><b>Subscribe</b></a></li>
+                  <li><a class="btn btn-success" href="https://twitter.com/pmmunderhood"><b>Subscribe</b></a></li>
                   <li><a href="/about/">About</a></li>
                   <li><a href="/authoring/">Become an author</a></li>
                   <li><a href="/instruction/">Memo for the author</a></li>
