@@ -1,0 +1,1268 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 09 10:05:32 +0000 2020",
+      "id": 1325741303087378400,
+      "id_str": "1325741303087378434",
+      "full_text": "Hi everyone! Taking over this account till the end of the week. I’ve been working as a PMM for ~3 years. Before that, I got to work in sales, support, and the knowledge base team. Now I’m a PMM at JetBrains where to my surprise all my previous work experience came in handy.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 10:14:19 +0000 2020",
+      "id": 1325743512218906600,
+      "id_str": "1325743512218906626",
+      "full_text": "Plans for this week:\n\nMon/Tue: Writing good technical content\nWed: AMA on Reddit - tips and tricks\nThu: My favorite topic - impostor syndrome 😅\nFri: Books that inspired me and helped me at work",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 11:38:55 +0000 2020",
+      "id": 1325764805182050300,
+      "id_str": "1325764805182050304",
+      "full_text": "So, technical content. When I just started working as a PMM, I thought that the main goal behind the good content was to be impressive. Impressive in a way how eloquent I am.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 11:39:56 +0000 2020",
+      "id": 1325765061881852000,
+      "id_str": "1325765061881851905",
+      "full_text": "Still remember how I was tasked to write an ebook about cybersecurity and added a very cool (as I thought back then) phrase to it. The phrase was “the cybersecurity market continues to blossom”. Of course, this wasn’t the only “cool” phrase that I used 😀",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325764805182050300,
+      "in_reply_to_status_id_str": "1325764805182050304",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 11:47:51 +0000 2020",
+      "id": 1325767050921451500,
+      "id_str": "1325767050921451522",
+      "full_text": "Now that I’ve got quite a lot of experience writing technical content and studied a lot of material on this topic, I’ve set several rules that I try to keep in mind regardless of what I need to work on.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325765061881852000,
+      "in_reply_to_status_id_str": "1325765061881851905",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 12:04:25 +0000 2020",
+      "id": 1325771220109979600,
+      "id_str": "1325771220109979648",
+      "full_text": "TLDR\n\n1⃣Know your audience.\n2⃣The shorter (and the clearer) the better.\n3⃣Strip out needless words.\n4⃣Find the right balance between features and benefits.\n5⃣Add visuals.\n6⃣Get feedback.\n7⃣Double-check and double-check again.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325767050921451500,
+      "in_reply_to_status_id_str": "1325767050921451522",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 12:18:04 +0000 2020",
+      "id": 1325774655249113000,
+      "id_str": "1325774655249113088",
+      "full_text": "Let me comment on each of those things.\n\n1. Know your audience.\n\nHave a clear understanding of who your customers are, what they like, and especially what they don’t like. You need to speak the same language as they do.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325771220109979600,
+      "in_reply_to_status_id_str": "1325771220109979648",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 12:19:01 +0000 2020",
+      "id": 1325774895976951800,
+      "id_str": "1325774895976951808",
+      "full_text": "To make it easier to understand who they are, you can create buyer personas. Make sure you create them based not only on market research but on real insights from your customers. If you only rely on the former, it can make your personas pretty far from reality in some cases.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325774655249113000,
+      "in_reply_to_status_id_str": "1325774655249113088",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 12:33:10 +0000 2020",
+      "id": 1325778454596497400,
+      "id_str": "1325778454596497408",
+      "full_text": "2. The shorter (and the clearer) the better.\n\nYou want people to read your texts till the end, not to stop after the 1st sentence thinking “Nah I’d rather go check my Instagram”. So, get straight to the point and avoid adding irrelevant details and needless words to your texts.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325774895976951800,
+      "in_reply_to_status_id_str": "1325774895976951808",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 12:35:30 +0000 2020",
+      "id": 1325779042176479200,
+      "id_str": "1325779042176479232",
+      "full_text": "When reviewing a piece of content, I always ask myself: “Does this sentence/phrase/word add any value? Does it help the reader learn something new and helpful?” If not, I get rid of it.\n\nSome tips on keeping your texts simple that I like: https://t.co/Mmqcz6Jk0n.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Mmqcz6Jk0n",
+            "expanded_url": "https://productmarketingalliance.com/how-to-create-technical-content#5-keep-it-simple",
+            "display_url": "productmarketingalliance.com/how-to-create-…",
+            "indices": [
+              239,
+              262
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325778454596497400,
+      "in_reply_to_status_id_str": "1325778454596497408",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:13:59 +0000 2020",
+      "id": 1325788726941741000,
+      "id_str": "1325788726941741057",
+      "full_text": "3. Strip out needless words.\nThis one is related to #2 but I want to highlight it separately as I find it extremely important. And pretty difficult to master, too.\n\nWhat are needless words? These are words that won’t change the meaning of your sentence if you omit them.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325779042176479200,
+      "in_reply_to_status_id_str": "1325779042176479232",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:15:44 +0000 2020",
+      "id": 1325789167083774000,
+      "id_str": "1325789167083773953",
+      "full_text": "For example, this could be:\n\n1⃣Words like “easily”, “quickly” when talking about how one can do something with your product. Such words rarely add any value to your text and make it more difficult to read. Plus, no one would say that something is hard to do with their product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325788726941741000,
+      "in_reply_to_status_id_str": "1325788726941741057",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:16:22 +0000 2020",
+      "id": 1325789329474588700,
+      "id_str": "1325789329474588673",
+      "full_text": "2⃣Technical terms that your readers might not know. Have you ever caught yourself thinking “I feel like I’m not smart enough to read this”, even though you knew the content was targeted at pros like you? I have, this is a terrible feeling. Don’t make your readers google things.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325789167083774000,
+      "in_reply_to_status_id_str": "1325789167083773953",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:17:36 +0000 2020",
+      "id": 1325789640478105600,
+      "id_str": "1325789640478105601",
+      "full_text": "3⃣Buzzwords. I can’t count how many times I’ve seen websites saying that they will provide a “seamless” experience, take something “to the next level”, or “streamline” something for me.\n\nAn interesting read on this: https://t.co/JkdaFi1Z84",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JkdaFi1Z84",
+            "expanded_url": "https://productmarketingalliance.com/product-marketers-quit-these-words/",
+            "display_url": "productmarketingalliance.com/product-market…",
+            "indices": [
+              216,
+              239
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325789329474588700,
+      "in_reply_to_status_id_str": "1325789329474588673",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:54:28 +0000 2020",
+      "id": 1325798916131000300,
+      "id_str": "1325798916131000322",
+      "full_text": "These are just a few examples that can make your texts harder to read. I’m not saying to get rid of such words completely - in some cases, they might fit perfectly. Just be careful when using them.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325789640478105600,
+      "in_reply_to_status_id_str": "1325789640478105601",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 13:59:08 +0000 2020",
+      "id": 1325800090116771800,
+      "id_str": "1325800090116771840",
+      "full_text": "To teach yourself to identify the words that you can leave out, I’d recommend reading the books about writing content. This is my favorite, available in Russian only: https://t.co/D09QuRwHp0.  As for books in English, I can recommend this one: https://t.co/p2yC20662z.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/D09QuRwHp0",
+            "expanded_url": "https://www.goodreads.com/book/show/31855502",
+            "display_url": "goodreads.com/book/show/3185…",
+            "indices": [
+              167,
+              190
+            ]
+          },
+          {
+            "url": "https://t.co/p2yC20662z",
+            "expanded_url": "https://www.amazon.com/Writing-Be-Understood-What-Works-ebook/dp/B07G3JT7K4",
+            "display_url": "amazon.com/Writing-Be-Und…",
+            "indices": [
+              244,
+              267
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325798916131000300,
+      "in_reply_to_status_id_str": "1325798916131000322",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 14:01:56 +0000 2020",
+      "id": 1325800796836008000,
+      "id_str": "1325800796836007936",
+      "full_text": "If there are any other books of such kind that you liked, I'd be grateful if you'd share them in the comments 🙏",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325800090116771800,
+      "in_reply_to_status_id_str": "1325800090116771840",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 09 14:17:37 +0000 2020",
+      "id": 1325804740953976800,
+      "id_str": "1325804740953976836",
+      "full_text": "I also get inspired by easy-to-understand books on topics I know little about. Just think of how hard it must be to explain a complex topic like modern art to people who know almost nothing about it. Yet, some people like W. Gompertz have excelled at it. https://t.co/RAetd3SdrS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RAetd3SdrS",
+            "expanded_url": "https://www.amazon.com/What-Are-You-Looking-Surprising/dp/0142180297",
+            "display_url": "amazon.com/What-Are-You-L…",
+            "indices": [
+              255,
+              278
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325800796836008000,
+      "in_reply_to_status_id_str": "1325800796836007936",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 09:57:43 +0000 2020",
+      "id": 1326101725678284800,
+      "id_str": "1326101725678284800",
+      "full_text": "Morning everyone! Today I’ll keep sharing my thoughts on writing technical content.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 10:47:22 +0000 2020",
+      "id": 1326114219079635000,
+      "id_str": "1326114219079634947",
+      "full_text": "4. Find the right balance between features and benefits.\n\nYou know a lot about your product. You know how hard it was to develop the feature X and how cool the feature Y is. You know who your customers are and what problems they solve with your product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325804740953976800,
+      "in_reply_to_status_id_str": "1325804740953976836",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 10:48:23 +0000 2020",
+      "id": 1326114474965803000,
+      "id_str": "1326114474965803008",
+      "full_text": "How to balance between these two sides of the same coin? First of all, you need to clearly understand the difference between the two. A feature is something that your product does or a specific characteristic it has. A benefit is what your customer can do about that. https://t.co/h36eAmyeti",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326114421362585600,
+            "id_str": "1326114421362585601",
+            "indices": [
+              268,
+              291
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmdOCkjW8AE51HS.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmdOCkjW8AE51HS.png",
+            "url": "https://t.co/h36eAmyeti",
+            "display_url": "pic.twitter.com/h36eAmyeti",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326114474965803008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326114421362585600,
+            "id_str": "1326114421362585601",
+            "indices": [
+              268,
+              291
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmdOCkjW8AE51HS.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmdOCkjW8AE51HS.png",
+            "url": "https://t.co/h36eAmyeti",
+            "display_url": "pic.twitter.com/h36eAmyeti",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326114474965803008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 575,
+                "h": 350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326114219079635000,
+      "in_reply_to_status_id_str": "1326114219079634947",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 11:38:52 +0000 2020",
+      "id": 1326127179697168400,
+      "id_str": "1326127179697168384",
+      "full_text": "When working on a piece of content, remind yourself who you’re writing it for and try to put yourself in their shoes. Are decision makers going to read it? Most likely, they need a high-level view of what a product does and aren’t interested in learning about specific features.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326114474965803000,
+      "in_reply_to_status_id_str": "1326114474965803008",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 12:44:37 +0000 2020",
+      "id": 1326143724032766000,
+      "id_str": "1326143724032765952",
+      "full_text": "Does your target audience care much about innovation and like reading about the latest features your product shipped with? Then make your content more feature-focused. Apple’s website is a perfect example of such content. https://t.co/143VBEvcUD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/143VBEvcUD",
+            "expanded_url": "http://apple.com",
+            "display_url": "apple.com",
+            "indices": [
+              222,
+              245
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326127179697168400,
+      "in_reply_to_status_id_str": "1326127179697168384",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 12:46:00 +0000 2020",
+      "id": 1326144074244644900,
+      "id_str": "1326144074244644866",
+      "full_text": "Even though I like this specific example, I’m not a fan of such feature-focused content. When you’re reading something like this, you don’t always get what is in it for you. It’s especially true for products you’ve just found out about. Especially if they are full of features.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326143724032766000,
+      "in_reply_to_status_id_str": "1326143724032765952",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 13:27:31 +0000 2020",
+      "id": 1326154523170250800,
+      "id_str": "1326154523170250752",
+      "full_text": "The same can be said about the content that is too benefit-focused. Some marketers can get so obsessed with highlighting the benefit part that they make it hard for users to map a benefit to a specific feature they need to use to get that benefit.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326144074244644900,
+      "in_reply_to_status_id_str": "1326144074244644866",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 13:28:32 +0000 2020",
+      "id": 1326154779534499800,
+      "id_str": "1326154779534499840",
+      "full_text": "We had this problem at my previous job. When the new head of marketing joined the company, we were told to get rid of the habit of mentioning features in our texts. The texts were supposed to become even more benefit-focused.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326154523170250800,
+      "in_reply_to_status_id_str": "1326154523170250752",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 14:02:27 +0000 2020",
+      "id": 1326163315165458400,
+      "id_str": "1326163315165458434",
+      "full_text": "While this worked well in some cases, it had a huge drawback, too. The texts became really vague. When our potential users started using the trial versions, some of them got stuck not knowing what to do next and how to reap the benefits they were promised. So, they left us.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326154779534499800,
+      "in_reply_to_status_id_str": "1326154779534499840",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 14:03:11 +0000 2020",
+      "id": 1326163499660308500,
+      "id_str": "1326163499660308485",
+      "full_text": "To sum up:\n1⃣Understand the difference b/w features and benefits\n2⃣Keep in mind who you’re writing this content for\n3⃣If it’s clear for you what a feature does/why it’s cool, it doesn't mean it's clear for your customer too\n4⃣Be careful with focusing too much on benefits/features",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326163315165458400,
+      "in_reply_to_status_id_str": "1326163315165458434",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 14:14:48 +0000 2020",
+      "id": 1326166422356189200,
+      "id_str": "1326166422356189185",
+      "full_text": "Hubspot’s website has many examples of pages with a good feature/benefit balance, e.g. https://t.co/3O7tM8rOP0. Any other examples that you like?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3O7tM8rOP0",
+            "expanded_url": "https://www.hubspot.com/products/marketing",
+            "display_url": "hubspot.com/products/marke…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326163499660308500,
+      "in_reply_to_status_id_str": "1326163499660308485",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 15:13:20 +0000 2020",
+      "id": 1326181151669620700,
+      "id_str": "1326181151669620742",
+      "full_text": "5. Add visuals.\n\nHelp people understand what you're talking about by adding pictures or gifs to your copy. Also, visuals will break up the copy, making it easier to read.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326166422356189200,
+      "in_reply_to_status_id_str": "1326166422356189185",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
