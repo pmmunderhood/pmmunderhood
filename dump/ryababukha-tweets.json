@@ -1263,6 +1263,3042 @@
       "favorited": false,
       "retweeted": false,
       "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 15:56:23 +0000 2020",
+      "id": 1326191983614943200,
+      "id_str": "1326191983614943235",
+      "full_text": "6. Get feedback.\n\nIt’s always a good idea to ask someone to review your copy before publishing it. I’m not talking about handing it over to copyeditors. For many of us, this step is already a must.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326181151669620700,
+      "in_reply_to_status_id_str": "1326181151669620742",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 15:57:04 +0000 2020",
+      "id": 1326192156374130700,
+      "id_str": "1326192156374130693",
+      "full_text": "Ask someone you trust to do it. This has helped me find some ambiguities and catch errors multiple times.\n\nHow often should you seek such feedback? It's totally up to you. I do it for the most important and visible content and for the texts I have doubts about.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326191983614943200,
+      "in_reply_to_status_id_str": "1326191983614943235",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 16:12:15 +0000 2020",
+      "id": 1326195979423461400,
+      "id_str": "1326195979423461379",
+      "full_text": "7. Double-check and double-check again.\n\nTypos? Broken links? Grammar mistakes? You don’t want any of those in your texts, so make sure you proofread what you’ve written at least a couple of times.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326192156374130700,
+      "in_reply_to_status_id_str": "1326192156374130693",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 16:12:54 +0000 2020",
+      "id": 1326196140438663200,
+      "id_str": "1326196140438663170",
+      "full_text": "Before doing a final check, I always get some rest and grab a coffee. If I’m not short on time, I can even get back to a copy the next day. Then I review the copy with a fresh pair of eyes.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326195979423461400,
+      "in_reply_to_status_id_str": "1326195979423461379",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 10 16:17:19 +0000 2020",
+      "id": 1326197253544022000,
+      "id_str": "1326197253544022016",
+      "full_text": "That’s it for the main rules I try to follow when writing technical content. I’d be happy to know what these rules are for you!\n\nAnd I have to admit that even though I like the process of content creation, I often feel like the guy in this pic 🤪 https://t.co/bhx95fMJba",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326197184509997000,
+            "id_str": "1326197184509997056",
+            "indices": [
+              246,
+              269
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmeZUBTXcAAObVX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmeZUBTXcAAObVX.jpg",
+            "url": "https://t.co/bhx95fMJba",
+            "display_url": "pic.twitter.com/bhx95fMJba",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326197253544022016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326197184509997000,
+            "id_str": "1326197184509997056",
+            "indices": [
+              246,
+              269
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmeZUBTXcAAObVX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmeZUBTXcAAObVX.jpg",
+            "url": "https://t.co/bhx95fMJba",
+            "display_url": "pic.twitter.com/bhx95fMJba",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326197253544022016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 458,
+                "h": 278,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 06:39:57 +0000 2020",
+      "id": 1326414343781625900,
+      "id_str": "1326414343781625856",
+      "full_text": "@NatashaKatson It depends on many factors, including how hard and interesting the topic is, how tight the deadline is, and how lazy I feel. As for topics, it doesn't take much time usually - I come up with the idea, add it to my list of planned articles, then work on a text when I have time🙂",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        292
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326204835126014000,
+      "in_reply_to_status_id_str": "1326204835126013954",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 09:27:27 +0000 2020",
+      "id": 1326456495647715300,
+      "id_str": "1326456495647715328",
+      "full_text": "Today I want to share my experience with organizing an Ask Me Anything (AMA) session on Reddit. I wasn’t planning to cover this topic but quite a few of my colleagues have reached out to me lately asking for advice on this, so I thought this may be helpful to others too.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 10:13:26 +0000 2020",
+      "id": 1326468067950465000,
+      "id_str": "1326468067950465024",
+      "full_text": "If you’ve never heard of the term AMA before, it’s a way to engage with your audience through a Q&amp;A session. AMA gained popularity on Reddit and is still widely used there. Now, you can also run it on other platforms like Instagram or Facebook.\nhttps://t.co/MY8dFKo05D",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MY8dFKo05D",
+            "expanded_url": "https://www.reddit.com/r/spacex/comments/590wi9/i_am_elon_musk_ask_me_anything_about_becoming_a/",
+            "display_url": "reddit.com/r/spacex/comme…",
+            "indices": [
+              249,
+              272
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326456495647715300,
+      "in_reply_to_status_id_str": "1326456495647715328",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 10:32:21 +0000 2020",
+      "id": 1326472829848662000,
+      "id_str": "1326472829848662018",
+      "full_text": "Why would you bother to hold an AMA? If you ask me, I never thought about holding one until this year. We had a lot of other ways to engage with our users: Twitter, a public issue tracker, conferences, to name just a few.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326468067950465000,
+      "in_reply_to_status_id_str": "1326468067950465024",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 10:34:56 +0000 2020",
+      "id": 1326473478325883000,
+      "id_str": "1326473478325882882",
+      "full_text": "But everything is different this year. So, we started looking for new ways to get in touch with our users and ended up organizing our first AMA a couple of months ago. All of a sudden, it was a great success.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326472829848662000,
+      "in_reply_to_status_id_str": "1326472829848662018",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 11:05:59 +0000 2020",
+      "id": 1326481292356169700,
+      "id_str": "1326481292356169731",
+      "full_text": "The AMA helped us:\n- Pick out the pain points we should focus on in the upcoming releases.\n- Educate users on new features and solve some issues.\n- Show that we’re open to any kind of feedback and can answer the trickiest questions.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326473478325883000,
+      "in_reply_to_status_id_str": "1326473478325882882",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 11:18:59 +0000 2020",
+      "id": 1326484562503938000,
+      "id_str": "1326484562503938049",
+      "full_text": "From the marketing perspective, this AMA gave me some ideas on what type of content could be interesting to our users, confirmed my thoughts on how I should update product positioning, and helped me understand our buyer persona better.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326481292356169700,
+      "in_reply_to_status_id_str": "1326481292356169731",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 11:47:32 +0000 2020",
+      "id": 1326491749632659500,
+      "id_str": "1326491749632659456",
+      "full_text": "So, you can benefit from running an AMA in many ways and I’d totally recommend having one. Now, what should you keep in mind when organizing your AMA?\n\nFirst, start getting ready for it in advance. It took me a while to organize everything.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326484562503938000,
+      "in_reply_to_status_id_str": "1326484562503938049",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 12:00:43 +0000 2020",
+      "id": 1326495066601508900,
+      "id_str": "1326495066601508869",
+      "full_text": "I had to:\n- Find the teammates who'd take part in the AMA, agree on when we’d run it and how to take questions\n- Choose to keep the AMA specific to a topic or make it broad\n- Find the most suitable subreddit and ask its moderators for help\n- Prepare texts for the AMA announcement",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326491749632659500,
+      "in_reply_to_status_id_str": "1326491749632659456",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 12:32:26 +0000 2020",
+      "id": 1326503049301553200,
+      "id_str": "1326503049301553154",
+      "full_text": "How many people should take part in your first AMA? Of course, it’d be great if the whole team could participate but it’s not always possible. You can try to make a decision based on similar AMAs found on the web, e.g. the ones run by other teams in your company/by competitors.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326495066601508900,
+      "in_reply_to_status_id_str": "1326495066601508869",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 12:33:01 +0000 2020",
+      "id": 1326503194520850400,
+      "id_str": "1326503194520850432",
+      "full_text": "In our case, less than half of the team signed up and it was enough.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326503049301553200,
+      "in_reply_to_status_id_str": "1326503049301553154",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 12:47:21 +0000 2020",
+      "id": 1326506803031650300,
+      "id_str": "1326506803031650305",
+      "full_text": "We made our AMA broad and announced it on the most popular related subreddit. I also used our company channels to promote the announcement, including the product blog and Twitter.\n\nThe thing that took longer than I expected was to coordinate everything with the moderators.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326503194520850400,
+      "in_reply_to_status_id_str": "1326503194520850432",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 12:48:17 +0000 2020",
+      "id": 1326507034771157000,
+      "id_str": "1326507034771156993",
+      "full_text": "On the announcement day, I thought that I had everything under control: the texts were ready, the team was ready, the AMA-specific Slack channel was created. There was a teeny-tiny detail that I missed: my post on Reddit got blocked as soon as I published it 😅",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326506803031650300,
+      "in_reply_to_status_id_str": "1326506803031650305",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 13:41:20 +0000 2020",
+      "id": 1326520385534374000,
+      "id_str": "1326520385534373888",
+      "full_text": "I figured it was due to the fact that I was new to Reddit and didn’t have any karma back then.\n\nAnyway, it’s a story with a happy ending - our post got published and pinned on top of the most related subreddit.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326507034771157000,
+      "in_reply_to_status_id_str": "1326507034771156993",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 14:02:18 +0000 2020",
+      "id": 1326525663097065500,
+      "id_str": "1326525663097065473",
+      "full_text": "We decided to collect questions in advance so we’d been doing it for a few days before we actually started answering them. Some people start answering questions right away. Both approaches are good. The one that we went for gives you more time to prepare.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326520385534374000,
+      "in_reply_to_status_id_str": "1326520385534373888",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 14:03:27 +0000 2020",
+      "id": 1326525953745563600,
+      "id_str": "1326525953745563649",
+      "full_text": "Now, how did we decide who handles what? There’s no rocket science here: Slack and a sheet with questions, answers, and their statuses, e.g. Done/In Progress. If there are any frequently asked questions, you can also prepare answers to them in advance to save yourself some time.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326525663097065500,
+      "in_reply_to_status_id_str": "1326525663097065473",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 14:55:43 +0000 2020",
+      "id": 1326539105015013400,
+      "id_str": "1326539105015013376",
+      "full_text": "We didn’t prepare answers in advance, so we spent the whole day responding to users. Once we were done with it, I updated our post on Reddit saying thanks to everyone and confirming that we were no longer accepting questions.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326525953745563600,
+      "in_reply_to_status_id_str": "1326525953745563649",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 15:09:47 +0000 2020",
+      "id": 1326542646249099300,
+      "id_str": "1326542646249099264",
+      "full_text": "Once you’ve done all this, let the moderators know that the thread can be locked. You may ask them to keep your post pinned for a while for better visibility.\n\nAlthough it wasn’t necessary, I also gave away some extended licenses for our product to say thank you to the community.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326539105015013400,
+      "in_reply_to_status_id_str": "1326539105015013376",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Nov 11 15:11:01 +0000 2020",
+      "id": 1326542956170367000,
+      "id_str": "1326542956170366976",
+      "full_text": "The last thing you’ll need to do is to process the feedback you got during the AMA and decide what to do with it.\n\nTo have the trickiest questions always at hand, I collected them in a post published on our blog. It took some time but I refer to this blog post quite often.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326542646249099300,
+      "in_reply_to_status_id_str": "1326542646249099264",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 10:08:25 +0000 2020",
+      "id": 1326829193787797500,
+      "id_str": "1326829193787797506",
+      "full_text": "Ever felt like the mushroom in this pic? Like everyone around you knows what they are doing but you. Congratulations, you know what it's like to have impostor syndrome! https://t.co/WQ6hNqYgHn",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326829088598872000,
+            "id_str": "1326829088598872064",
+            "indices": [
+              169,
+              192
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmnYBreXUAAcZO3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmnYBreXUAAcZO3.jpg",
+            "url": "https://t.co/WQ6hNqYgHn",
+            "display_url": "pic.twitter.com/WQ6hNqYgHn",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326829193787797506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326829088598872000,
+            "id_str": "1326829088598872064",
+            "indices": [
+              169,
+              192
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmnYBreXUAAcZO3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmnYBreXUAAcZO3.jpg",
+            "url": "https://t.co/WQ6hNqYgHn",
+            "display_url": "pic.twitter.com/WQ6hNqYgHn",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326829193787797506/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 10:58:10 +0000 2020",
+      "id": 1326841714275913700,
+      "id_str": "1326841714275913734",
+      "full_text": "All jokes aside, impostor syndrome, the idea that you’ve only succeeded due to luck, and not because of your talent or qualifications, is a very common thing. I know quite a lot of professionals who’ve experienced it, including myself.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326829193787797500,
+      "in_reply_to_status_id_str": "1326829193787797506",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 11:28:09 +0000 2020",
+      "id": 1326849259522711600,
+      "id_str": "1326849259522711552",
+      "full_text": "What is impostor syndrome based on? This would be unrealistic requirements for yourself, an unrealistic picture of what others know and can, and perfectionism, the best friend of many PMMs 🙂",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326841714275913700,
+      "in_reply_to_status_id_str": "1326841714275913734",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 12:18:12 +0000 2020",
+      "id": 1326861855499948000,
+      "id_str": "1326861855499948034",
+      "full_text": "@_beargummy Of course, it does, and I totally agree with you! Yet, luck is only a part of your success while \"impostors\" tend to think that they succeeded mainly because of this luck, not because of their achievements, and this has some negative consequences 😔",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_beargummy",
+            "name": "Daniil Katson",
+            "id": 2302995367,
+            "id_str": "2302995367",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326856975687307300,
+      "in_reply_to_status_id_str": "1326856975687307265",
+      "in_reply_to_user_id": 2302995367,
+      "in_reply_to_user_id_str": "2302995367",
+      "in_reply_to_screen_name": "_beargummy",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 12:18:58 +0000 2020",
+      "id": 1326862048299511800,
+      "id_str": "1326862048299511810",
+      "full_text": "Everyone has their own story to share on how they became an “impostor” in their head, but the reasons why it happened are pretty much the same. I’ll shed some light on mine and share some tips that helped me.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326849259522711600,
+      "in_reply_to_status_id_str": "1326849259522711552",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 12:21:36 +0000 2020",
+      "id": 1326862707719622700,
+      "id_str": "1326862707719622659",
+      "full_text": "I've tended to belittle my achievements as long as I remember myself. I was so used to it that I thought it was normal. At some point, the company I really wanted to work for opened a position I thought I’d potentially be a good fit for (spoiler: it's the company I work for).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326862048299511800,
+      "in_reply_to_status_id_str": "1326862048299511810",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 12:32:05 +0000 2020",
+      "id": 1326865348923154400,
+      "id_str": "1326865348923154433",
+      "full_text": "What's the problem here? The word \"potentially.\" The company is known for setting a high bar for all applicants. \"Why waste my time applying for a job if I'm not smart enough to get it?\" I thought. Yet, my bf convinced me to give it a try, and I got a job offer.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326862707719622700,
+      "in_reply_to_status_id_str": "1326862707719622659",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 12:39:05 +0000 2020",
+      "id": 1326867108802809900,
+      "id_str": "1326867108802809856",
+      "full_text": "A dream job is mine. I should be happy with it, right? I was, but at the same time, the first few months there were one of the most stressful periods of my life. I felt I was a fraud, and everyone around me was much smarter, much more experienced, spoke better English, etc.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326865348923154400,
+      "in_reply_to_status_id_str": "1326865348923154433",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 13:01:12 +0000 2020",
+      "id": 1326872674472243200,
+      "id_str": "1326872674472243200",
+      "full_text": "It took me quite a while to tame all these thoughts. I still need to work on some things, but overall I'm happy with what I've achieved so far. I'll share some tips that helped me deal with all this, hoping they'll help some of you, too.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        237
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326867108802809900,
+      "in_reply_to_status_id_str": "1326867108802809856",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 13:20:41 +0000 2020",
+      "id": 1326877576195928000,
+      "id_str": "1326877576195928065",
+      "full_text": "TLDR\n\n1⃣Admit you have a problem.\n2⃣Get support.\n3⃣Find what calms you down.\n4⃣Stop thinking everyone is perfect.\n5⃣Start to notice your strengths.\n6⃣Be kind to yourself.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326872674472243200,
+      "in_reply_to_status_id_str": "1326872674472243200",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 13:42:21 +0000 2020",
+      "id": 1326883032456974300,
+      "id_str": "1326883032456974336",
+      "full_text": "1. Admit you have a problem.\n\nStart to analyze your thoughts and catch yourself belittling what you're doing. You need to realize that it's not OK. And the next step can help you with that.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326877576195928000,
+      "in_reply_to_status_id_str": "1326877576195928065",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 13:43:32 +0000 2020",
+      "id": 1326883328335753200,
+      "id_str": "1326883328335753219",
+      "full_text": "2. Get support.\n\nTell someone you trust how you feel. When I started blaming myself for doing something wrong again, my friends would calm me down and remind me that I set too high expectations for myself. When you constantly hear something like this, you start to believe it.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326883032456974300,
+      "in_reply_to_status_id_str": "1326883032456974336",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 13:45:52 +0000 2020",
+      "id": 1326883917853552600,
+      "id_str": "1326883917853552642",
+      "full_text": "And remember: there are no bad or good feelings. All of your feelings are important. If you’ve felt this way, then there was a reason for that - there might be a problem that you need to solve to become a happier person.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326883328335753200,
+      "in_reply_to_status_id_str": "1326883328335753219",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 14:12:12 +0000 2020",
+      "id": 1326890543151001600,
+      "id_str": "1326890543151001601",
+      "full_text": "3. Find what calms you down. \n\nThis could be meditation, swimming, painting, whatever makes you feel better. For me it was yoga. I did it several days a week before going to work to relieve stress.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326883917853552600,
+      "in_reply_to_status_id_str": "1326883917853552642",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 14:30:25 +0000 2020",
+      "id": 1326895128234102800,
+      "id_str": "1326895128234102786",
+      "full_text": "4. Stop thinking everyone is perfect.\n\nThe only person you know everything about is you. For others, you never get to see the whole picture. They may be as insecure as you are. Or thinking “how does he/she find time to do all this while I barely keep up with what I do” about you. https://t.co/QH8y97CUdC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326895085326360600,
+            "id_str": "1326895085326360576",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmoUDMcW4AA0lkm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmoUDMcW4AA0lkm.jpg",
+            "url": "https://t.co/QH8y97CUdC",
+            "display_url": "pic.twitter.com/QH8y97CUdC",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326895128234102786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326895085326360600,
+            "id_str": "1326895085326360576",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmoUDMcW4AA0lkm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmoUDMcW4AA0lkm.jpg",
+            "url": "https://t.co/QH8y97CUdC",
+            "display_url": "pic.twitter.com/QH8y97CUdC",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1326895128234102786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 512,
+                "h": 384,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326890543151001600,
+      "in_reply_to_status_id_str": "1326890543151001601",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 14:50:22 +0000 2020",
+      "id": 1326900147519971300,
+      "id_str": "1326900147519971328",
+      "full_text": "5. Start to notice your strengths.\n\nSomeone said you did a great job? No matter how hard it is for you, try not to tell them \"you're mistaken\" or \"nah, I got lucky.\" You did a great job. And you're really good at doing X. Period.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326895128234102800,
+      "in_reply_to_status_id_str": "1326895128234102786",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 15:00:56 +0000 2020",
+      "id": 1326902805257482200,
+      "id_str": "1326902805257482242",
+      "full_text": "6. Be kind to yourself.\n\nMade a mistake or screwed something up? This can happen to anyone. Remember, it's not the end of the world. You can fix what you've done, and everyone will forget about what you did sooner than you've ever imagined.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326900147519971300,
+      "in_reply_to_status_id_str": "1326900147519971328",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Nov 12 15:08:11 +0000 2020",
+      "id": 1326904631016951800,
+      "id_str": "1326904631016951821",
+      "full_text": "That’s it from my side. Happy to learn about your experience with this and the things that helped you 🙂",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326902805257482200,
+      "in_reply_to_status_id_str": "1326902805257482242",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 08:07:32 +0000 2020",
+      "id": 1327161160462905300,
+      "id_str": "1327161160462905344",
+      "full_text": "Some might be just being nice, but it's doubtful that it's the case for everyone around you, especially for your manager, who needs you to get your work done and done well 🙂 And annual salary reviews and bonuses tell you how well you're doing. What is your opinion on that? https://t.co/GpuA8YRW3c",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GpuA8YRW3c",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1326912566711504898",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              274,
+              297
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1326912566711505000,
+      "quoted_status_id_str": "1326912566711504898",
+      "quoted_status_permalink": {
+        "url": "https://t.co/GpuA8YRW3c",
+        "expanded": "https://twitter.com/NatashaKatson/status/1326912566711504898",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Nov 12 15:39:43 +0000 2020",
+        "id": 1326912566711505000,
+        "id_str": "1326912566711504898",
+        "full_text": "@pmmunderhood But how do you know if they are being nice and polite or they are telling the truth?:)",
+        "truncated": false,
+        "display_text_range": [
+          14,
+          100
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "pmmunderhood",
+              "name": "Product Marketing Underhood",
+              "id": 1252951365619507200,
+              "id_str": "1252951365619507200",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1326900147519971300,
+        "in_reply_to_status_id_str": "1326900147519971328",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 08:12:04 +0000 2020",
+      "id": 1327162299023548400,
+      "id_str": "1327162299023548418",
+      "full_text": "@NatashaKatson I'd say it's the hardest one to learn! I finally learned it this year and since then it's has become much easier for me to handle all the difficulties at work.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326912332614803500,
+      "in_reply_to_status_id_str": "1326912332614803465",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 09:45:18 +0000 2020",
+      "id": 1327185761771413500,
+      "id_str": "1327185761771413507",
+      "full_text": "Morning everyone! On my last day, I want to share some of my favorite books with you. All of them aren’t about marketing - I’m sure you’ve read many of those. Yet, these books somehow helped me at work and inspired me a lot.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 09:49:46 +0000 2020",
+      "id": 1327186888617300000,
+      "id_str": "1327186888617299970",
+      "full_text": "1. Lean In: Women, Work, and the Will to Lead by Sheryl Sandberg.\n\nAlthough there’ve been some scandals around Sandberg and the book itself is controversial at times, it’s still one of the most motivational work-related books I’ve ever read.\nhttps://t.co/6VXVho6GVr",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6VXVho6GVr",
+            "expanded_url": "https://www.amazon.com/gp/product/B009LMTDL0",
+            "display_url": "amazon.com/gp/product/B00…",
+            "indices": [
+              242,
+              265
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327185761771413500,
+      "in_reply_to_status_id_str": "1327185761771413507",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 10:04:07 +0000 2020",
+      "id": 1327190499413926000,
+      "id_str": "1327190499413925891",
+      "full_text": "I came across Lean In when I was unhappy with my job and thought about applying for another one. I didn’t have the guts to apply for it (thank you, impostor syndrome!), and this book was one of the reasons I did it anyway.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327186888617300000,
+      "in_reply_to_status_id_str": "1327186888617299970",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 10:05:03 +0000 2020",
+      "id": 1327190733531582500,
+      "id_str": "1327190733531582465",
+      "full_text": "If you’re unsure if Lean In could be a good read for you, you can start by watching this TED talk: https://t.co/hUMfV2fzWL. Sandberg gave it before writing the book.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hUMfV2fzWL",
+            "expanded_url": "https://youtu.be/18uDutylDa4",
+            "display_url": "youtu.be/18uDutylDa4",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327190499413926000,
+      "in_reply_to_status_id_str": "1327190499413925891",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 10:41:42 +0000 2020",
+      "id": 1327199956265037800,
+      "id_str": "1327199956265037824",
+      "full_text": "2. Everybody Lies by Seth Stephens-Davidowitz. \n\nThis book opened my eyes to how far from reality any statistics can be. It also confirmed that you shouldn’t compare yourself with others based on what they share with the outside world.\nhttps://t.co/w0dKuqxmo0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/w0dKuqxmo0",
+            "expanded_url": "https://www.amazon.com/Everybody-Lies-Internet-About-Really/dp/0062390856",
+            "display_url": "amazon.com/Everybody-Lies…",
+            "indices": [
+              236,
+              259
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327190733531582500,
+      "in_reply_to_status_id_str": "1327190733531582465",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 11:05:29 +0000 2020",
+      "id": 1327205939892662300,
+      "id_str": "1327205939892662273",
+      "full_text": "What I liked about Everybody Lies is that it’s full of interesting examples. You can learn about some of them by reading this article: https://t.co/6cYNf1mUim.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6cYNf1mUim",
+            "expanded_url": "https://www.theguardian.com/technology/2017/jul/09/everybody-lies-how-google-reveals-darkest-secrets-seth-stephens-davidowitz",
+            "display_url": "theguardian.com/technology/201…",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327199956265037800,
+      "in_reply_to_status_id_str": "1327199956265037824",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 11:35:49 +0000 2020",
+      "id": 1327213575648239600,
+      "id_str": "1327213575648239617",
+      "full_text": "3. The Ideal Executive by Dr. Ichak Kalderon Adizes\n\nA must-read for those who need to manage people and form teams around them. And for those who want to understand what mistakes their bosses make from the management perspective 🤫\nhttps://t.co/z7UAfm2pq5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z7UAfm2pq5",
+            "expanded_url": "https://www.amazon.com/Ideal-Executive-Ichak-Kalderon-Adizes-ebook/dp/B07L3G8PM9",
+            "display_url": "amazon.com/Ideal-Executiv…",
+            "indices": [
+              232,
+              255
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327205939892662300,
+      "in_reply_to_status_id_str": "1327205939892662273",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 11:46:18 +0000 2020",
+      "id": 1327216212728832000,
+      "id_str": "1327216212728832001",
+      "full_text": "The book explains why there’s no such thing as an “ideal executive” and what to do about it. Its main thought is that there are four types of management styles, you can’t be good at all of them, but you can compose a team of professionals who would complement each other. https://t.co/JJmD8QFHgP",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327216192927490000,
+            "id_str": "1327216192927490048",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ems4GHeW4AAe0aA.png",
+            "media_url_https": "https://pbs.twimg.com/media/Ems4GHeW4AAe0aA.png",
+            "url": "https://t.co/JJmD8QFHgP",
+            "display_url": "pic.twitter.com/JJmD8QFHgP",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327216212728832001/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1128,
+                "h": 762,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1128,
+                "h": 762,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 459,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327216192927490000,
+            "id_str": "1327216192927490048",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ems4GHeW4AAe0aA.png",
+            "media_url_https": "https://pbs.twimg.com/media/Ems4GHeW4AAe0aA.png",
+            "url": "https://t.co/JJmD8QFHgP",
+            "display_url": "pic.twitter.com/JJmD8QFHgP",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327216212728832001/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1128,
+                "h": 762,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1128,
+                "h": 762,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 459,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327213575648239600,
+      "in_reply_to_status_id_str": "1327213575648239617",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 11:47:22 +0000 2020",
+      "id": 1327216481990570000,
+      "id_str": "1327216481990569984",
+      "full_text": "The cool thing is that you can take a free test to identify your management style: https://t.co/gSKGF3AEIS. If you’ve ever taken this test or decide to take it now, I’d be curious to know what is yours. I’m an Integrator, with the Entrepreneur style taking second place.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gSKGF3AEIS",
+            "expanded_url": "https://s.adizes.org/msi/",
+            "display_url": "s.adizes.org/msi/",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327216212728832000,
+      "in_reply_to_status_id_str": "1327216212728832001",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 12:40:22 +0000 2020",
+      "id": 1327229820539981800,
+      "id_str": "1327229820539981824",
+      "full_text": "4. Essentialism: The Disciplined Pursuit of Less by Greg Mckeown\n\nI’ve read quite a lot of books on time management and related topics. This one isn’t groundbreaking, but I learned some useful tips from it and started to manage my time more effectively.\nhttps://t.co/MNgWAtlCs0",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MNgWAtlCs0",
+            "expanded_url": "https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00G1J1D28",
+            "display_url": "amazon.com/Essentialism-D…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327216481990570000,
+      "in_reply_to_status_id_str": "1327216481990569984",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 12:50:50 +0000 2020",
+      "id": 1327232455825371100,
+      "id_str": "1327232455825371138",
+      "full_text": "For me, one of the key takeaways from this book was that we tend to overestimate the importance of any notification the first ~15 minutes after we’ve got it. Instead, you can wait for a while, then get back to what people want from you and only then decide how important it is.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327229820539981800,
+      "in_reply_to_status_id_str": "1327229820539981824",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 12:53:04 +0000 2020",
+      "id": 1327233016352153600,
+      "id_str": "1327233016352153601",
+      "full_text": "A pretty simple thought, right? Yet, I know many people, including myself, who would start working on some small, not-at-all-urgent task as soon as someone asks them about it. I had this problem, and it prevented me from working productively on more high-priority tasks.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327232455825371100,
+      "in_reply_to_status_id_str": "1327232455825371138",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 13:17:21 +0000 2020",
+      "id": 1327239127612481500,
+      "id_str": "1327239127612481536",
+      "full_text": "Now, before doing something I was asked to, I evaluate how urgent it is first and only then decide whether I need to work on it right now or it can wait. This has helped me greatly increase my productivity.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327233016352153600,
+      "in_reply_to_status_id_str": "1327233016352153601",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 13:20:01 +0000 2020",
+      "id": 1327239798063558700,
+      "id_str": "1327239798063558656",
+      "full_text": "Many other thoughts are worth taking a moment to reflect on in this book. Attaching the picture with some key ideas Mckeown shared in his book. https://t.co/UoL3KIIl3t",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327239636658376700,
+            "id_str": "1327239636658376710",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmtNauLXUAYe771.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmtNauLXUAYe771.png",
+            "url": "https://t.co/UoL3KIIl3t",
+            "display_url": "pic.twitter.com/UoL3KIIl3t",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327239798063558656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327239636658376700,
+            "id_str": "1327239636658376710",
+            "indices": [
+              144,
+              167
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmtNauLXUAYe771.png",
+            "media_url_https": "https://pbs.twimg.com/media/EmtNauLXUAYe771.png",
+            "url": "https://t.co/UoL3KIIl3t",
+            "display_url": "pic.twitter.com/UoL3KIIl3t",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327239798063558656/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 550,
+                "h": 399,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327239127612481500,
+      "in_reply_to_status_id_str": "1327239127612481536",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 13:54:13 +0000 2020",
+      "id": 1327248406058836000,
+      "id_str": "1327248406058835969",
+      "full_text": "5. Shoe dog by Phil Knight\n\nThis is an extremely inspiring and easy-to-read about the rise of Nike written by its creator. Key takeaways from it for me:\n- Do what you love and never give up\n- Influencers have always been a thing\nhttps://t.co/7HwGuhh0Yv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7HwGuhh0Yv",
+            "expanded_url": "https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44",
+            "display_url": "amazon.com/Shoe-Dog-Memoi…",
+            "indices": [
+              229,
+              252
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327239798063558700,
+      "in_reply_to_status_id_str": "1327239798063558656",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 14:09:12 +0000 2020",
+      "id": 1327252177010782200,
+      "id_str": "1327252177010782208",
+      "full_text": "That would be it for my favorite work-related books. I’d be happy to learn about yours 🙂",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327248406058836000,
+      "in_reply_to_status_id_str": "1327248406058835969",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 17:55:36 +0000 2020",
+      "id": 1327309152364998700,
+      "id_str": "1327309152364998658",
+      "full_text": "Thank you for being with me this week! You can ping me here until Sunday or on my personal Twitter account @ryababukha if you have any questions left or want to share your thoughts on anything.\n\nMy doggo says hi to you and wishes you all a great weekend 😛 https://t.co/xc5LmpzL7l",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ryababukha",
+            "name": "Ekaterina Ryabukha",
+            "id": 1172482746847027200,
+            "id_str": "1172482746847027205",
+            "indices": [
+              107,
+              118
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327308907363098600,
+            "id_str": "1327308907363098624",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmuMazqW4AAvyAQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmuMazqW4AAvyAQ.jpg",
+            "url": "https://t.co/xc5LmpzL7l",
+            "display_url": "pic.twitter.com/xc5LmpzL7l",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327309152364998658/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 650,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 460,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 650,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327308907363098600,
+            "id_str": "1327308907363098624",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmuMazqW4AAvyAQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmuMazqW4AAvyAQ.jpg",
+            "url": "https://t.co/xc5LmpzL7l",
+            "display_url": "pic.twitter.com/xc5LmpzL7l",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1327309152364998658/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 650,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 460,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 650,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 17:59:06 +0000 2020",
+      "id": 1327310033579815000,
+      "id_str": "1327310033579814912",
+      "full_text": "@NatashaKatson I even have it on my book shelf, need to finally find some time to read it 🙂",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327264647809036300,
+      "in_reply_to_status_id_str": "1327264647809036296",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Nov 13 17:59:47 +0000 2020",
+      "id": 1327310205835751400,
+      "id_str": "1327310205835751424",
+      "full_text": "@NatashaKatson Thanks! I'll check it out.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327264209403515000,
+      "in_reply_to_status_id_str": "1327264209403514883",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
     }
   ]
 }
