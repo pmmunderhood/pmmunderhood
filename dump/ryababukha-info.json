@@ -26,45 +26,46 @@
     }
   },
   "protected": false,
-  "followers_count": 130,
+  "followers_count": 138,
   "friends_count": 111,
   "listed_count": 2,
   "created_at": "Wed Apr 22 13:24:45 +0000 2020",
-  "favourites_count": 24,
+  "favourites_count": 27,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 321,
+  "statuses_count": 384,
   "lang": null,
   "status": {
-    "created_at": "Tue Nov 10 15:13:20 +0000 2020",
-    "id": 1326181151669620700,
-    "id_str": "1326181151669620742",
-    "text": "5. Add visuals.\n\nHelp people understand what you're talking about by adding pictures or gifs to your copy. Also, vi… https://t.co/j0hBZQ6Cxr",
-    "truncated": true,
+    "created_at": "Fri Nov 13 17:59:47 +0000 2020",
+    "id": 1327310205835751400,
+    "id_str": "1327310205835751424",
+    "text": "@NatashaKatson Thanks! I'll check it out.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/j0hBZQ6Cxr",
-          "expanded_url": "https://twitter.com/i/web/status/1326181151669620742",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "NatashaKatson",
+          "name": "Natasha Katson",
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358",
           "indices": [
-            117,
-            140
+            0,
+            14
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1326166422356189200,
-    "in_reply_to_status_id_str": "1326166422356189185",
-    "in_reply_to_user_id": 1252951365619507200,
-    "in_reply_to_user_id_str": "1252951365619507200",
-    "in_reply_to_screen_name": "pmmunderhood",
+    "in_reply_to_status_id": 1327264209403515000,
+    "in_reply_to_status_id_str": "1327264209403514883",
+    "in_reply_to_user_id": 1303822400656740400,
+    "in_reply_to_user_id_str": "1303822400656740358",
+    "in_reply_to_screen_name": "NatashaKatson",
     "geo": null,
     "coordinates": null,
     "place": null,
