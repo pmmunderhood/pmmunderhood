@@ -26,64 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 138,
+  "followers_count": 153,
   "friends_count": 17,
   "listed_count": 2,
   "created_at": "Wed Apr 22 13:24:45 +0000 2020",
-  "favourites_count": 27,
+  "favourites_count": 30,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 397,
+  "statuses_count": 414,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 16 18:00:15 +0000 2020",
-    "id": 1328397485300125700,
-    "id_str": "1328397485300125698",
-    "text": "Inspiring content: #2\n\nhttps://t.co/t7TA0GmlnL shows researches in a much different and creative way. \n\nFor me, it… https://t.co/RupGGLFoQ8",
-    "truncated": true,
+    "created_at": "Sat Nov 21 19:58:02 +0000 2020",
+    "id": 1330239064252027000,
+    "id_str": "1330239064252026880",
+    "text": "Thanks for following my week! Signing off from here, let’s connect at @Luisarr :)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/t7TA0GmlnL",
-          "expanded_url": "http://Pudding.cool",
-          "display_url": "Pudding.cool",
+          "screen_name": "Luisarr",
+          "name": "Luisa",
+          "id": 57717324,
+          "id_str": "57717324",
           "indices": [
-            23,
-            46
-          ]
-        },
-        {
-          "url": "https://t.co/RupGGLFoQ8",
-          "expanded_url": "https://twitter.com/i/web/status/1328397485300125698",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            116,
-            139
+            70,
+            78
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1328394518178173000,
-    "in_reply_to_status_id_str": "1328394518178172929",
-    "in_reply_to_user_id": 1252951365619507200,
-    "in_reply_to_user_id_str": "1252951365619507200",
-    "in_reply_to_screen_name": "pmmunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   "contributors_enabled": false,
