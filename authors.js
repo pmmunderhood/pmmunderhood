@@ -6,6 +6,7 @@ export default authorId([
   //   first: '',  # id of first tweet
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   // },
+  { username: 'pujapuja191', start: '23 Nov 2020', first: '1330859423842111491' },
   { username: 'luisarr', start: '16 Nov 2020', first: '1328237241425145856' },
   { username: 'ryababukha', start: '9 Nov 2020', first: '1325741303087378434' },
   { username: 'ulanKZ', start: '2 Nov 2020', first: '1323206520784506881' },
