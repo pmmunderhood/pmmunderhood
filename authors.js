@@ -6,7 +6,7 @@ export default authorId([
   //   first: '',  # id of first tweet
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   // },
-  { username: 'giorgobiany', start: '27 Jun 2021', first: '1409435766963441665' },
+  { username: 'giorgobiany', start: '27 Jun 2021', first: '1409435766963441665', extUrl: 'https://t.me/giorgobiany' },
   { username: 'pujapuja191', start: '23 Nov 2020', first: '1330859423842111491' },
   { username: 'luisarr', start: '16 Nov 2020', first: '1328237241425145856' },
   { username: 'ryababukha', start: '9 Nov 2020', first: '1325741303087378434' },
