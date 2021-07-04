@@ -24,7 +24,7 @@ block content
               = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at)
             h1.author__username
               = "@" + author.username
-              a.small(href="https://twitter.com/" + author.username)
+              a.small(href=author.extUrl ? author.extUrl : ("https://twitter.com/" + author.username))
                 span.glyphicon.glyphicon-new-window
             //- if author.info.location
               span.small
