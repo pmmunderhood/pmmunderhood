@@ -1,0 +1,2336 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 28 08:57:27 +0000 2021",
+      "id": 1409435766963441700,
+      "id_str": "1409435766963441665",
+      "full_text": "What's good, product people?\n\nPavel Giorgobiany's here to take over this account for the upcoming week to talk about my journey as a PMM. \n\nI'm 32, I live in Moscow, Russia.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 08:57:27 +0000 2021",
+      "id": 1409435768741941200,
+      "id_str": "1409435768741941254",
+      "full_text": "I worked 4 years as a PMM at InfoWatch, a cybersecurity company offering enterprise software, and at YCLIENTS, a SaaS startup for SMBs. That gave me a good understanding of how PMMs work in different industries with different types of products and company cultures.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409435766963441700,
+      "in_reply_to_status_id_str": "1409435766963441665",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 08:57:28 +0000 2021",
+      "id": 1409435771044610000,
+      "id_str": "1409435771044610050",
+      "full_text": "Earlier this year I went self-employed to pursue two goals: 1) to work as a consultant with as many entrepreneurs and product teams as possible to help them grow;\n2) to develop the PMM community in Russia and spread the word about product marketing to all product folks around.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409435768741941200,
+      "in_reply_to_status_id_str": "1409435768741941254",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 08:57:29 +0000 2021",
+      "id": 1409435773498232800,
+      "id_str": "1409435773498232832",
+      "full_text": "So, let's get started, shall we? :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409435771044610000,
+      "in_reply_to_status_id_str": "1409435771044610050",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 10:44:00 +0000 2021",
+      "id": 1409462581480366000,
+      "id_str": "1409462581480366083",
+      "full_text": "Here's my plan for this week.\n\nMonday: How I realized that product marketing is for me\nTuesday: Key concepts that helped me grow as PMM\nWednesday: Making go-to-market strategy work for you and your org\nThursday: Why customer segmentation matters\nFriday: Product launches that suck",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 19:08:43 +0000 2021",
+      "id": 1409589596430602200,
+      "id_str": "1409589596430602245",
+      "full_text": "@NatashaKatson It's going to be a little fun hopefully :)",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409512502635925500,
+      "in_reply_to_status_id_str": "1409512502635925508",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 19:12:18 +0000 2021",
+      "id": 1409590498830930000,
+      "id_str": "1409590498830929923",
+      "full_text": "@NatashaKatson Friends, yes, and local networking chats or services like Uniter, Random Coffee, and mentoring platforms like Solvery. Haven't tried LinkedIn yet, but it's worth giving a try!",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409512639777104000,
+      "in_reply_to_status_id_str": "1409512639777103874",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:18 +0000 2021",
+      "id": 1409611387991695400,
+      "id_str": "1409611387991695360",
+      "full_text": "Today I'm going to talk about how I realized that no other role for me was better than PMM. And maybe this will strengthen your belief in what you do or want to become, or even change the direction",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:19 +0000 2021",
+      "id": 1409611389598154800,
+      "id_str": "1409611389598154762",
+      "full_text": "#1 I always loved tech. Not like going nuts over it, but I was always genuinely fascinated how new tech products or innovations changed people's habits. And I always felt excited explaining the value of it to the others.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611387991695400,
+      "in_reply_to_status_id_str": "1409611387991695360",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:19 +0000 2021",
+      "id": 1409611391368114200,
+      "id_str": "1409611391368114192",
+      "full_text": "#2 Before entering the PMM role I worked as a bizdev manager at a software distribution company that was a Microsoft partner. Being always in touch with Microsoft gave me a great understanding about how one of the most successful companies works. It just felt so perfect to me.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611389598154800,
+      "in_reply_to_status_id_str": "1409611389598154762",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:20 +0000 2021",
+      "id": 1409611393377132500,
+      "id_str": "1409611393377132551",
+      "full_text": "On my side, I worked with almost every team in the company which got me a great understanding of two things: business processes across the org and communication with people. It was crucial in getting different teams aligned on big goals and understanding each other's challenges.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611391368114200,
+      "in_reply_to_status_id_str": "1409611391368114192",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:20 +0000 2021",
+      "id": 1409611395147124700,
+      "id_str": "1409611395147124741",
+      "full_text": "Later I figured that what I had was structural thinking and high EQ, and eventually that was what helped me to work as a PMM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611393377132500,
+      "in_reply_to_status_id_str": "1409611393377132551",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:20 +0000 2021",
+      "id": 1409611396791287800,
+      "id_str": "1409611396791287808",
+      "full_text": "#3 The previous point kind of also explains why I love marketing (because of its complexity). But originally, I loved marketing because of its power to ship the great product to the right people and share knowledge about them.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611395147124700,
+      "in_reply_to_status_id_str": "1409611395147124741",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:21 +0000 2021",
+      "id": 1409611398896881700,
+      "id_str": "1409611398896881671",
+      "full_text": "I think good marketing can be described as a mathematical equation: The less variables you have by doing research and experimenting, the faster you get to solve the equation and find your market fit.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611396791287800,
+      "in_reply_to_status_id_str": "1409611396791287808",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:21 +0000 2021",
+      "id": 1409611400675315700,
+      "id_str": "1409611400675315712",
+      "full_text": "#4 Another interesting thing I found about myself was that I genuinely love talking to people. This can give me a great energy boost! But not all the time, because sometimes you have to give yourself a break from that too.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611398896881700,
+      "in_reply_to_status_id_str": "1409611398896881671",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:22 +0000 2021",
+      "id": 1409611402650787800,
+      "id_str": "1409611402650787842",
+      "full_text": "#5 Product people are remarkable and I can't stop being amazed of so much great ideas and innovations that continue to happen only in the product management space.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611400675315700,
+      "in_reply_to_status_id_str": "1409611400675315712",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:22 +0000 2021",
+      "id": 1409611404429213700,
+      "id_str": "1409611404429213702",
+      "full_text": "The openness of sharing each other's mistakes and coming up with frameworks that help simplify other startups' and businesses' lives is just incredible to me. In 2021, product marketing can be referred to that as well (shoutout to @PMMalliance)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              231,
+              243
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611402650787800,
+      "in_reply_to_status_id_str": "1409611402650787842",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:35:23 +0000 2021",
+      "id": 1409611406211784700,
+      "id_str": "1409611406211784704",
+      "full_text": "#6 As a PMM, I could not just cope with the product handed over to me to bring it to market. That's not product marketing. If you are in situation like this, get involved in the product development cycle or find a better place.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611404429213700,
+      "in_reply_to_status_id_str": "1409611404429213702",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 28 20:40:31 +0000 2021",
+      "id": 1409612698409656300,
+      "id_str": "1409612698409656327",
+      "full_text": "The same goes for strategy, pricing and other high-level stuff.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        63
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1409611406211784700,
+      "in_reply_to_status_id_str": "1409611406211784704",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 22:34:21 +0000 2021",
+      "id": 1410003735921713200,
+      "id_str": "1410003735921713159",
+      "full_text": "Back to the 'hood' with day 2 of this week's show! \n\nHope you enjoyed the first day when I talked about how being a communicative complex problem-solver and strategist made me stick to product marketing.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 22:34:22 +0000 2021",
+      "id": 1410003737918181400,
+      "id_str": "1410003737918181378",
+      "full_text": "Today, let's dive a level deeper to cover key concepts I learnt and utilized in my career as a PMM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410003735921713200,
+      "in_reply_to_status_id_str": "1410003735921713159",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:13:35 +0000 2021",
+      "id": 1410013609556652000,
+      "id_str": "1410013609556652040",
+      "full_text": "The first on the list is product-led growth. I think it's great for 3 reasons: 1) excellent understanding of your customer and its journey; 2) better UX; 3) team alignment. All this combined is the right way to win the market.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:13:36 +0000 2021",
+      "id": 1410013611234414600,
+      "id_str": "1410013611234414594",
+      "full_text": "Shouldn't be easy to implement at some point. I tried to convert people across the sales-led org with deep-rooted processes, but failed because it would've required enormous changes in sales and product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410013609556652000,
+      "in_reply_to_status_id_str": "1410013609556652040",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:25:23 +0000 2021",
+      "id": 1410016578041782300,
+      "id_str": "1410016578041782273",
+      "full_text": "Second is the positioning spectrum. I think it's kind of liberated me from thinking that the emotional positioning is better than rational because it messes up with human psychology. https://t.co/F8E1dDf9Ku",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1410014255139672000,
+            "id_str": "1410014255139672064",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5FgfpXWUAA1qz_.png",
+            "media_url_https": "https://pbs.twimg.com/media/E5FgfpXWUAA1qz_.png",
+            "url": "https://t.co/F8E1dDf9Ku",
+            "display_url": "pic.twitter.com/F8E1dDf9Ku",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1410016578041782273/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 700,
+                "h": 395,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 700,
+                "h": 395,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 384,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1410014255139672000,
+            "id_str": "1410014255139672064",
+            "indices": [
+              183,
+              206
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5FgfpXWUAA1qz_.png",
+            "media_url_https": "https://pbs.twimg.com/media/E5FgfpXWUAA1qz_.png",
+            "url": "https://t.co/F8E1dDf9Ku",
+            "display_url": "pic.twitter.com/F8E1dDf9Ku",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1410016578041782273/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 700,
+                "h": 395,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 700,
+                "h": 395,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 384,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:25:24 +0000 2021",
+      "id": 1410016580507930600,
+      "id_str": "1410016580507930625",
+      "full_text": "Nothing is better than what fits your customer's expectations and the market you are in or just entering.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        105
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410016578041782300,
+      "in_reply_to_status_id_str": "1410016578041782273",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:42:20 +0000 2021",
+      "id": 1410020843321761800,
+      "id_str": "1410020843321761796",
+      "full_text": "Next might seem obvious, but it's the AAARRR funnel. Just lay it out once, find the weak spots, and start ideating and prioritizing the hypotheses. Should work pretty much everywhere.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Jun 29 23:47:47 +0000 2021",
+      "id": 1410022213823180800,
+      "id_str": "1410022213823180803",
+      "full_text": "No 4. All go-to-market frameworks have a lot in common. Don't waste time deep-researching and comparing them (Pragmatic, PMA, 280 Group, etc.). Just pick one, remove everything that's irrelevant to your business and go.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 08:39:39 +0000 2021",
+      "id": 1410156063035474000,
+      "id_str": "1410156063035473920",
+      "full_text": "To wrap up day 2 here's the last one by Gary Vee: content is king, but context is god. It can be applied not just for social media, but in every situation when your message is reaching your audience.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 08:39:39 +0000 2021",
+      "id": 1410156064721490000,
+      "id_str": "1410156064721489922",
+      "full_text": "In my early days of writing tons of collateral I might not know or forget that. It's not just about how great your pitch deck or whitepaper is written, it's also about the moment when you send or hand it over to your potential customer. And it also shapes your narrative.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410156063035474000,
+      "in_reply_to_status_id_str": "1410156063035473920",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 21:21:34 +0000 2021",
+      "id": 1410347806645182500,
+      "id_str": "1410347806645182464",
+      "full_text": "Let's unpack day 3, shall we?\n\nToday I'm going to share a bunch of thought on how I figured the importance of go-to-market strategy and how crucial it is to make it consistent and actionable.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 21:32:48 +0000 2021",
+      "id": 1410350632607883300,
+      "id_str": "1410350632607883269",
+      "full_text": "So, what are the symptoms of lacking consistency or even complete absence of G2M strategy?\n\nCould be something like this: 1) the intended value of the product was poorly communicated; 2) building a one size fits all product; 3) sudden change of direction;",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 21:32:48 +0000 2021",
+      "id": 1410350633924841500,
+      "id_str": "1410350633924841475",
+      "full_text": "4) not clear or completely different OKRs in product and marketing; 5) insufficient research; 6) product manager does not partner with PMM or does everything solely (with least of the PMM functions)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410350632607883300,
+      "in_reply_to_status_id_str": "1410350632607883269",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 22:27:08 +0000 2021",
+      "id": 1410364304294137900,
+      "id_str": "1410364304294137862",
+      "full_text": "Following up the previous tweet: one team's success does not guarantee the overall success. \n\nSo, to maximize effort of all teams I found 3 components to be the good G2M recipe:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        177
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 22:27:08 +0000 2021",
+      "id": 1410364305753743400,
+      "id_str": "1410364305753743360",
+      "full_text": "1. The initiator. You need a person who will be driving the go-to-market strategy creation process and its execution. That person has to be 100% aware of his/her role. Usually it's PMM, but it could also be PM.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410364304294137900,
+      "in_reply_to_status_id_str": "1410364304294137862",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 22:27:08 +0000 2021",
+      "id": 1410364307163037700,
+      "id_str": "1410364307163037699",
+      "full_text": "2. Data. Grab all your research, marketing or product data analytics, ask founders or field troops to share their expertise, whatever. I love 5C's Framework for that, because it's pretty concise when making sure you checked yourself before going out.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410364305753743400,
+      "in_reply_to_status_id_str": "1410364305753743360",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Jun 30 22:27:09 +0000 2021",
+      "id": 1410364308605788200,
+      "id_str": "1410364308605788160",
+      "full_text": "3. Communications. You and your colleagues have to have the right expectations about the results, clear boundaries in roles and responsibilities, and lower the risk of being out of sync as much as possible.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1410364307163037700,
+      "in_reply_to_status_id_str": "1410364307163037699",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Jul 01 22:49:39 +0000 2021",
+      "id": 1410732362292334600,
+      "id_str": "1410732362292334599",
+      "full_text": "Hey everyone! It’s a good day, innit? :) https://t.co/VW6a8zRVLK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VW6a8zRVLK",
+            "expanded_url": "https://twitter.com/pmmalliance/status/1410614502001811467",
+            "display_url": "twitter.com/pmmalliance/st…",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1410614502001811500,
+      "quoted_status_id_str": "1410614502001811467",
+      "quoted_status_permalink": {
+        "url": "https://t.co/VW6a8zRVLK",
+        "expanded": "https://twitter.com/pmmalliance/status/1410614502001811467",
+        "display": "twitter.com/pmmalliance/st…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 01 15:01:19 +0000 2021",
+        "id": 1410614502001811500,
+        "id_str": "1410614502001811467",
+        "full_text": "The State of Product Marketing 2021 report has finally landed! 🎉\n\nJoin us on an intrepid exploration of what life looks like for hundreds of PMMs all around the globe right now.\n\nGet your copy 👇\n\nhttps://t.co/wJUDQPDIDs\n\n#product #marketing #productmarketing #sopmm2021",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          269
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "product",
+              "indices": [
+                221,
+                229
+              ]
+            },
+            {
+              "text": "marketing",
+              "indices": [
+                230,
+                240
+              ]
+            },
+            {
+              "text": "productmarketing",
+              "indices": [
+                241,
+                258
+              ]
+            },
+            {
+              "text": "sopmm2021",
+              "indices": [
+                259,
+                269
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/wJUDQPDIDs",
+              "expanded_url": "https://okt.to/NMARLz",
+              "display_url": "okt.to/NMARLz",
+              "indices": [
+                196,
+                219
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.oktopost.com\" rel=\"nofollow\">Oktopost</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1118077712286068700,
+          "id_str": "1118077712286068736"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:30 +0000 2021",
+      "id": 1410901438885204000,
+      "id_str": "1410901438885203971",
+      "full_text": "So, it’s day 4 and today I’ll talk a little bit about customer segmentation, and why you have to take care of it as early as possible.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:31 +0000 2021",
+      "id": 1410901442643251200,
+      "id_str": "1410901442643251200",
+      "full_text": "So, I had an opportunity to work with a big customer base consisting of 25K+ companies and hundreds of thousands of users. The problem was I couldn’t properly segment them.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901438885204000,
+      "in_reply_to_status_id_str": "1410901438885203971",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:32 +0000 2021",
+      "id": 1410901444258062300,
+      "id_str": "1410901444258062341",
+      "full_text": "The problem was that it would presumably take a lot of time to implement proper segmentation and analytics tools by developers, because the initial implementation was made like 5 years ago.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901442643251200,
+      "in_reply_to_status_id_str": "1410901442643251200",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:33 +0000 2021",
+      "id": 1410901448209096700,
+      "id_str": "1410901448209096709",
+      "full_text": "So, I could do pretty basic segments based on geography, or last activity, or license activation date, but that sucked anyways. I couldn’t personalise almost any offer, so I always had problems with delivering the message to a bunch of wrong users.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901444258062300,
+      "in_reply_to_status_id_str": "1410901444258062341",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:33 +0000 2021",
+      "id": 1410901449970704400,
+      "id_str": "1410901449970704386",
+      "full_text": "That could also lead to additional technical problems with email providers. I hope you don’t know what I’m talking about, but if you do, I virtually hug you.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901448209096700,
+      "in_reply_to_status_id_str": "1410901448209096709",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:34 +0000 2021",
+      "id": 1410901451631743000,
+      "id_str": "1410901451631742978",
+      "full_text": "The key of great segmentation is capturing and analysing users behaviour. So if you don’t have that, you’re missing a huge opportunity of m impacting your users.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901449970704400,
+      "in_reply_to_status_id_str": "1410901449970704386",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 10:01:34 +0000 2021",
+      "id": 1410901453384913000,
+      "id_str": "1410901453384912897",
+      "full_text": "So, make sure that product team and stakeholders are aware of issues like that and put it on the product team’s roadmap to fix this ASAP. Because otherwise you are wasting your and some your customers’ time and energy, or simply not helping them and not growing your metrics",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1410901451631743000,
+      "in_reply_to_status_id_str": "1410901451631742978",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 15:55:21 +0000 2021",
+      "id": 1410990486811205600,
+      "id_str": "1410990486811205638",
+      "full_text": "Hey! We made it to friday and day 5. Ready for those launches that suck?\n\nLet me start off with a meme I made recently. https://t.co/2oIAEktoLo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1410990221169148000,
+            "id_str": "1410990221169147908",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5TYIWJWQAQ6sgh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5TYIWJWQAQ6sgh.jpg",
+            "url": "https://t.co/2oIAEktoLo",
+            "display_url": "pic.twitter.com/2oIAEktoLo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1410990486811205638/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1410990221169148000,
+            "id_str": "1410990221169147908",
+            "indices": [
+              120,
+              143
+            ],
+            "media_url": "http://pbs.twimg.com/media/E5TYIWJWQAQ6sgh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E5TYIWJWQAQ6sgh.jpg",
+            "url": "https://t.co/2oIAEktoLo",
+            "display_url": "pic.twitter.com/2oIAEktoLo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1410990486811205638/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1920,
+                "h": 1080,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 675,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:46 +0000 2021",
+      "id": 1411061053509849000,
+      "id_str": "1411061053509849090",
+      "full_text": "I will show a few signs of a product that is definitely going to suck.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:46 +0000 2021",
+      "id": 1411061054843592700,
+      "id_str": "1411061054843592705",
+      "full_text": "1) You may ship the product without bugs, with perfect timing and execution, but vague objectives and success metrics will eventually make your launch suck. Actually, you won't be able to measure how much it sucked",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061053509849000,
+      "in_reply_to_status_id_str": "1411061053509849090",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:46 +0000 2021",
+      "id": 1411061056252821500,
+      "id_str": "1411061056252821507",
+      "full_text": "2) If the product or feature is released without telling marketing or PMM about, it just may not be worth telling (like a bug fix), or it's just going to suck, because other teams are not prepared for this.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061054843592700,
+      "in_reply_to_status_id_str": "1411061054843592705",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:47 +0000 2021",
+      "id": 1411061057804722200,
+      "id_str": "1411061057804722182",
+      "full_text": "3) If you don't do enough research before building product or planning marketing campaigns, you should be aware of the risk of making your launch suck.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061056252821500,
+      "in_reply_to_status_id_str": "1411061056252821507",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:47 +0000 2021",
+      "id": 1411061059142750200,
+      "id_str": "1411061059142750209",
+      "full_text": "4) If you postpone the release date for the 5th time already, the quality of this launch speaks for itself.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061057804722200,
+      "in_reply_to_status_id_str": "1411061057804722182",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:47 +0000 2021",
+      "id": 1411061060472291300,
+      "id_str": "1411061060472291334",
+      "full_text": "5) If the value of the product is poorly communicated across other teams (marketing, sales, customer success),  your PMM will have to admit that this launch kinda sucked.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061059142750200,
+      "in_reply_to_status_id_str": "1411061059142750209",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:48 +0000 2021",
+      "id": 1411061061852319700,
+      "id_str": "1411061061852319748",
+      "full_text": "6) Poor segmentation, biased targeting? That really takes the biscuit.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061060472291300,
+      "in_reply_to_status_id_str": "1411061060472291334",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:48 +0000 2021",
+      "id": 1411061063156748300,
+      "id_str": "1411061063156748291",
+      "full_text": "7) \"Do we have a go-to-market strategy?\" — This question may prevent your product launch from suckening.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061061852319700,
+      "in_reply_to_status_id_str": "1411061061852319748",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 20:35:48 +0000 2021",
+      "id": 1411061064444285000,
+      "id_str": "1411061064444284929",
+      "full_text": "I could go on, but I think you get the idea. Hope you've had some fun with this as I have.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1411061063156748300,
+      "in_reply_to_status_id_str": "1411061063156748291",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 02 21:19:11 +0000 2021",
+      "id": 1411071982804799500,
+      "id_str": "1411071982804799493",
+      "full_text": "Alright, I think it’s time to wrap this week up. I’ll still be in touch for the weekend to reply to comments.\n\nThanks everybody, I hope you enjoyed reading. And thanks to @NatashaKatson for inviting me to host this week. \n\nSee ya!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              171,
+              185
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
