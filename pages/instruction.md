@@ -43,14 +43,11 @@ People won't comment if you ignore them. Here are some tools that might help:
 1. [Like](https://help.twitter.com/en/using-twitter/liking-tweets-and-moments) – like comments, tweets, 
 whatever you find interesting.
 2. [Retweet with a quote](https://help.twitter.com/en/using-twitter/how-to-retweet) – 
-if you find someones question interesting enough, you can retweet it with 
-the answer and the tweet will appear in everyone's feed. I recommend to use 
-this tool, it makes the content more visible.
-3. [Reply](https://help.twitter.com/en/using-twitter/mentions-and-replies) – 
-Reply to other people's tweets. Please note that few subscribers will see, but it's a useful tool for dialogue. 
-4. [Retweet](https://help.twitter.com/en/using-twitter/how-to-retweet) – if 
+retweet with a quote to answer comments from the followers. In this case the tweet will appear in everyone's feed and will be added to the archive of your week. If you want to continue the conversation, use a [reply](https://help.twitter.com/en/using-twitter/mentions-and-replies).
+3. [Retweet](https://help.twitter.com/en/using-twitter/how-to-retweet) – if 
 you find some interesing tweet, you can retweet it. For example, someone 
 tweets about you being a cool author :) 
+4. [Mention](https://help.twitter.com/en/using-twitter/mentions-and-replies) - don't hesitate to mention people or accounts that you find interesting.
 
 #### Publish a meta-thread
 
