@@ -1,7 +1,7 @@
 Shared Twitter is a platform where different people from the industry share their personal experiences. The concept is simple - every week, 
-the account has a new author who reveals a new topic every day through a series of tweets and conversations with the followers.
-A shared account lets you exchange knowledge with industry experts and learn new things about industry insights.
-It’s similar to “ask-me-anything” on Reddit. 
+the account has **a new author** who reveals a new topic every day through a series of tweets and conversations with the followers.
+A shared account lets you exchange knowledge with industry experts and learn new things about industry insights. There is no commercial interest behind the account, it’s just great to read about other people's experiences and share your own. 
+It’s similar to "ask-me-anything" on Reddit. 
 
 
 ## What are the benefits?
