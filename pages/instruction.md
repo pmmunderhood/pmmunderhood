@@ -22,7 +22,7 @@ Here are some ideas:
 
 Don't worry if someone already covered the same topic you want to talk about. It's ok, everyone has their own experience.
 
-### How much should I write?
+### How much should you write?
 
 Again, it depends on you and the topics you have chosen. Of course, subscribers are more interested in reading more information - but do what you feel right. During your week, Twitter becomes your personal platform, so you have to decide what impression you want to leave.
 
@@ -53,7 +53,7 @@ tweets about you being a cool author :)
 
 At the end of the week, you can make another thread and cover the links to all the exciting threads over the past week.
 
-#### Share in your social network
+#### Share the account in your social network
 
 Do not hesitate to share with your friends that you became an author of the week in your social network. Your friends might be interested in reading about your experience.
 
@@ -66,7 +66,7 @@ Publish a plan for your week on your first day. Here is [an example](https://twi
 Please use this checklist for your first day:
 
 1. Change the profile picture and the bio in the profile.
-2. Introduce yourself. Tell about yourself and your company
+2. Introduce yourself. Tell about yourself and your company.
 3. Publish the plan for the week.
 4. [Pin the tweet](https://twitter.com/twittersupport/status/458707240325615617)
  with the plan.
