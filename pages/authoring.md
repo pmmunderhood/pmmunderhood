@@ -1,13 +1,15 @@
 It's easy to become an author!
 
-## What will you gain as an author?
+## What are the benefits?
 
+* Experience: each author is unique and comes with their own experience
 * New subscribers from your target audience
 * Get all of your experience together. Check if it's similar to other PMMs
-* New people, new ideas, new things
 * A new and unique experience
 * Add an archive of your week to your Linkedin profile
-* Visibility among the community
+* A personal brand: as an author, you share your professional expertise with the community
+* Broadening the horizons: you’ll discover new trends and meet interesting people
+* The shift of your habits: authors can have work methods that are fundamentally different from yours
 * It's cool to be an author
 
 ## Why do you need it?
@@ -42,4 +44,7 @@ age, sexual orientation, disability, body size, race, ethnicity, religion, techn
 
 Please contact curator [@NatashaKatson](https://twitter.com/natashakatson) if 
 you see that the rules are violated.
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Project on Ko-fi', '#29abe0', 'M4M35IHJS');kofiwidget2.draw();</script> 
+
 

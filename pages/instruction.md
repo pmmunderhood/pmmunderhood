@@ -92,3 +92,7 @@ It's ok, don't worry about it. You'll be alright.
 > You are not sure what to share
 
 Everyone has something to share - just tell us how your regular days go. Don't be shy, people are interested in any experience!
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Project on Ko-fi', '#29abe0', 'M4M35IHJS');kofiwidget2.draw();</script> 
+
+
