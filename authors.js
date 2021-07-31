@@ -7,6 +7,7 @@ export default authorId([
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   //   extUrl: 'https://some.url/insteadOfTwitter' # Include only for author that doesn't have twitter. Will display link to this page instead of personal twitter
   // },
+  { username: 'AMcBick', start: '26 Jul 2021', first: '1419694238237790209' },
   { username: 'felipecb_', start: '19 Jul 2021', first: '1417130357875478529' },
   { username: 'tululu', start: '5 Jul 2021', first: '1412041455732932615', extUrl: 'https://t.me/tululu' },
   { username: 'giorgobiany', start: '27 Jun 2021', first: '1409435766963441665', extUrl: 'https://t.me/giorgobiany' },
