@@ -1,0 +1,4364 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 09 15:23:58 +0000 2021",
+      "id": 1424753326491672600,
+      "id_str": "1424753326491672576",
+      "full_text": "Hi, I'm Alexandra Kulachikova, Product Owner at @semrush . Happy to be with you this week and share some thoughts about Product Marketing, KPIs and analytics.\nHere are random facts about me:\n- I'm on a horse. Yes, I can ride it.\nNow you are intrigued. See more in the thread - https://t.co/PjN15eq6NC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "semrush",
+            "name": "Semrush",
+            "id": 21896072,
+            "id_str": "21896072",
+            "indices": [
+              48,
+              56
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1424752400636711000,
+            "id_str": "1424752400636710915",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8W8wnzWEAMasVQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8W8wnzWEAMasVQ.jpg",
+            "url": "https://t.co/PjN15eq6NC",
+            "display_url": "pic.twitter.com/PjN15eq6NC",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1424753326491672576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 543,
+                "h": 724,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 543,
+                "h": 724,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1424752400636711000,
+            "id_str": "1424752400636710915",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8W8wnzWEAMasVQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8W8wnzWEAMasVQ.jpg",
+            "url": "https://t.co/PjN15eq6NC",
+            "display_url": "pic.twitter.com/PjN15eq6NC",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1424753326491672576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 543,
+                "h": 724,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 543,
+                "h": 724,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 09 15:26:37 +0000 2021",
+      "id": 1424753995013365800,
+      "id_str": "1424753995013365764",
+      "full_text": "- At Semrush, I lead the product development of the new SaaS. It will be a marketing analytics tool. Coming soon!\nI can tell how to calculate the P&amp;L of a product and estimate the market size. How development and product prioritisation process look like in an IT company.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1424753326491672600,
+      "in_reply_to_status_id_str": "1424753326491672576",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 09 15:43:29 +0000 2021",
+      "id": 1424758239439249400,
+      "id_str": "1424758239439249415",
+      "full_text": "I have more than 13 years of experience in digital marketing, analytics and product management. But I'm a musicologist by profession.\nThis taught me: \"Do not be afraid to change something in your life.\" https://t.co/dz27dus0rQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1424757824731627500,
+            "id_str": "1424757824731627525",
+            "indices": [
+              203,
+              226
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8XBsWIWQAUoMKe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8XBsWIWQAUoMKe.jpg",
+            "url": "https://t.co/dz27dus0rQ",
+            "display_url": "pic.twitter.com/dz27dus0rQ",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1424758239439249415/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1424757824731627500,
+            "id_str": "1424757824731627525",
+            "indices": [
+              203,
+              226
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8XBsWIWQAUoMKe.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8XBsWIWQAUoMKe.jpg",
+            "url": "https://t.co/dz27dus0rQ",
+            "display_url": "pic.twitter.com/dz27dus0rQ",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1424758239439249415/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1424753326491672600,
+      "in_reply_to_status_id_str": "1424753326491672576",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 09 15:48:34 +0000 2021",
+      "id": 1424759518521606100,
+      "id_str": "1424759518521606148",
+      "full_text": "@semrush I used to work at @GoogleRussia where developed and implemented Google Analytics &amp; Google Tag Manager promotion strategy. Launched the first official education program about digital analytics in russian. @Googleanalytics became the main analytical system for Enterprises",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        283
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "semrush",
+            "name": "Semrush",
+            "id": 21896072,
+            "id_str": "21896072",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "GoogleRussia",
+            "name": "Google Россия",
+            "id": 53002114,
+            "id_str": "53002114",
+            "indices": [
+              27,
+              40
+            ]
+          },
+          {
+            "screen_name": "googleanalytics",
+            "name": "Google Analytics",
+            "id": 51263711,
+            "id_str": "51263711",
+            "indices": [
+              217,
+              233
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1424753326491672600,
+      "in_reply_to_status_id_str": "1424753326491672576",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 09 15:54:31 +0000 2021",
+      "id": 1424761014181113900,
+      "id_str": "1424761014181113857",
+      "full_text": "@semrush At Yandex I worked with analytical products @yandexmetrika , @AppMetrica , Yandex.Radar etc.\n• Yandex.Metrica reached 9% market share worldwide (15% growth YoY). Now it is the third most popular web-analytics tool in the world. See it by yourself https://t.co/FGBDcg9whe",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "semrush",
+            "name": "Semrush",
+            "id": 21896072,
+            "id_str": "21896072",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "yandexmetrika",
+            "name": "Яндекс.Метрика",
+            "id": 217075443,
+            "id_str": "217075443",
+            "indices": [
+              53,
+              67
+            ]
+          },
+          {
+            "screen_name": "AppMetrica",
+            "name": "AppMetrica",
+            "id": 760406015422697500,
+            "id_str": "760406015422697472",
+            "indices": [
+              70,
+              81
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/FGBDcg9whe",
+            "expanded_url": "https://w3techs.com/technologies/overview/traffic_analysis",
+            "display_url": "w3techs.com/technologies/o…",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1424753326491672600,
+      "in_reply_to_status_id_str": "1424753326491672576",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 09 15:55:56 +0000 2021",
+      "id": 1424761373754630100,
+      "id_str": "1424761373754630149",
+      "full_text": "@semrush Add me on LinkedIn\nhttps://t.co/pgTEMIE0XP, Facebook https://t.co/Ta16mQ4jom\n or save on Crunchbase https://t.co/ok7PaKqqkX\nTelegram works too @kulachikova\nWill be happy to chat!",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "semrush",
+            "name": "Semrush",
+            "id": 21896072,
+            "id_str": "21896072",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "kulachikova",
+            "name": "Ал Кулачикова",
+            "id": 479467574,
+            "id_str": "479467574",
+            "indices": [
+              152,
+              164
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/pgTEMIE0XP",
+            "expanded_url": "https://www.linkedin.com/in/kulachikova/",
+            "display_url": "linkedin.com/in/kulachikova/",
+            "indices": [
+              28,
+              51
+            ]
+          },
+          {
+            "url": "https://t.co/Ta16mQ4jom",
+            "expanded_url": "https://www.facebook.com/kulachikova/",
+            "display_url": "facebook.com/kulachikova/",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "url": "https://t.co/ok7PaKqqkX",
+            "expanded_url": "https://www.crunchbase.com/person/alexandra-kulachikova",
+            "display_url": "crunchbase.com/person/alexand…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1424753326491672600,
+      "in_reply_to_status_id_str": "1424753326491672576",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 09:25:08 +0000 2021",
+      "id": 1425025413366141000,
+      "id_str": "1425025413366140933",
+      "full_text": "So, what we will talk about this week:\nTuesday - 9 steps of good marketing strategy\nWednesday - funnels of metrics (Spoiler: Customers, Revenue, Time&amp;Conversion)\nThursday - How to evaluate the effectiveness of \"unmesurable\": PR, Events, Brand campaigns\nFriday - See in the thread https://t.co/N8kAAerNWk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        283
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425023814400974800,
+            "id_str": "1425023814400974851",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8azm-3XoAMOLIY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8azm-3XoAMOLIY.jpg",
+            "url": "https://t.co/N8kAAerNWk",
+            "display_url": "pic.twitter.com/N8kAAerNWk",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425025413366140933/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 882,
+                "h": 882,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 882,
+                "h": 882,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425023814400974800,
+            "id_str": "1425023814400974851",
+            "indices": [
+              284,
+              307
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8azm-3XoAMOLIY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8azm-3XoAMOLIY.jpg",
+            "url": "https://t.co/N8kAAerNWk",
+            "display_url": "pic.twitter.com/N8kAAerNWk",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425025413366140933/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 882,
+                "h": 882,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 882,
+                "h": 882,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 09:27:57 +0000 2021",
+      "id": 1425026120525795300,
+      "id_str": "1425026120525795344",
+      "full_text": "Friday - Marketing team and roles\nSaturday - random Q&amp;A about everything in PMMs life.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425025413366141000,
+      "in_reply_to_status_id_str": "1425025413366140933",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 14:57:10 +0000 2021",
+      "id": 1425108969996042200,
+      "id_str": "1425108969996042253",
+      "full_text": "MARKETING STRATEGY.\nWhat it consists of, where to get the data and how to do it.\n1 step. Market research\nWhat the market looks like now. How many customers can pay for your product and where are they concentrated.\n#MarketingStrategy #productmarketing #marketresearch https://t.co/dkWw1c8FcA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "MarketingStrategy",
+            "indices": [
+              214,
+              232
+            ]
+          },
+          {
+            "text": "productmarketing",
+            "indices": [
+              233,
+              250
+            ]
+          },
+          {
+            "text": "marketresearch",
+            "indices": [
+              251,
+              266
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425108738583810000,
+            "id_str": "1425108738583810052",
+            "indices": [
+              267,
+              290
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+            "url": "https://t.co/dkWw1c8FcA",
+            "display_url": "pic.twitter.com/dkWw1c8FcA",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425108969996042253/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425108738583810000,
+            "id_str": "1425108738583810052",
+            "indices": [
+              267,
+              290
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+            "url": "https://t.co/dkWw1c8FcA",
+            "display_url": "pic.twitter.com/dkWw1c8FcA",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425108969996042253/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 540,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 14:58:17 +0000 2021",
+      "id": 1425109253199630300,
+      "id_str": "1425109253199630338",
+      "full_text": "For example, once I analyzed the possibility of going to a small southern country market. It turned out that the main audience is concentrated in the former capital, while other regions do not have sufficient Internet coverage...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 14:59:21 +0000 2021",
+      "id": 1425109521794490400,
+      "id_str": "1425109521794490371",
+      "full_text": "Their well-being and needs are not yet sufficient to adapt the product, and in any case, people come to the former capital for shopping. Solution - to capture the old capital. For the rest of the country, negotiate affiliate marketing with a mobile provider and grow awareness.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:08:48 +0000 2021",
+      "id": 1425111899906138000,
+      "id_str": "1425111899906138125",
+      "full_text": "Where you can find information about the market:\nhttps://t.co/RgXdpHkaPH\nGlobal Annual report https://t.co/jycu0PebZa\nStatistics by country government (f/ex https://t.co/PvOFH3GH7L)\nResearches by TNS, Ipsos, GFK\nOr just google it!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RgXdpHkaPH",
+            "expanded_url": "https://www.statista.com/",
+            "display_url": "statista.com",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "url": "https://t.co/jycu0PebZa",
+            "expanded_url": "https://home.kpmg/xx/en/home/insights/2021/02/2020-in-review-infographic.html",
+            "display_url": "home.kpmg/xx/en/home/ins…",
+            "indices": [
+              94,
+              117
+            ]
+          },
+          {
+            "url": "https://t.co/PvOFH3GH7L",
+            "expanded_url": "https://www.usa.gov/statistics",
+            "display_url": "usa.gov/statistics",
+            "indices": [
+              157,
+              180
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:14:50 +0000 2021",
+      "id": 1425113418386788400,
+      "id_str": "1425113418386788360",
+      "full_text": "Talk to experts from this country and area. Don't forget about seasonality and COVID impact. Think about what will happen next, taking into account these factors.\nDetermine how much market share you can take. It can be one of your KPIs.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:27:38 +0000 2021",
+      "id": 1425116639561932800,
+      "id_str": "1425116639561932800",
+      "full_text": "Step 2. The TARGET AUDIENCE.\n- Create customer portraits. Who is the decision maker and who will use the product. For example, in B2B, many services are used by ordinary employees, and the budget for their purchase is allocated by C-level.\n#personas #customers #targetaudience",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "personas",
+            "indices": [
+              240,
+              249
+            ]
+          },
+          {
+            "text": "customers",
+            "indices": [
+              250,
+              260
+            ]
+          },
+          {
+            "text": "targetaudience",
+            "indices": [
+              261,
+              276
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:30:56 +0000 2021",
+      "id": 1425117469379899400,
+      "id_str": "1425117469379899403",
+      "full_text": "- The Base.\nWhat audience base do you have now. What dynamics does it have? What is the percentage of new customers and what is the retention rate? How many customers are attracted by discounts?\nWhat are the main sources of attraction?\n#retention #audience #marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "retention",
+            "indices": [
+              236,
+              246
+            ]
+          },
+          {
+            "text": "audience",
+            "indices": [
+              247,
+              256
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              257,
+              271
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:33:01 +0000 2021",
+      "id": 1425117990811578400,
+      "id_str": "1425117990811578377",
+      "full_text": "What is the average bill by customer segment, ARPPU and purchase frequency?\nAt this stage, you should know CR - CPA - CAC - LTV metrics of your product and their dynamics. We will talk about how to measure it later ;-)\n#arppu #cac #ltv #marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "arppu",
+            "indices": [
+              219,
+              225
+            ]
+          },
+          {
+            "text": "cac",
+            "indices": [
+              226,
+              230
+            ]
+          },
+          {
+            "text": "ltv",
+            "indices": [
+              231,
+              235
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              236,
+              250
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:34:53 +0000 2021",
+      "id": 1425118463425749000,
+      "id_str": "1425118463425748996",
+      "full_text": "If you are measuring Net Promoter Score or CSAT, collecting feedback or researching Customer Journey Map, then at this stage you should know what is the satisfaction of the audience now and what problem areas are most often noted.\n#marketingtips #CJM #feedback",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingtips",
+            "indices": [
+              231,
+              245
+            ]
+          },
+          {
+            "text": "CJM",
+            "indices": [
+              246,
+              250
+            ]
+          },
+          {
+            "text": "feedback",
+            "indices": [
+              251,
+              260
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:42:40 +0000 2021",
+      "id": 1425120420055892000,
+      "id_str": "1425120420055891972",
+      "full_text": "Step 3. COMPETITORS\nNow you answer these questions:\n- What is the market share of your competitors now?\n- What are the growth dynamics?\n- What are the benefits and prices?\n- What promotion channels do they use?\nOh, I usually do a table with several competitors comparison.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:46:42 +0000 2021",
+      "id": 1425121436050628600,
+      "id_str": "1425121436050628613",
+      "full_text": "If you are planning to launch a unique new product, what indirect competitors might it have?\nFor example, for food delivery services, this is home cooking and restaurants nearby.\nFor luxury real estate, this can be an investment in stocks.\n#competitors #Marketing #marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "competitors",
+            "indices": [
+              240,
+              252
+            ]
+          },
+          {
+            "text": "Marketing",
+            "indices": [
+              253,
+              263
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              264,
+              278
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 15:56:19 +0000 2021",
+      "id": 1425123857531347000,
+      "id_str": "1425123857531346944",
+      "full_text": "Where you can find info about competitors:\n- Industrial reports\n- Investors reports (these I love the most!)\n- ranking services as https://t.co/H7zp1rrIXP\nor https://t.co/LdyAUz5Eb0\n- traffic comparison services as https://t.co/Cm7Hz3rk8R or Similarweb\nAsk for more tips in DM!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/H7zp1rrIXP",
+            "expanded_url": "https://www.semrush.com/analytics/ranks/rank?db=us",
+            "display_url": "semrush.com/analytics/rank…",
+            "indices": [
+              131,
+              154
+            ]
+          },
+          {
+            "url": "https://t.co/LdyAUz5Eb0",
+            "expanded_url": "https://www.appannie.com/en/apps/ios/top/level-up-rankings/?rankType=quarterly",
+            "display_url": "appannie.com/en/apps/ios/to…",
+            "indices": [
+              158,
+              181
+            ]
+          },
+          {
+            "url": "https://t.co/Cm7Hz3rk8R",
+            "expanded_url": "https://www.semrush.com/analytics/traffic/",
+            "display_url": "semrush.com/analytics/traf…",
+            "indices": [
+              215,
+              238
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 16:05:01 +0000 2021",
+      "id": 1425126044168818700,
+      "id_str": "1425126044168818689",
+      "full_text": "Step 4. RISK FACTORS\nProduct:\n- F.ex., to distribute a product in another country, you need to localize it.\nBrand:\n- Your brand has negative associations.\nLegal:\n- You are going to use personal data, but do not yet comply with the requirements of the law.\n#riskmanagement",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "riskmanagement",
+            "indices": [
+              256,
+              271
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 16:08:29 +0000 2021",
+      "id": 1425126918312108000,
+      "id_str": "1425126918312108041",
+      "full_text": "Based on all this information you can make a SWOT analysis.\nIt will be really interesting to look at it year or half-year after and see changes!\n#swot #marketingtips https://t.co/2TjddPzxIK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "swot",
+            "indices": [
+              145,
+              150
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              151,
+              165
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425126518590673000,
+            "id_str": "1425126518590672898",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8cRBJyWEAIHafv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8cRBJyWEAIHafv.jpg",
+            "url": "https://t.co/2TjddPzxIK",
+            "display_url": "pic.twitter.com/2TjddPzxIK",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425126918312108041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1195,
+                "h": 723,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1195,
+                "h": 723,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425126518590673000,
+            "id_str": "1425126518590672898",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8cRBJyWEAIHafv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E8cRBJyWEAIHafv.jpg",
+            "url": "https://t.co/2TjddPzxIK",
+            "display_url": "pic.twitter.com/2TjddPzxIK",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425126918312108041/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1195,
+                "h": 723,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1195,
+                "h": 723,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 411,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 16:13:06 +0000 2021",
+      "id": 1425128080180453400,
+      "id_str": "1425128080180453381",
+      "full_text": "It is Step 5, actually ;-)\nI usually keep extended comparison table updated and add there major competitors features and opportunities.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425126918312108000,
+      "in_reply_to_status_id_str": "1425126918312108041",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Aug 10 16:17:38 +0000 2021",
+      "id": 1425129221865840600,
+      "id_str": "1425129221865840640",
+      "full_text": "Step 6. Positioning\nActually @felipecb_ already did a great post about this https://t.co/gYHjB7AV8d",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "felipecb_",
+            "name": "Felipe Barbosa",
+            "id": 75195695,
+            "id_str": "75195695",
+            "indices": [
+              29,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gYHjB7AV8d",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1417856095343742979",
+            "display_url": "twitter.com/pmmunderhood/s…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1417856095343743000,
+      "quoted_status_id_str": "1417856095343742979",
+      "quoted_status_permalink": {
+        "url": "https://t.co/gYHjB7AV8d",
+        "expanded": "https://twitter.com/pmmunderhood/status/1417856095343742979",
+        "display": "twitter.com/pmmunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jul 21 14:36:50 +0000 2021",
+        "id": 1417856095343743000,
+        "id_str": "1417856095343742979",
+        "full_text": "Hello, everyone! Let's start a new day of content, shall we? Today I'll share my ideas on Positioning, the most powerful Marketing idea (1/5) https://t.co/NcIeAkOEMH",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          141
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1417856087798255600,
+              "id_str": "1417856087798255619",
+              "indices": [
+                142,
+                165
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/E608mYfXEAMnAty.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E608mYfXEAMnAty.jpg",
+              "url": "https://t.co/NcIeAkOEMH",
+              "display_url": "pic.twitter.com/NcIeAkOEMH",
+              "expanded_url": "https://twitter.com/pmmunderhood/status/1417856095343742979/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1417856087798255600,
+              "id_str": "1417856087798255619",
+              "indices": [
+                142,
+                165
+              ],
+              "media_url": "http://pbs.twimg.com/tweet_video_thumb/E608mYfXEAMnAty.jpg",
+              "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E608mYfXEAMnAty.jpg",
+              "url": "https://t.co/NcIeAkOEMH",
+              "display_url": "pic.twitter.com/NcIeAkOEMH",
+              "expanded_url": "https://twitter.com/pmmunderhood/status/1417856095343742979/photo/1",
+              "type": "animated_gif",
+              "sizes": {
+                "small": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 498,
+                  "h": 200,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  249,
+                  100
+                ],
+                "variants": [
+                  {
+                    "bitrate": 0,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/tweet_video/E608mYfXEAMnAty.mp4"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1252951365619507200,
+          "id_str": "1252951365619507200"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 08:25:53 +0000 2021",
+      "id": 1425372889843441700,
+      "id_str": "1425372889843441668",
+      "full_text": "Step 7. ACTUALS AND PLANS\nAt this stage you know your main metrics, such as ROI, Revenue, AOV, Orders per user etc. Usually we split all the data by category, by channel and by user segment.\nWe will talk more about this topic, stay it touch!\n#metrics #marketingtips #ROI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "metrics",
+            "indices": [
+              242,
+              250
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              251,
+              265
+            ]
+          },
+          {
+            "text": "ROI",
+            "indices": [
+              266,
+              270
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 08:42:38 +0000 2021",
+      "id": 1425377102384205800,
+      "id_str": "1425377102384205825",
+      "full_text": "The next thing is share of channels.\nFor example, right now you get the majority of your sales from ad traffic. This means that you are each time spending money on acquiring and reactivating a customer.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425372889843441700,
+      "in_reply_to_status_id_str": "1425372889843441668",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 08:43:04 +0000 2021",
+      "id": 1425377212329508900,
+      "id_str": "1425377212329508865",
+      "full_text": "And the logical decision is to increase the number and proportion of applications from more stable channels - direct marketing and organic.\n#marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingtips",
+            "indices": [
+              140,
+              154
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425372889843441700,
+      "in_reply_to_status_id_str": "1425372889843441668",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 09:53:28 +0000 2021",
+      "id": 1425394928209760300,
+      "id_str": "1425394928209760257",
+      "full_text": "Agree your goals, KPIs or define OKRs with your team, product manager and other teams it may concern.\nFor example, if OKR states that you need to increase the retention rate - this means strengthen retargeting, direct marketing, extending loyalty program and work with evangelists",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425372889843441700,
+      "in_reply_to_status_id_str": "1425372889843441668",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 09:57:52 +0000 2021",
+      "id": 1425396039259984000,
+      "id_str": "1425396039259983872",
+      "full_text": "Step 8. TACTICS\nAnswer these questions:\n- What channels will be used to close the goals\n- What new channels are planned to be tested\n- What channels need to be retained / grown / abandoned\n- What resources do you have in terms of people, partners, platforms\n#marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingtips",
+            "indices": [
+              258,
+              272
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 10:00:06 +0000 2021",
+      "id": 1425396600608895000,
+      "id_str": "1425396600608894981",
+      "full_text": "I usually have an annual roadmap with list of always-on and flight campaigns, tied to OKRs (or KPIs)\nThis roadmap reviewed every month or twice per quartier.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425396039259984000,
+      "in_reply_to_status_id_str": "1425396039259983872",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 10:10:13 +0000 2021",
+      "id": 1425399144924000300,
+      "id_str": "1425399144924000260",
+      "full_text": "Step 9. BUDGETING\nAs you can see, it is the last part, after all the rest are defined.\nMy marketing budget consists of 2 parts:\n- Standard scenario. We need so much money to reach our goals.\n#budgeting #marketingtips",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "budgeting",
+            "indices": [
+              191,
+              201
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              202,
+              216
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425108969996042200,
+      "in_reply_to_status_id_str": "1425108969996042253",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 10:10:25 +0000 2021",
+      "id": 1425399194622308400,
+      "id_str": "1425399194622308352",
+      "full_text": "- Optimistic scenario. We can do more and test more channels and hypothesis, but we need more resources.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425399144924000300,
+      "in_reply_to_status_id_str": "1425399144924000260",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 18:59:27 +0000 2021",
+      "id": 1425532331440414700,
+      "id_str": "1425532331440414726",
+      "full_text": "FUNNELS of METRICS.\nUsually, when it comes to analytics, I consider 4 funnels: Customers, Revenue, Time and Conversion.\nI measure almost every marketing activity and try to forecast the impact, using the numbers.\nActually, setting of a funnel goal is the part of a marketing brief https://t.co/aJsCQ6kGZt",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425532323248943000,
+            "id_str": "1425532323248943110",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8iCGF8XMAYPk4Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8iCGF8XMAYPk4Y.jpg",
+            "url": "https://t.co/aJsCQ6kGZt",
+            "display_url": "pic.twitter.com/aJsCQ6kGZt",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425532331440414726/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425532323248943000,
+            "id_str": "1425532323248943110",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8iCGF8XMAYPk4Y.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8iCGF8XMAYPk4Y.jpg",
+            "url": "https://t.co/aJsCQ6kGZt",
+            "display_url": "pic.twitter.com/aJsCQ6kGZt",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425532331440414726/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                249,
+                140
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/E8iCGF8XMAYPk4Y.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 19:37:58 +0000 2021",
+      "id": 1425542025273819100,
+      "id_str": "1425542025273819141",
+      "full_text": "Customers funnel - see it on the picture.\nAll these are user-based numbers. Not session-based. It is important!\n#marketingfunnel #customers #funnel #marketingtips https://t.co/mb6OgJpg49",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingfunnel",
+            "indices": [
+              112,
+              128
+            ]
+          },
+          {
+            "text": "customers",
+            "indices": [
+              129,
+              139
+            ]
+          },
+          {
+            "text": "funnel",
+            "indices": [
+              140,
+              147
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              148,
+              162
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425541240590844000,
+            "id_str": "1425541240590843909",
+            "indices": [
+              163,
+              186
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iKNJoWQAUuKoH.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iKNJoWQAUuKoH.png",
+            "url": "https://t.co/mb6OgJpg49",
+            "display_url": "pic.twitter.com/mb6OgJpg49",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425542025273819141/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425541240590844000,
+            "id_str": "1425541240590843909",
+            "indices": [
+              163,
+              186
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iKNJoWQAUuKoH.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iKNJoWQAUuKoH.png",
+            "url": "https://t.co/mb6OgJpg49",
+            "display_url": "pic.twitter.com/mb6OgJpg49",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425542025273819141/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 470,
+                "h": 638,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425532331440414700,
+      "in_reply_to_status_id_str": "1425532331440414726",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 19:43:06 +0000 2021",
+      "id": 1425543315701878800,
+      "id_str": "1425543315701878786",
+      "full_text": "Revenue funnel:\nMarket value (how much people are spending means how much potentially you can get)\nCPC - Cost per click or Cost per Engaged user (how much money you spend just to touch a person)\nCPI - Cost per install or interaction\nCPA - Cost per action\nAOV - Average order value https://t.co/GgcHz4mFbH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425542114591527000,
+            "id_str": "1425542114591526925",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iLABiWUA0d88I.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iLABiWUA0d88I.png",
+            "url": "https://t.co/GgcHz4mFbH",
+            "display_url": "pic.twitter.com/GgcHz4mFbH",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425543315701878786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425542114591527000,
+            "id_str": "1425542114591526925",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iLABiWUA0d88I.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iLABiWUA0d88I.png",
+            "url": "https://t.co/GgcHz4mFbH",
+            "display_url": "pic.twitter.com/GgcHz4mFbH",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425543315701878786/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 508,
+                "h": 650,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425532331440414700,
+      "in_reply_to_status_id_str": "1425532331440414726",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 19:47:04 +0000 2021",
+      "id": 1425544312431988700,
+      "id_str": "1425544312431988736",
+      "full_text": "CPO - Cost per order\nRevenue can be MRR (Monthly recurring revenue) - it depends on your type of monetisation\nROI - Return of investment (may be ROAS or ROMI)\nARPPU - Average revenue per paying user\nLTV - Lifetime value of a customer\n\n#cpo #mrr #Revenue #ROI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "cpo",
+            "indices": [
+              235,
+              239
+            ]
+          },
+          {
+            "text": "mrr",
+            "indices": [
+              240,
+              244
+            ]
+          },
+          {
+            "text": "Revenue",
+            "indices": [
+              245,
+              253
+            ]
+          },
+          {
+            "text": "ROI",
+            "indices": [
+              254,
+              258
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425543315701878800,
+      "in_reply_to_status_id_str": "1425543315701878786",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 19:51:57 +0000 2021",
+      "id": 1425545541849583600,
+      "id_str": "1425545541849583617",
+      "full_text": "Time funnel\nWhat happens if you speed up the time to conversion by a couple of days? You will get more conversions this month. And by increasing retention you increase your future income. https://t.co/Gq65XXLdQ7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425544424927514600,
+            "id_str": "1425544424927514630",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iNGgNX0AYMUGS.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iNGgNX0AYMUGS.png",
+            "url": "https://t.co/Gq65XXLdQ7",
+            "display_url": "pic.twitter.com/Gq65XXLdQ7",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425545541849583617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 862,
+                "h": 666,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 862,
+                "h": 666,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425544424927514600,
+            "id_str": "1425544424927514630",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iNGgNX0AYMUGS.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iNGgNX0AYMUGS.png",
+            "url": "https://t.co/Gq65XXLdQ7",
+            "display_url": "pic.twitter.com/Gq65XXLdQ7",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425545541849583617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 862,
+                "h": 666,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 862,
+                "h": 666,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425532331440414700,
+      "in_reply_to_status_id_str": "1425532331440414726",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 19:58:46 +0000 2021",
+      "id": 1425547258444099600,
+      "id_str": "1425547258444099589",
+      "full_text": "Conversion funnel:\nWhy is it important to count conversions at different stages? For example, you see that the CR of second purchase is low. This means that you will have to spend money all the time to attract new customers. Or you need to throw resources to retain current ones. https://t.co/N6yPWzT1zA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1425545598258884600,
+            "id_str": "1425545598258884611",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iOKzNXsAMSU-R.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iOKzNXsAMSU-R.png",
+            "url": "https://t.co/N6yPWzT1zA",
+            "display_url": "pic.twitter.com/N6yPWzT1zA",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425547258444099589/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 576,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 836,
+                "h": 708,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 836,
+                "h": 708,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1425545598258884600,
+            "id_str": "1425545598258884611",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/E8iOKzNXsAMSU-R.png",
+            "media_url_https": "https://pbs.twimg.com/media/E8iOKzNXsAMSU-R.png",
+            "url": "https://t.co/N6yPWzT1zA",
+            "display_url": "pic.twitter.com/N6yPWzT1zA",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425547258444099589/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 576,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 836,
+                "h": 708,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 836,
+                "h": 708,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425532331440414700,
+      "in_reply_to_status_id_str": "1425532331440414726",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Aug 11 20:06:45 +0000 2021",
+      "id": 1425549266433544200,
+      "id_str": "1425549266433544197",
+      "full_text": "@marisareinoso @wilreynolds Thank you, Marisa\nHere is a thread with some thoughts about how strategy should look like https://t.co/AETyDh1uJc\nAnd here you can find all tweets, carefully combined together https://t.co/q78mosZSLJ\nFeel free to ask our authors in DM!",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "marisareinoso",
+            "name": "Marisa Reinoso",
+            "id": 87109133,
+            "id_str": "87109133",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "wilreynolds",
+            "name": "Wil Reynolds",
+            "id": 14178641,
+            "id_str": "14178641",
+            "indices": [
+              15,
+              27
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/AETyDh1uJc",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1425108969996042253",
+            "display_url": "twitter.com/pmmunderhood/s…",
+            "indices": [
+              118,
+              141
+            ]
+          },
+          {
+            "url": "https://t.co/q78mosZSLJ",
+            "expanded_url": "https://pmmunderhood.com/",
+            "display_url": "pmmunderhood.com",
+            "indices": [
+              204,
+              227
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1425186615337521200,
+      "in_reply_to_status_id_str": "1425186615337521153",
+      "in_reply_to_user_id": 87109133,
+      "in_reply_to_user_id_str": "87109133",
+      "in_reply_to_screen_name": "marisareinoso",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1425108969996042200,
+      "quoted_status_id_str": "1425108969996042253",
+      "quoted_status_permalink": {
+        "url": "https://t.co/AETyDh1uJc",
+        "expanded": "https://twitter.com/pmmunderhood/status/1425108969996042253",
+        "display": "twitter.com/pmmunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Aug 10 14:57:10 +0000 2021",
+        "id": 1425108969996042200,
+        "id_str": "1425108969996042253",
+        "full_text": "MARKETING STRATEGY.\nWhat it consists of, where to get the data and how to do it.\n1 step. Market research\nWhat the market looks like now. How many customers can pay for your product and where are they concentrated.\n#MarketingStrategy #productmarketing #marketresearch https://t.co/dkWw1c8FcA",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          266
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "MarketingStrategy",
+              "indices": [
+                214,
+                232
+              ]
+            },
+            {
+              "text": "productmarketing",
+              "indices": [
+                233,
+                250
+              ]
+            },
+            {
+              "text": "marketresearch",
+              "indices": [
+                251,
+                266
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1425108738583810000,
+              "id_str": "1425108738583810052",
+              "indices": [
+                267,
+                290
+              ],
+              "media_url": "http://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+              "url": "https://t.co/dkWw1c8FcA",
+              "display_url": "pic.twitter.com/dkWw1c8FcA",
+              "expanded_url": "https://twitter.com/pmmunderhood/status/1425108969996042253/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 540,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 540,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1425108738583810000,
+              "id_str": "1425108738583810052",
+              "indices": [
+                267,
+                290
+              ],
+              "media_url": "http://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/E8cA2OGX0AQMA2j.jpg",
+              "url": "https://t.co/dkWw1c8FcA",
+              "display_url": "pic.twitter.com/dkWw1c8FcA",
+              "expanded_url": "https://twitter.com/pmmunderhood/status/1425108969996042253/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 960,
+                  "h": 540,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 540,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1252951365619507200,
+          "id_str": "1252951365619507200"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 12 09:16:44 +0000 2021",
+      "id": 1425748074874425300,
+      "id_str": "1425748074874425347",
+      "full_text": "9 steps of a marketing strategy\nhttps://t.co/Zbv8GaFSMU \n#marketingstrategy #marketingtips #digitalmarketingstrategy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingstrategy",
+            "indices": [
+              57,
+              75
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              76,
+              90
+            ]
+          },
+          {
+            "text": "digitalmarketingstrategy",
+            "indices": [
+              91,
+              116
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Zbv8GaFSMU",
+            "expanded_url": "https://twitter.com/i/events/1425746563339591682",
+            "display_url": "twitter.com/i/events/14257…",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Aug 13 11:57:23 +0000 2021",
+      "id": 1426150891875446800,
+      "id_str": "1426150891875446784",
+      "full_text": "The list of metrics every marketer should use. And how they complement each other.\nhttps://t.co/oPeQrTJxFo \n#marketingtips #marketingfunnel #conversion #ROI #Revenue #customers #DigitalMarketing",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingtips",
+            "indices": [
+              108,
+              122
+            ]
+          },
+          {
+            "text": "marketingfunnel",
+            "indices": [
+              123,
+              139
+            ]
+          },
+          {
+            "text": "conversion",
+            "indices": [
+              140,
+              151
+            ]
+          },
+          {
+            "text": "ROI",
+            "indices": [
+              152,
+              156
+            ]
+          },
+          {
+            "text": "Revenue",
+            "indices": [
+              157,
+              165
+            ]
+          },
+          {
+            "text": "customers",
+            "indices": [
+              166,
+              176
+            ]
+          },
+          {
+            "text": "DigitalMarketing",
+            "indices": [
+              177,
+              194
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oPeQrTJxFo",
+            "expanded_url": "https://twitter.com/i/events/1426140957620281344",
+            "display_url": "twitter.com/i/events/14261…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Aug 13 14:18:35 +0000 2021",
+      "id": 1426186423456223200,
+      "id_str": "1426186423456223235",
+      "full_text": "How do we measure the effectiveness of PR activities:\nSee in the thread how you could measure the PR value of Product Launches.\n#pr #productlaunch #publicrelations #metrics #marketingtips https://t.co/4SYH61C6vF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "pr",
+            "indices": [
+              128,
+              131
+            ]
+          },
+          {
+            "text": "productlaunch",
+            "indices": [
+              132,
+              146
+            ]
+          },
+          {
+            "text": "publicrelations",
+            "indices": [
+              147,
+              163
+            ]
+          },
+          {
+            "text": "metrics",
+            "indices": [
+              164,
+              172
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              173,
+              187
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1426186415684137000,
+            "id_str": "1426186415684136961",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8rU_SJXMAEyaKy.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8rU_SJXMAEyaKy.jpg",
+            "url": "https://t.co/4SYH61C6vF",
+            "display_url": "pic.twitter.com/4SYH61C6vF",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426186423456223235/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1426186415684137000,
+            "id_str": "1426186415684136961",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8rU_SJXMAEyaKy.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8rU_SJXMAEyaKy.jpg",
+            "url": "https://t.co/4SYH61C6vF",
+            "display_url": "pic.twitter.com/4SYH61C6vF",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426186423456223235/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 332,
+                "h": 292,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                83,
+                73
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/E8rU_SJXMAEyaKy.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Aug 13 14:24:44 +0000 2021",
+      "id": 1426187972077133800,
+      "id_str": "1426187972077133834",
+      "full_text": "- the number of mentions initiated by us\n- mentions in the media not initiated by us\n- mentions in social networks\n- tonality of references\n- engagement rate in social net\n- reach,\n- share of initiated and uninitiated mentions\n- Clicks OR Users acquired\n- Conversion start",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426186423456223200,
+      "in_reply_to_status_id_str": "1426186423456223235",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Aug 13 15:43:06 +0000 2021",
+      "id": 1426207691744161800,
+      "id_str": "1426207691744161793",
+      "full_text": "Each launch is rated in comparison to another similar launch.\nMetrics are assessed in a couple of days, a week and 2 weeks after launch.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426186423456223200,
+      "in_reply_to_status_id_str": "1426186423456223235",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 14 14:27:35 +0000 2021",
+      "id": 1426551076933800000,
+      "id_str": "1426551076933799947",
+      "full_text": "How do we measure the effectiveness of activities.\nWhen planning an event:\n- Potential target audience\n- Potential number of leads\n- Cost per lead\n- Cost of touching an existing client\n\n#eventmarketing #marketingtips https://t.co/6Nx5pJIFAd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "eventmarketing",
+            "indices": [
+              186,
+              201
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              202,
+              216
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1426551062715056000,
+            "id_str": "1426551062715056128",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8wgoiMWQAAUvpp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8wgoiMWQAAUvpp.jpg",
+            "url": "https://t.co/6Nx5pJIFAd",
+            "display_url": "pic.twitter.com/6Nx5pJIFAd",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426551076933799947/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1426551062715056000,
+            "id_str": "1426551062715056128",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8wgoiMWQAAUvpp.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8wgoiMWQAAUvpp.jpg",
+            "url": "https://t.co/6Nx5pJIFAd",
+            "display_url": "pic.twitter.com/6Nx5pJIFAd",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426551076933799947/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 498,
+                "h": 280,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                249,
+                140
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/E8wgoiMWQAAUvpp.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 14 14:29:46 +0000 2021",
+      "id": 1426551626924499000,
+      "id_str": "1426551626924498945",
+      "full_text": "Post-event analytics:\n- Reach\n- Number of leads\n- Cost per lead\n- The number of customers who went to the Sales funnel\n- If certain product features were promoted at the event, then the percentage of change in the use of these features\n- NPS\n\n#EVENT #marketingtips #b2b",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "EVENT",
+            "indices": [
+              243,
+              249
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              250,
+              264
+            ]
+          },
+          {
+            "text": "b2b",
+            "indices": [
+              265,
+              269
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426551076933800000,
+      "in_reply_to_status_id_str": "1426551076933799947",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 14 14:35:58 +0000 2021",
+      "id": 1426553187507576800,
+      "id_str": "1426553187507576835",
+      "full_text": "How your Marketing Team may look like if you are PMM:\nMVP Team:\n- PMM (you)\n- Designer\n- Content-manager (Editor)\n\nOptimal Team - see in the thread\n\n#marketingteam #marketingmanagement https://t.co/FqvripurAc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketingteam",
+            "indices": [
+              149,
+              163
+            ]
+          },
+          {
+            "text": "marketingmanagement",
+            "indices": [
+              164,
+              184
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1426553178930258000,
+            "id_str": "1426553178930257923",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8wijttXoAM2Sxx.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8wijttXoAM2Sxx.jpg",
+            "url": "https://t.co/FqvripurAc",
+            "display_url": "pic.twitter.com/FqvripurAc",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426553187507576835/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1426553178930258000,
+            "id_str": "1426553178930257923",
+            "indices": [
+              185,
+              208
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E8wijttXoAM2Sxx.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E8wijttXoAM2Sxx.jpg",
+            "url": "https://t.co/FqvripurAc",
+            "display_url": "pic.twitter.com/FqvripurAc",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426553187507576835/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 336,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                83,
+                56
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/E8wijttXoAM2Sxx.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 14 14:37:25 +0000 2021",
+      "id": 1426553551938101200,
+      "id_str": "1426553551938101249",
+      "full_text": "Optimal Marketing Team:\n- Product Marketing Manager\n- Designer\n- Content-manager (Editor)\n- Digital-brandformance manager\n- PR - manager\n- SMM - manager\n- Event - manager\n- CRM - managerMarketing Analyst",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426553187507576800,
+      "in_reply_to_status_id_str": "1426553187507576835",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Aug 14 14:39:12 +0000 2021",
+      "id": 1426553999801651200,
+      "id_str": "1426553999801651204",
+      "full_text": "You don't have to have all specialists in house. It is totally ok to use help of agencies. In this case your designer may be in a role of an art-director for a production agency.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426553187507576800,
+      "in_reply_to_status_id_str": "1426553187507576835",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 10:53:04 +0000 2021",
+      "id": 1426859480076128300,
+      "id_str": "1426859480076128258",
+      "full_text": "You are PMM. You need to roll out a new messaging. What are you gonna do?\nTest it. Don't just throw it away to your audience!\nYou can do qualitative and quantitative tests.\nSee in the thread, how you can do it.\n#messaging #marketingtips #DigitalMarketing https://t.co/omSbXPTt1t",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "messaging",
+            "indices": [
+              211,
+              221
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              222,
+              236
+            ]
+          },
+          {
+            "text": "DigitalMarketing",
+            "indices": [
+              237,
+              254
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1426859471821750300,
+            "id_str": "1426859471821750275",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E805ITpWQAMiQWe.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E805ITpWQAMiQWe.jpg",
+            "url": "https://t.co/omSbXPTt1t",
+            "display_url": "pic.twitter.com/omSbXPTt1t",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426859480076128258/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1426859471821750300,
+            "id_str": "1426859471821750275",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/E805ITpWQAMiQWe.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E805ITpWQAMiQWe.jpg",
+            "url": "https://t.co/omSbXPTt1t",
+            "display_url": "pic.twitter.com/omSbXPTt1t",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426859480076128258/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 498,
+                "h": 498,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/E805ITpWQAMiQWe.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 10:56:04 +0000 2021",
+      "id": 1426860236590174200,
+      "id_str": "1426860236590174209",
+      "full_text": "- Talk to your strategic customers. Ask how do they feel about this new message. You can do it in person or call a focus group.\n- Don't forget about Experts. They know a lot about a market\n- Talk to your best Sales managers\n#messaging #marketingtips #DigitalMarketing #testing",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "messaging",
+            "indices": [
+              224,
+              234
+            ]
+          },
+          {
+            "text": "marketingtips",
+            "indices": [
+              235,
+              249
+            ]
+          },
+          {
+            "text": "DigitalMarketing",
+            "indices": [
+              250,
+              267
+            ]
+          },
+          {
+            "text": "testing",
+            "indices": [
+              268,
+              276
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426859480076128300,
+      "in_reply_to_status_id_str": "1426859480076128258",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 11:00:13 +0000 2021",
+      "id": 1426861279378124800,
+      "id_str": "1426861279378124805",
+      "full_text": "- Do side-by-side testing of your creatives. We used to do it with Yandex Toloka https://t.co/SqodfJlt37\nIt helps to find out an optimal set of banner and texts before launching a campaign.\n- Launch a retargeting campaign on Facebook or Google Ads with an experiment enabled.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SqodfJlt37",
+            "expanded_url": "https://yandex.com/support/toloka-requester/concepts/side-by-side.html",
+            "display_url": "yandex.com/support/toloka…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426859480076128300,
+      "in_reply_to_status_id_str": "1426859480076128258",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 11:10:10 +0000 2021",
+      "id": 1426863781737635800,
+      "id_str": "1426863781737635846",
+      "full_text": "What is the best traffic source, which can bring you leads?\nIf you think, that it is Google Ads or Sales efforts, you are wrong.\nIt is Organic!\nIn 2020 OpenView conducted a research. They asked 153 people and I agree with them. https://t.co/O4UrOhYKOo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1426862890758324200,
+            "id_str": "1426862890758324227",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/E808PULWQAMBeO5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E808PULWQAMBeO5.jpg",
+            "url": "https://t.co/O4UrOhYKOo",
+            "display_url": "pic.twitter.com/O4UrOhYKOo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426863781737635846/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 648,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1906,
+                "h": 1030,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 367,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1426862890758324200,
+            "id_str": "1426862890758324227",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/E808PULWQAMBeO5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E808PULWQAMBeO5.jpg",
+            "url": "https://t.co/O4UrOhYKOo",
+            "display_url": "pic.twitter.com/O4UrOhYKOo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1426863781737635846/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 648,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1906,
+                "h": 1030,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 367,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 11:12:13 +0000 2021",
+      "id": 1426864297586593800,
+      "id_str": "1426864297586593793",
+      "full_text": "It means you need to work hard and have patience when growing your Organic traffic.\nInvest in evergreen content that gets consistent traffic from Google Search. We use this service to find topics for such content.\nhttps://t.co/9Zq8YJ94iT",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        237
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9Zq8YJ94iT",
+            "expanded_url": "https://ru.semrush.com/topic-research/",
+            "display_url": "ru.semrush.com/topic-research/",
+            "indices": [
+              214,
+              237
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426863781737635800,
+      "in_reply_to_status_id_str": "1426863781737635846",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Aug 15 12:58:06 +0000 2021",
+      "id": 1426890943798591500,
+      "id_str": "1426890943798591492",
+      "full_text": "@Oleg_Permyak Evergreen means that users are constantly interested in it. \nFor example, \"an athlete wins the Tokyo Olympics\" is situational content.\nAnd \"the top 5 countries that always win the Olympics\" - evergreen content.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Oleg_Permyak",
+            "name": "Oleg Martynov",
+            "id": 3388620785,
+            "id_str": "3388620785",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1426889489625067500,
+      "in_reply_to_status_id_str": "1426889489625067523",
+      "in_reply_to_user_id": 3388620785,
+      "in_reply_to_user_id_str": "3388620785",
+      "in_reply_to_screen_name": "Oleg_Permyak",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
