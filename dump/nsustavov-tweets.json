@@ -1,0 +1,3451 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 29 19:59:49 +0000 2021",
+      "id": 1465410188891111400,
+      "id_str": "1465410188891111430",
+      "full_text": "Hello everyone! The new pmmunderthehood week has started, and Nikolay Sustavov(@nsustavov) is your new host this week. Usually here are people from PMM side, and lots of interesting discussion is going around product. Lets see product manager perspective :) \nA few words about me",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nsustavov",
+            "name": "Nikolay Sustavov",
+            "id": 1463050740193136600,
+            "id_str": "1463050740193136640",
+            "indices": [
+              79,
+              89
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 19:59:50 +0000 2021",
+      "id": 1465410190703014000,
+      "id_str": "1465410190703013892",
+      "full_text": "Over the years I had lots of focus in B2B (B2B2C) products at https://t.co/JwSMX6jm0L. Launched mobile engagement, worked with customer data platform, launched Live Chat. Every product I worked with requires empathy to end user and enterprise, like icebreaking small talk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JwSMX6jm0L",
+            "expanded_url": "http://infobip.com",
+            "display_url": "infobip.com",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465410188891111400,
+      "in_reply_to_status_id_str": "1465410188891111430",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 19:59:50 +0000 2021",
+      "id": 1465410192607264800,
+      "id_str": "1465410192607264770",
+      "full_text": "I will be glad to share some of insights on PMs side of expectations in B2B product area, processes large organisation can face with and join the discussion to exchange ideas",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465410190703014000,
+      "in_reply_to_status_id_str": "1465410190703013892",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 20:48:39 +0000 2021",
+      "id": 1465422478302400500,
+      "id_str": "1465422478302400525",
+      "full_text": "I’m one of those rare species that still hasn’t been attached to Twitter community so far. The post above was the first post I ever did on twitter 😅 the week is going to be interesting",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465410192607264800,
+      "in_reply_to_status_id_str": "1465410192607264770",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 22:15:02 +0000 2021",
+      "id": 1465444216268542000,
+      "id_str": "1465444216268541956",
+      "full_text": "Communication is always about delivering clarity with a bit of “mystery carrot” in front to drive a curiosity forward. How often do you recognize the hook? https://t.co/8TdagSRbTo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1465444169422454800,
+            "id_str": "1465444169422454790",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFZNtTSXwAY4QkK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFZNtTSXwAY4QkK.jpg",
+            "url": "https://t.co/8TdagSRbTo",
+            "display_url": "pic.twitter.com/8TdagSRbTo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465444216268541956/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1600,
+                "h": 1100,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 468,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 825,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465444169422454800,
+            "id_str": "1465444169422454790",
+            "indices": [
+              156,
+              179
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFZNtTSXwAY4QkK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFZNtTSXwAY4QkK.jpg",
+            "url": "https://t.co/8TdagSRbTo",
+            "display_url": "pic.twitter.com/8TdagSRbTo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465444216268541956/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1600,
+                "h": 1100,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 468,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 825,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 22:15:03 +0000 2021",
+      "id": 1465444219665977300,
+      "id_str": "1465444219665977349",
+      "full_text": "Practically the hook model isn’t only about product itself. Think how you build your communication interaction within your users customer journey. That’s essential driver for engagement and stickiness when user is off the session",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465444216268542000,
+      "in_reply_to_status_id_str": "1465444216268541956",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 22:15:03 +0000 2021",
+      "id": 1465444221368909800,
+      "id_str": "1465444221368909828",
+      "full_text": "Some may say building conversation funnels is a marketing. No, it’s a part of product team and yes it’s also part of marketing as well = PMM help is needed",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465444219665977300,
+      "in_reply_to_status_id_str": "1465444219665977349",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Nov 29 22:15:04 +0000 2021",
+      "id": 1465444223763849200,
+      "id_str": "1465444223763849225",
+      "full_text": "PMM has two roles - voice of product and voice of customer and better to speak the same language :) \nHow many of you feel being part of a product team?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465444221368909800,
+      "in_reply_to_status_id_str": "1465444221368909828",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 12:59:08 +0000 2021",
+      "id": 1465666706945282000,
+      "id_str": "1465666706945282050",
+      "full_text": "Thanks to @NatashaKatson for a hint, lets collect some insights from the community on how do you feel as PMM in product team area and discuss this more in details in upcoming days https://t.co/tSWbHPXS4m",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tSWbHPXS4m",
+            "expanded_url": "https://forms.gle/t4oLkoWV5K49KokB6",
+            "display_url": "forms.gle/t4oLkoWV5K49Ko…",
+            "indices": [
+              180,
+              203
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465444223763849200,
+      "in_reply_to_status_id_str": "1465444223763849225",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 17:54:32 +0000 2021",
+      "id": 1465741048710377500,
+      "id_str": "1465741048710377473",
+      "full_text": "@marisareinoso The perfect example is gaming. Other examples are instagram, even Twitter - it’s embedded starting from onboarding to further day to day use with recommendation system. That is B2C. In b2b it’s also present but with larger scale. Customer journey is always a driver",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "marisareinoso",
+            "name": "Marisa Reinoso",
+            "id": 87109133,
+            "id_str": "87109133",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465692162595569700,
+      "in_reply_to_status_id_str": "1465692162595569679",
+      "in_reply_to_user_id": 87109133,
+      "in_reply_to_user_id_str": "87109133",
+      "in_reply_to_screen_name": "marisareinoso",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 21:19:37 +0000 2021",
+      "id": 1465792657763016700,
+      "id_str": "1465792657763016706",
+      "full_text": "So about the survey, not many replies yet but at least shows the trend for now. Very often when I have a conversation with PMMs I hear two reasons:\n- be a true part of product team \n- be able to do an impact, also can be treated as sense of recognition https://t.co/curoSWBakH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1465784559774093300,
+            "id_str": "1465784559774093319",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeDSoKWUAcPXdV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeDSoKWUAcPXdV.jpg",
+            "url": "https://t.co/curoSWBakH",
+            "display_url": "pic.twitter.com/curoSWBakH",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792657763016706/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1364,
+                "h": 1134,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 998,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 565,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465784559774093300,
+            "id_str": "1465784559774093319",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeDSoKWUAcPXdV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeDSoKWUAcPXdV.jpg",
+            "url": "https://t.co/curoSWBakH",
+            "display_url": "pic.twitter.com/curoSWBakH",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792657763016706/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1364,
+                "h": 1134,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 998,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 565,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 21:19:38 +0000 2021",
+      "id": 1465792663672733700,
+      "id_str": "1465792663672733698",
+      "full_text": "I'm a true believer that PMM shall be part of a Product Team, however, depending on the organisation the term Product team may vary. \n@ttorres has a good definition of product trio https://t.co/6UnHTFZCEc\nBut frankly, I would include PMM in discovery. https://t.co/Gkjg3ONzjy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ttorres",
+            "name": "Teresa Torres",
+            "id": 2728761,
+            "id_str": "2728761",
+            "indices": [
+              134,
+              142
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6UnHTFZCEc",
+            "expanded_url": "https://bit.ly/3rpxpIY",
+            "display_url": "bit.ly/3rpxpIY",
+            "indices": [
+              181,
+              204
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1465787781494497300,
+            "id_str": "1465787781494497283",
+            "indices": [
+              252,
+              275
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeGOKAWYAM7VdK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeGOKAWYAM7VdK.jpg",
+            "url": "https://t.co/Gkjg3ONzjy",
+            "display_url": "pic.twitter.com/Gkjg3ONzjy",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792663672733698/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1168,
+                "h": 520,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 303,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1168,
+                "h": 520,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465787781494497300,
+            "id_str": "1465787781494497283",
+            "indices": [
+              252,
+              275
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeGOKAWYAM7VdK.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeGOKAWYAM7VdK.jpg",
+            "url": "https://t.co/Gkjg3ONzjy",
+            "display_url": "pic.twitter.com/Gkjg3ONzjy",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792663672733698/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1168,
+                "h": 520,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 303,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1168,
+                "h": 520,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465792657763016700,
+      "in_reply_to_status_id_str": "1465792657763016706",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 21:19:40 +0000 2021",
+      "id": 1465792668865290200,
+      "id_str": "1465792668865290243",
+      "full_text": "Actually, the problem comes from perspective how PMMs are often treated in product team. \nIt's ok when portfolio requires to have allocated focused groups. But still, when PMM is shared resource, it's extremely hard to grasp a focus. https://t.co/DbYYQIU8Oo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1465791302692397000,
+            "id_str": "1465791302692397057",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeJbHfWYAEf17a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeJbHfWYAEf17a.jpg",
+            "url": "https://t.co/DbYYQIU8Oo",
+            "display_url": "pic.twitter.com/DbYYQIU8Oo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792668865290243/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1094,
+                "h": 508,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1094,
+                "h": 508,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 316,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465791302692397000,
+            "id_str": "1465791302692397057",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeJbHfWYAEf17a.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeJbHfWYAEf17a.jpg",
+            "url": "https://t.co/DbYYQIU8Oo",
+            "display_url": "pic.twitter.com/DbYYQIU8Oo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792668865290243/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1094,
+                "h": 508,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1094,
+                "h": 508,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 316,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1465792446877552600,
+            "id_str": "1465792446877552646",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFeKdt6WUAYNy-Q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFeKdt6WUAYNy-Q.jpg",
+            "url": "https://t.co/DbYYQIU8Oo",
+            "display_url": "pic.twitter.com/DbYYQIU8Oo",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465792668865290243/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1042,
+                "h": 506,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 330,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1042,
+                "h": 506,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465792663672733700,
+      "in_reply_to_status_id_str": "1465792663672733698",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 22:56:12 +0000 2021",
+      "id": 1465816963075170300,
+      "id_str": "1465816963075170306",
+      "full_text": "I guess you all familiar with feeling of anxiety. Especially in the situation when group of PMs demanding a single PMM person to cover all the needs - staring from GTM ending to win/loss analyses and of course strategy of awareness.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465792668865290200,
+      "in_reply_to_status_id_str": "1465792668865290243",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 22:56:12 +0000 2021",
+      "id": 1465816964941684700,
+      "id_str": "1465816964941684743",
+      "full_text": "Smart people already have identified the pattern.\nImagine a manufacture line and throughput of the whole line is equal to the narrowest throughput of chain element.\nConsidering release cycle and product market adoption, if PMM is the narrowest, what result we can expect?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465816963075170300,
+      "in_reply_to_status_id_str": "1465816963075170306",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 22:56:13 +0000 2021",
+      "id": 1465816970054484000,
+      "id_str": "1465816970054483969",
+      "full_text": "the situation may get even worse. \nFor each execution of some job we reserve certain amount of time (busy time) and we have time to get into context and switching context (idle). \nThe the less idle time left, the more exponent time goes for the whole queue of stacked tasks. https://t.co/Dkle6IRBdE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1465812036584149000,
+            "id_str": "1465812036584148994",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFecR_QXEAIbBVp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFecR_QXEAIbBVp.jpg",
+            "url": "https://t.co/Dkle6IRBdE",
+            "display_url": "pic.twitter.com/Dkle6IRBdE",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465816970054483969/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1465812036584149000,
+            "id_str": "1465812036584148994",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFecR_QXEAIbBVp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFecR_QXEAIbBVp.jpg",
+            "url": "https://t.co/Dkle6IRBdE",
+            "display_url": "pic.twitter.com/Dkle6IRBdE",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465816970054483969/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 486,
+                "h": 303,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465816964941684700,
+      "in_reply_to_status_id_str": "1465816964941684743",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 22:56:14 +0000 2021",
+      "id": 1465816972353024000,
+      "id_str": "1465816972353024007",
+      "full_text": "simply saying, the goal is to optimise time of take-in/out.\nThis is the reason it requires for PMM to be involved in discovery phase and remain within whole contexts of product cycle:\n\"discover\" -&gt; \"validate\" -&gt; \"build\" -&gt; \"launch\" -&gt; \"feedback\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465816970054484000,
+      "in_reply_to_status_id_str": "1465816970054483969",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Nov 30 22:56:15 +0000 2021",
+      "id": 1465816977885302800,
+      "id_str": "1465816977885302793",
+      "full_text": "Do you often use the product yourself before/after the release to validate key props you build communication for?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1465816972353024000,
+      "in_reply_to_status_id_str": "1465816972353024007",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:56 +0000 2021",
+      "id": 1466089192275038200,
+      "id_str": "1466089192275038211",
+      "full_text": "I want to share couple of common cases I've seen when something goes wrong. Give a like in the thread if the case sounds familiar :) \n\nall of those below are often a result when PMM is not a true part of Product Team",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:57 +0000 2021",
+      "id": 1466089194690863000,
+      "id_str": "1466089194690863108",
+      "full_text": "CASE1:\nPMM is shared resource across several product stack and responsible only for G2M. \nWHAT: PM drives all content materials how he sees it, PMM does a review and prepares content based on what PM wrote without involvement too much into product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089192275038200,
+      "in_reply_to_status_id_str": "1466089192275038211",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:57 +0000 2021",
+      "id": 1466089196918132700,
+      "id_str": "1466089196918132749",
+      "full_text": "CASE1:\nRESULT:\n- PM swamped and close to burnout\n- delays in content\n- often missed key prop for target customer fit\n- lots of buzz\n- product is available while adoption is low\n- frustration on each release cycle",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089194690863000,
+      "in_reply_to_status_id_str": "1466089194690863108",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:58 +0000 2021",
+      "id": 1466089199233388500,
+      "id_str": "1466089199233388550",
+      "full_text": "CASE2:\nKey prop is too general for broad audience. Too many influencer on what and how to say. Product target segments not fully aligned. Broad values, no prob solver statement\n\nWHAT: sales teams go improvise. Too many features with high expectations",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089196918132700,
+      "in_reply_to_status_id_str": "1466089196918132749",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:58 +0000 2021",
+      "id": 1466089201594740700,
+      "id_str": "1466089201594740744",
+      "full_text": "CASE2:\nRESULT:\n- increased time to market\n- sales team gets demotivated\n- low adoption\n- swiss knife instead of product",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089199233388500,
+      "in_reply_to_status_id_str": "1466089199233388550",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:57:59 +0000 2021",
+      "id": 1466089204098683000,
+      "id_str": "1466089204098682888",
+      "full_text": "CASE3:\nundermined discovery and custdev value on scale. Customer success shall be your friend\n\nWHAT: no guides (not a script) to sales team. Not customer values driven sales underestimate/disqualifies the deal on 1-2 objections.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089201594740700,
+      "in_reply_to_status_id_str": "1466089201594740744",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Dec 01 16:58:00 +0000 2021",
+      "id": 1466089206455939000,
+      "id_str": "1466089206455939085",
+      "full_text": "CASE3:\nRESULT:\n- demotivation and frustration\n- feedback is swamped with requests \"if we had.. we would\", \"product is way below market expectations/requirements\"..",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466089204098683000,
+      "in_reply_to_status_id_str": "1466089204098682888",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:05 +0000 2021",
+      "id": 1466470742732812300,
+      "id_str": "1466470742732812294",
+      "full_text": "Just this week the topic of collaboration and piling up a demand has been raised up 4 times at least. \nAgility is the key but do you really track your metrics\n\nyay, again about processes.. but lets see how far we get in the thread",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:06 +0000 2021",
+      "id": 1466470748588056600,
+      "id_str": "1466470748588056577",
+      "full_text": "Lets assume you work in product team and persuade the same goals and you work on common things together. \nYou will specify common objectives and would try to figure out what might go one after another. Themes backlog prioritisation - it's a strategy, not a project plan. https://t.co/bBWhJQ0jvU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466456219003064300,
+            "id_str": "1466456219003064322",
+            "indices": [
+              271,
+              294
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFnmKVxXEAIESqd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFnmKVxXEAIESqd.jpg",
+            "url": "https://t.co/bBWhJQ0jvU",
+            "display_url": "pic.twitter.com/bBWhJQ0jvU",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470748588056577/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1556,
+                "h": 746,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 326,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 575,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466456219003064300,
+            "id_str": "1466456219003064322",
+            "indices": [
+              271,
+              294
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFnmKVxXEAIESqd.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFnmKVxXEAIESqd.jpg",
+            "url": "https://t.co/bBWhJQ0jvU",
+            "display_url": "pic.twitter.com/bBWhJQ0jvU",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470748588056577/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1556,
+                "h": 746,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 326,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 575,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470742732812300,
+      "in_reply_to_status_id_str": "1466470742732812294",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:07 +0000 2021",
+      "id": 1466470753134686200,
+      "id_str": "1466470753134686213",
+      "full_text": "Once again, it's super important that objective is defined and it's connected with your outputs = features and areas of experiments. \nWhen strategy is defined, isn't it easier to get aligned and communicate what do we do for whom and why? https://t.co/9cBKh4VYGU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466464221064044500,
+            "id_str": "1466464221064044553",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFntcHxXoAk-668.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFntcHxXoAk-668.jpg",
+            "url": "https://t.co/9cBKh4VYGU",
+            "display_url": "pic.twitter.com/9cBKh4VYGU",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470753134686213/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1124,
+                "h": 992,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1124,
+                "h": 992,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466464221064044500,
+            "id_str": "1466464221064044553",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFntcHxXoAk-668.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFntcHxXoAk-668.jpg",
+            "url": "https://t.co/9cBKh4VYGU",
+            "display_url": "pic.twitter.com/9cBKh4VYGU",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470753134686213/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 600,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1124,
+                "h": 992,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1124,
+                "h": 992,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470748588056600,
+      "in_reply_to_status_id_str": "1466470748588056577",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:09 +0000 2021",
+      "id": 1466470757815492600,
+      "id_str": "1466470757815492608",
+      "full_text": "50% of you replied that interact daily/weekly basis with more than 4 PMs. It means, you either have super large product areas or you have approach of shared services.\n\nEither way how much do you pay attention on amount of work in progress at the same time? https://t.co/Bu64klgTUL",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466465651220963300,
+            "id_str": "1466465651220963336",
+            "indices": [
+              257,
+              280
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFnuvXhWYAgnelG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFnuvXhWYAgnelG.jpg",
+            "url": "https://t.co/Bu64klgTUL",
+            "display_url": "pic.twitter.com/Bu64klgTUL",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470757815492608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1142,
+                "h": 524,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1142,
+                "h": 524,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 312,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466465651220963300,
+            "id_str": "1466465651220963336",
+            "indices": [
+              257,
+              280
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFnuvXhWYAgnelG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFnuvXhWYAgnelG.jpg",
+            "url": "https://t.co/Bu64klgTUL",
+            "display_url": "pic.twitter.com/Bu64klgTUL",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466470757815492608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1142,
+                "h": 524,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1142,
+                "h": 524,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 312,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470753134686200,
+      "in_reply_to_status_id_str": "1466470753134686213",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:10 +0000 2021",
+      "id": 1466470762051743700,
+      "id_str": "1466470762051743746",
+      "full_text": "Most popular approach to work with shorter iterations. Kanban/Scrum are natural part of modern agile approach. \nHuh, but if you have product team of more that 50 working on the product.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470757815492600,
+      "in_reply_to_status_id_str": "1466470757815492608",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 18:14:10 +0000 2021",
+      "id": 1466470763867820000,
+      "id_str": "1466470763867820036",
+      "full_text": "The main trick is always to find a way to control WIP (work in progress in the current moment) with a sharp focus. \nIn my experience working in large scale on tight release cycle is tough. Simplification comes from encapsulation.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470762051743700,
+      "in_reply_to_status_id_str": "1466470762051743746",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 21:12:31 +0000 2021",
+      "id": 1466515647739932700,
+      "id_str": "1466515647739932673",
+      "full_text": "@NatashaKatson This is true, although organization of work is the essential things get done :) I’m not talking about all this gtd stuff but the process of collaborative approach to meet everybody’s expectation.\nWe need just accept there is a ‘team’ and the process within the team can be managed",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        295
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1466500344599527400,
+      "in_reply_to_status_id_str": "1466500344599527427",
+      "in_reply_to_user_id": 1303822400656740400,
+      "in_reply_to_user_id_str": "1303822400656740358",
+      "in_reply_to_screen_name": "NatashaKatson",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:34 +0000 2021",
+      "id": 1466528244379930600,
+      "id_str": "1466528244379930625",
+      "full_text": "Once one of devs asked me - Why company doesn't pay me enough to buy a Porsche?\nThis question leads to two obvious answers:\n- Potentially you can find an old nasty one car which still gonna be labeled as Porsche\n- You need to generate appropriate value",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:35 +0000 2021",
+      "id": 1466528246527373300,
+      "id_str": "1466528246527373323",
+      "full_text": "The value of a person often estimated from expertise but more importantly traction of experience that brings the value. \nEverybody has 24h in a day. We need a sleep, a least 5h (8h), eat &gt;2h, social &gt;2h = best possible you have 15h to bring value. For how long you gonna stand?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        283
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528244379930600,
+      "in_reply_to_status_id_str": "1466528244379930625",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:35 +0000 2021",
+      "id": 1466528248750297000,
+      "id_str": "1466528248750297094",
+      "full_text": "The proper answers - collaboration in team. The team drives the value forward. Your expertise can contribute to teams effort (the same as everybody else) to make magic happen but you need to have alignment. And common goals",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528246527373300,
+      "in_reply_to_status_id_str": "1466528246527373323",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:36 +0000 2021",
+      "id": 1466528252164329500,
+      "id_str": "1466528252164329475",
+      "full_text": "Over the time I came up with 3 major factors of success in any organisation:\n- Common vision, common goals\n- Common language, common dictionary \n- Strategic decisions on-site, common environment\n\nIt's harder than it looks but when you checkmark all - you gonna rock!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528248750297000,
+      "in_reply_to_status_id_str": "1466528248750297094",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:37 +0000 2021",
+      "id": 1466528254681129000,
+      "id_str": "1466528254681128962",
+      "full_text": "Common vision, common goals:\n\nhas to be crystal clear why we hear, where we're heading. Doubts risen up and sorted. That's the main shared value.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528252164329500,
+      "in_reply_to_status_id_str": "1466528252164329475",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:38 +0000 2021",
+      "id": 1466528257935753200,
+      "id_str": "1466528257935753217",
+      "full_text": "Common language, common dictionary:\n\nunderstanding each other is the key. When we use common language in the product the less confusion comes, the less waist and re-do to get to the goal.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528254681129000,
+      "in_reply_to_status_id_str": "1466528254681128962",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:02:38 +0000 2021",
+      "id": 1466528260435562500,
+      "id_str": "1466528260435562499",
+      "full_text": "Strategic decisions on-site, common environment:\n\nWe are humans, nothing can replace a magic of emotion in the room. Intuition drives creativity and discovery. It's important to leave outcomes and decisions documented, so everybody can refer to it. Remain transparent to the rest.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466528257935753200,
+      "in_reply_to_status_id_str": "1466528257935753217",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Dec 02 22:14:45 +0000 2021",
+      "id": 1466531307622596600,
+      "id_str": "1466531307622596611",
+      "full_text": "Every specific team has the certain stuff to do inside their piece of work towards a common goal. But there might be parallel tracks. \nNevertheless, the Product team is always cross-functional and shall have one process.\nWithin the function all stages are the same. https://t.co/MB25wXCQUq",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466530903891583000,
+            "id_str": "1466530903891582990",
+            "indices": [
+              266,
+              289
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFoqFkqXIA404O-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFoqFkqXIA404O-.jpg",
+            "url": "https://t.co/MB25wXCQUq",
+            "display_url": "pic.twitter.com/MB25wXCQUq",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466531307622596611/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 253,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1530,
+                "h": 570,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 447,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466530903891583000,
+            "id_str": "1466530903891582990",
+            "indices": [
+              266,
+              289
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFoqFkqXIA404O-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFoqFkqXIA404O-.jpg",
+            "url": "https://t.co/MB25wXCQUq",
+            "display_url": "pic.twitter.com/MB25wXCQUq",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466531307622596611/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 253,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1530,
+                "h": 570,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 447,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466470763867820000,
+      "in_reply_to_status_id_str": "1466470763867820036",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 14:56:11 +0000 2021",
+      "id": 1466783328842006500,
+      "id_str": "1466783328842006535",
+      "full_text": "Don't be shy to rise your question - PMM shall only shine and be expressive ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 15:06:30 +0000 2021",
+      "id": 1466785921999777800,
+      "id_str": "1466785921999777809",
+      "full_text": "PMA is a good source of latest trends in PMM world\nBut the best source is yourself and your experience which you gain from talking to customers. \nWhich approaches do you participate more talking to customer?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 15:13:45 +0000 2021",
+      "id": 1466787747633545200,
+      "id_str": "1466787747633545222",
+      "full_text": "There is no \"not my job\" in product team. I encourage everyone always validate what product really does. Everyone has different context and different perspective. \nHow can you address a message to someone if not in his shoes? https://t.co/FjsExW058d",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        225
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FjsExW058d",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1465816977885302793",
+            "display_url": "twitter.com/pmmunderhood/s…",
+            "indices": [
+              226,
+              249
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1465816977885302800,
+      "quoted_status_id_str": "1465816977885302793",
+      "quoted_status_permalink": {
+        "url": "https://t.co/FjsExW058d",
+        "expanded": "https://twitter.com/pmmunderhood/status/1465816977885302793",
+        "display": "twitter.com/pmmunderhood/s…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Nov 30 22:56:15 +0000 2021",
+        "id": 1465816977885302800,
+        "id_str": "1465816977885302793",
+        "full_text": "Do you often use the product yourself before/after the release to validate key props you build communication for?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          113
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1465816972353024000,
+        "in_reply_to_status_id_str": "1465816972353024007",
+        "in_reply_to_user_id": 1252951365619507200,
+        "in_reply_to_user_id_str": "1252951365619507200",
+        "in_reply_to_screen_name": "pmmunderhood",
+        "user": {
+          "id": 1252951365619507200,
+          "id_str": "1252951365619507200"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 15:25:48 +0000 2021",
+      "id": 1466790781130363000,
+      "id_str": "1466790781130362889",
+      "full_text": "interesting, do you find any distortion when there is material compliment VS emotional touch as a motivation for the interview? \nIn fact, people are willing to share feedback the matter to find a key motivation. In our case, feedback is often the problem is time/capacity https://t.co/RWcryyqfCp",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RWcryyqfCp",
+            "expanded_url": "https://twitter.com/NatashaKatson/status/1466787185571598338",
+            "display_url": "twitter.com/NatashaKatson/…",
+            "indices": [
+              272,
+              295
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1466787185571598300,
+      "quoted_status_id_str": "1466787185571598338",
+      "quoted_status_permalink": {
+        "url": "https://t.co/RWcryyqfCp",
+        "expanded": "https://twitter.com/NatashaKatson/status/1466787185571598338",
+        "display": "twitter.com/NatashaKatson/…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Dec 03 15:11:31 +0000 2021",
+        "id": 1466787185571598300,
+        "id_str": "1466787185571598338",
+        "full_text": "I’m currently working on win-loss, it’s pretty difficult to get those interviews even though we offer gift cards 😬 I also wonder what do other PMMs offer to attract customers to participate in those researches. https://t.co/4tRj1si69t",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          210
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/4tRj1si69t",
+              "expanded_url": "https://twitter.com/pmmunderhood/status/1466785921999777809",
+              "display_url": "twitter.com/pmmunderhood/s…",
+              "indices": [
+                211,
+                234
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1303822400656740400,
+          "id_str": "1303822400656740358"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1466785921999777800,
+        "quoted_status_id_str": "1466785921999777809",
+        "quoted_status_permalink": {
+          "url": "https://t.co/4tRj1si69t",
+          "expanded": "https://twitter.com/pmmunderhood/status/1466785921999777809",
+          "display": "twitter.com/pmmunderhood/s…"
+        },
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:29:57 +0000 2021",
+      "id": 1466806924222075000,
+      "id_str": "1466806924222074884",
+      "full_text": "One of my favourite frameworks - AARRR, also is known as a pirate metric. \nOnce you put any product/subject into phases you'll get a clear helicopter view where you need to pay attention the most in the moment.\nFollow details in thread and try to think form PMM perspective https://t.co/cm60epXOmx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466806916580098000,
+            "id_str": "1466806916580098059",
+            "indices": [
+              274,
+              297
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFslHoDXwAsG3wI.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFslHoDXwAsG3wI.jpg",
+            "url": "https://t.co/cm60epXOmx",
+            "display_url": "pic.twitter.com/cm60epXOmx",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806924222074884/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466806916580098000,
+            "id_str": "1466806916580098059",
+            "indices": [
+              274,
+              297
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FFslHoDXwAsG3wI.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FFslHoDXwAsG3wI.jpg",
+            "url": "https://t.co/cm60epXOmx",
+            "display_url": "pic.twitter.com/cm60epXOmx",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806924222074884/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 436,
+                "h": 200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                109,
+                50
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/FFslHoDXwAsG3wI.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:29:58 +0000 2021",
+      "id": 1466806929402044400,
+      "id_str": "1466806929402044416",
+      "full_text": "AARRR comes from:\n- Acquisition \n- Activation\n- Revenue\n- Retention\n- Referral \nThose are practically the main phases of a user interacting with a product during user's customer journey https://t.co/JcDHBttruS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466803027361382400,
+            "id_str": "1466803027361382412",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFshlPlXwAwjaqC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFshlPlXwAwjaqC.jpg",
+            "url": "https://t.co/JcDHBttruS",
+            "display_url": "pic.twitter.com/JcDHBttruS",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806929402044416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 145,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 82,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1493,
+                "h": 181,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466803027361382400,
+            "id_str": "1466803027361382412",
+            "indices": [
+              186,
+              209
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFshlPlXwAwjaqC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FFshlPlXwAwjaqC.jpg",
+            "url": "https://t.co/JcDHBttruS",
+            "display_url": "pic.twitter.com/JcDHBttruS",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806929402044416/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 145,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 82,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1493,
+                "h": 181,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466806924222075000,
+      "in_reply_to_status_id_str": "1466806924222074884",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:29:59 +0000 2021",
+      "id": 1466806933810253800,
+      "id_str": "1466806933810253826",
+      "full_text": "Awareness/acquisition:\nusers are searching for a problems they have. Make sure you understand what how your target persona thinks.\nAlways make super clear problem statement.\nVerification - case-studies, how-to, community that supports you. https://t.co/VovXxE4bWk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466803307964416000,
+            "id_str": "1466803307964416016",
+            "indices": [
+              240,
+              263
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsh1k6WQBAaWVq.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsh1k6WQBAaWVq.png",
+            "url": "https://t.co/VovXxE4bWk",
+            "display_url": "pic.twitter.com/VovXxE4bWk",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806933810253826/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466803307964416000,
+            "id_str": "1466803307964416016",
+            "indices": [
+              240,
+              263
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsh1k6WQBAaWVq.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsh1k6WQBAaWVq.png",
+            "url": "https://t.co/VovXxE4bWk",
+            "display_url": "pic.twitter.com/VovXxE4bWk",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806933810253826/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 461,
+                "h": 163,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466806929402044400,
+      "in_reply_to_status_id_str": "1466806929402044416",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:30:00 +0000 2021",
+      "id": 1466806937950068700,
+      "id_str": "1466806937950068740",
+      "full_text": "Activation:\nuser has verified his problem and ready - hook the moment with engagement and make an easy start with ready to use setup, min effort required. https://t.co/iD3Ypg2KNu",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466804579258060800,
+            "id_str": "1466804579258060813",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsi_k2X0A0VZyK.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsi_k2X0A0VZyK.png",
+            "url": "https://t.co/iD3Ypg2KNu",
+            "display_url": "pic.twitter.com/iD3Ypg2KNu",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806937950068740/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466804579258060800,
+            "id_str": "1466804579258060813",
+            "indices": [
+              155,
+              178
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsi_k2X0A0VZyK.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsi_k2X0A0VZyK.png",
+            "url": "https://t.co/iD3Ypg2KNu",
+            "display_url": "pic.twitter.com/iD3Ypg2KNu",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806937950068740/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 231,
+                "h": 363,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466806933810253800,
+      "in_reply_to_status_id_str": "1466806933810253826",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:30:01 +0000 2021",
+      "id": 1466806942718963700,
+      "id_str": "1466806942718963712",
+      "full_text": "user will pay and continue using if your product confirms  and impact on initial objective. \nHelp the user to know about it and how his life can become even more better by more advanced usage.\n\nif the user sees impact, the more adoption will be. Remember hook model ;) https://t.co/7fM1e0rGpM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466805227189948400,
+            "id_str": "1466805227189948417",
+            "indices": [
+              269,
+              292
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsjlSlX0AESglD.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsjlSlX0AESglD.png",
+            "url": "https://t.co/7fM1e0rGpM",
+            "display_url": "pic.twitter.com/7fM1e0rGpM",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806942718963712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466805227189948400,
+            "id_str": "1466805227189948417",
+            "indices": [
+              269,
+              292
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFsjlSlX0AESglD.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFsjlSlX0AESglD.png",
+            "url": "https://t.co/7fM1e0rGpM",
+            "display_url": "pic.twitter.com/7fM1e0rGpM",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806942718963712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 389,
+                "h": 168,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466806937950068700,
+      "in_reply_to_status_id_str": "1466806937950068740",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:30:02 +0000 2021",
+      "id": 1466806946888048600,
+      "id_str": "1466806946888048644",
+      "full_text": "Happy user is your evangelist. Make sure you have a way your users leave a feedback. Don't hesitate to approach them pro-actively for interview (not only NPS!) \n\nShared feedback will attract more users. https://t.co/DkV9qG47W1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1466806215590269000,
+            "id_str": "1466806215590268934",
+            "indices": [
+              203,
+              226
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFske0qX0AYMFlS.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFske0qX0AYMFlS.png",
+            "url": "https://t.co/DkV9qG47W1",
+            "display_url": "pic.twitter.com/DkV9qG47W1",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806946888048644/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1466806215590269000,
+            "id_str": "1466806215590268934",
+            "indices": [
+              203,
+              226
+            ],
+            "media_url": "http://pbs.twimg.com/media/FFske0qX0AYMFlS.png",
+            "media_url_https": "https://pbs.twimg.com/media/FFske0qX0AYMFlS.png",
+            "url": "https://t.co/DkV9qG47W1",
+            "display_url": "pic.twitter.com/DkV9qG47W1",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1466806946888048644/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 208,
+                "h": 271,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1466806942718963700,
+      "in_reply_to_status_id_str": "1466806942718963712",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Dec 03 16:34:51 +0000 2021",
+      "id": 1466808157888471000,
+      "id_str": "1466808157888471047",
+      "full_text": "PMM isn’t about ppt or SalesKit, PMM is a voice of a product",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Dec 04 17:43:20 +0000 2021",
+      "id": 1467187780686168000,
+      "id_str": "1467187780686168072",
+      "full_text": "People tend to remember “catch phrases”. PMMs are the ones who shall be able to find the best hit to support the product.\nA few of my favorites created by our team:\n“With Messenger, the world is your stage”\n“Close the distance, drop a LINE”",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sat Dec 04 17:43:21 +0000 2021",
+      "id": 1467187782535811000,
+      "id_str": "1467187782535811076",
+      "full_text": "Holidays are coming and I guess everybody know a commercial from Coca-Cola with tracks. Those catch phrases are the same.\nOr remember “Nokia connecting people”?\n\nFeel free to drop in your examples",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1467187780686168000,
+      "in_reply_to_status_id_str": "1467187780686168072",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Dec 05 18:56:05 +0000 2021",
+      "id": 1467568474239258600,
+      "id_str": "1467568474239258627",
+      "full_text": "By finishing this week in pmmunderhood I want to encourage everyone be closer to your users and wish the best collaboration in your teams. \nBe active in community, there are many challenges worth discussion",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    }
+  ]
+}
