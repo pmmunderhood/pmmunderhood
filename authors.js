@@ -7,6 +7,7 @@ export default authorId([
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   //   extUrl: 'https://some.url/insteadOfTwitter' # Include only for author that doesn't have twitter. Will display link to this page instead of personal twitter
   // },
+  { username: 'followdaniella', start: '17 Jan 2022', first: '1483106850727870464' },
   { username: 'nsustavov', start: '29 Nov 2021', first: '1465410188891111430' },
   { username: 'NRWL', start: '15 Nov 2021', first: '1460283120280764417' },
   { username: 'staygypsy', start: '01 Nov 2021', first: '1455096672380497924' },
