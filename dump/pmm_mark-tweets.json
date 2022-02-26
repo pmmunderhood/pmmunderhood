@@ -1,0 +1,4974 @@
+{
+  "tweets": [
+    {
+      "created_at": "Tue Feb 22 13:30:13 +0000 2022",
+      "id": 1496115109105709000,
+      "id_str": "1496115109105709065",
+      "full_text": "👋 Hey everyone, I’m Mark Assini (@pmm_mark), product marketing manager at @getjobber and your guest author for this week! For those that didn’t know, it’s a short week here in 🇨🇦, so I’m getting things started on a Tuesday.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pmm_mark",
+            "name": "Mark A.",
+            "id": 1480560968077881300,
+            "id_str": "1480560968077881348",
+            "indices": [
+              33,
+              42
+            ]
+          },
+          {
+            "screen_name": "GetJobber",
+            "name": "Jobber",
+            "id": 199406266,
+            "id_str": "199406266",
+            "indices": [
+              74,
+              84
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 13:30:13 +0000 2022",
+      "id": 1496115110665982000,
+      "id_str": "1496115110665981952",
+      "full_text": "I’m pumped to share my product marketing hot takes and random musings over the next 4️⃣ days! 💪",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496115109105709000,
+      "in_reply_to_status_id_str": "1496115109105709065",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 14:00:01 +0000 2022",
+      "id": 1496122612098896000,
+      "id_str": "1496122612098895873",
+      "full_text": "First, a massive shout out to @natashakatson not only for inviting me to take over the account for the week, but for starting it in the first place. Product marketing is on the rise, and it’s largely due to community-driven initiatives like this. 🙌",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              30,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 14:15:00 +0000 2022",
+      "id": 1496126379628314600,
+      "id_str": "1496126379628314628",
+      "full_text": "@NatashaKatson Of course, I can’t mention community without also mentioning the @PMMalliance. I’ve been a huge fan of the work @richkingpma 👑 and the team have done over the past several years to grow the #productmarketing community.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        233
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "productmarketing",
+            "indices": [
+              205,
+              222
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              80,
+              92
+            ]
+          },
+          {
+            "screen_name": "richkingpma",
+            "name": "Richard King",
+            "id": 1168425214943879200,
+            "id_str": "1168425214943879168",
+            "indices": [
+              127,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496122612098896000,
+      "in_reply_to_status_id_str": "1496122612098895873",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 14:30:01 +0000 2022",
+      "id": 1496130157916168200,
+      "id_str": "1496130157916168206",
+      "full_text": "@NatashaKatson @PMMalliance @richkingpma In fact, I’m such a big fan, that I’ve been hosting their Product Marketing Life podcast 🎙 for close to a year. You can listen to it yourself on Apple Podcasts (https://t.co/7oLtgzgqwn) and Spotify (https://t.co/tw4jmJOgtV) #shamelessplug.",
+      "truncated": false,
+      "display_text_range": [
+        41,
+        280
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shamelessplug",
+            "indices": [
+              265,
+              279
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "richkingpma",
+            "name": "Richard King",
+            "id": 1168425214943879200,
+            "id_str": "1168425214943879168",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/7oLtgzgqwn",
+            "expanded_url": "http://apple.co/3raRi4v",
+            "display_url": "apple.co/3raRi4v",
+            "indices": [
+              202,
+              225
+            ]
+          },
+          {
+            "url": "https://t.co/tw4jmJOgtV",
+            "expanded_url": "https://open.spotify.com/show/784uGQKzagIqvZNXGvNI6q",
+            "display_url": "open.spotify.com/show/784uGQKza…",
+            "indices": [
+              240,
+              263
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496126379628314600,
+      "in_reply_to_status_id_str": "1496126379628314628",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 14:45:00 +0000 2022",
+      "id": 1496133929274912800,
+      "id_str": "1496133929274912774",
+      "full_text": "@NatashaKatson @PMMalliance @richkingpma I’m always on the lookout 👀 for talented and interesting product marketers to have on the show, so if you’re interested give my personal account (@pmm_mark) a follow and send me a DM. 📬",
+      "truncated": false,
+      "display_text_range": [
+        41,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "richkingpma",
+            "name": "Richard King",
+            "id": 1168425214943879200,
+            "id_str": "1168425214943879168",
+            "indices": [
+              28,
+              40
+            ]
+          },
+          {
+            "screen_name": "pmm_mark",
+            "name": "Mark A.",
+            "id": 1480560968077881300,
+            "id_str": "1480560968077881348",
+            "indices": [
+              187,
+              196
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496130157916168200,
+      "in_reply_to_status_id_str": "1496130157916168206",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 15:30:01 +0000 2022",
+      "id": 1496145257486033000,
+      "id_str": "1496145257486032901",
+      "full_text": "Before I get to the good stuff, let me quickly rundown all the places at which I’ve held a product marketing role. 🌎",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 16:58:25 +0000 2022",
+      "id": 1496167504405840000,
+      "id_str": "1496167504405839875",
+      "full_text": "I started my product marketing journey at @bigvikinggames, an independent gaming studio 🎮 focused on making fans while being masters of running live-ops–based, free-to-play mobile and social games.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BigVikingGames",
+            "name": "Big Viking Games",
+            "id": 409264135,
+            "id_str": "409264135",
+            "indices": [
+              42,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496145257486033000,
+      "in_reply_to_status_id_str": "1496145257486032901",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 17:16:26 +0000 2022",
+      "id": 1496172038284796000,
+      "id_str": "1496172038284795911",
+      "full_text": "@BigVikingGames From there, and after a brief stint living the #agencylife at a local marketing and branding agency, I took on a product marketing role at @voices 🗣🎤, an audio services-focused marketplace that helps brands find professionals online to bring their projects to life.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        281
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "agencylife",
+            "indices": [
+              63,
+              74
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BigVikingGames",
+            "name": "Big Viking Games",
+            "id": 409264135,
+            "id_str": "409264135",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "voices",
+            "name": "Voices",
+            "id": 14245947,
+            "id_str": "14245947",
+            "indices": [
+              155,
+              162
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496167504405840000,
+      "in_reply_to_status_id_str": "1496167504405839875",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 17:30:06 +0000 2022",
+      "id": 1496175479535157200,
+      "id_str": "1496175479535157250",
+      "full_text": "@BigVikingGames @voices Today, I’m proud to be one of seven incredibly talented product marketing managers at @GetJobber 👷🏾‍♀️📲, a job tracking and customer management software that helps people in small businesses be successful.",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BigVikingGames",
+            "name": "Big Viking Games",
+            "id": 409264135,
+            "id_str": "409264135",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "voices",
+            "name": "Voices",
+            "id": 14245947,
+            "id_str": "14245947",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "screen_name": "GetJobber",
+            "name": "Jobber",
+            "id": 199406266,
+            "id_str": "199406266",
+            "indices": [
+              110,
+              120
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496172038284796000,
+      "in_reply_to_status_id_str": "1496172038284795911",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 17:45:39 +0000 2022",
+      "id": 1496179390903951400,
+      "id_str": "1496179390903951370",
+      "full_text": "@BigVikingGames @voices @GetJobber At @GetJobber I oversee the go-to-market side of our invoicing 🧾, payments 💳, and consumer financing 💰 (powered by @WisetackInc) solutions. I'm constantly learning about home service providers, #fintech, and #SaaS, which is why I ❤️ my job!",
+      "truncated": false,
+      "display_text_range": [
+        35,
+        275
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "fintech",
+            "indices": [
+              229,
+              237
+            ]
+          },
+          {
+            "text": "SaaS",
+            "indices": [
+              243,
+              248
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BigVikingGames",
+            "name": "Big Viking Games",
+            "id": 409264135,
+            "id_str": "409264135",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "voices",
+            "name": "Voices",
+            "id": 14245947,
+            "id_str": "14245947",
+            "indices": [
+              16,
+              23
+            ]
+          },
+          {
+            "screen_name": "GetJobber",
+            "name": "Jobber",
+            "id": 199406266,
+            "id_str": "199406266",
+            "indices": [
+              24,
+              34
+            ]
+          },
+          {
+            "screen_name": "GetJobber",
+            "name": "Jobber",
+            "id": 199406266,
+            "id_str": "199406266",
+            "indices": [
+              38,
+              48
+            ]
+          },
+          {
+            "screen_name": "WisetackInc",
+            "name": "Wisetack",
+            "id": 1259924263869378600,
+            "id_str": "1259924263869378560",
+            "indices": [
+              150,
+              162
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496175479535157200,
+      "in_reply_to_status_id_str": "1496175479535157250",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 19:00:01 +0000 2022",
+      "id": 1496198105410113500,
+      "id_str": "1496198105410113540",
+      "full_text": "Alright, enough about me (for now). Instead, let me tell you about what I plan to cover this week.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        98
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 19:25:05 +0000 2022",
+      "id": 1496204417380593700,
+      "id_str": "1496204417380593669",
+      "full_text": "1️⃣ First, I want explore the pros and \"things to consider\" when evaluating joining an org. as a #lonewolf 🐺 product marketer compared to joining a product marketing team 👥 based on my own experiences in both situations.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "lonewolf",
+            "indices": [
+              97,
+              106
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496198105410113500,
+      "in_reply_to_status_id_str": "1496198105410113540",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 19:45:00 +0000 2022",
+      "id": 1496209426700595200,
+      "id_str": "1496209426700595200",
+      "full_text": "2️⃣ Then I want to touch on the differences between being a product marketing generalist (or athlete🏃‍♀️, as  Mark Huber at @metadataio recently described them to me) compared to being a product marketing specialist 🧠 (someone focused on a specific area of product marketing).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "metadataio",
+            "name": "metadata",
+            "id": 3037262376,
+            "id_str": "3037262376",
+            "indices": [
+              124,
+              135
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496204417380593700,
+      "in_reply_to_status_id_str": "1496204417380593669",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 20:15:46 +0000 2022",
+      "id": 1496217168828113000,
+      "id_str": "1496217168828112903",
+      "full_text": "3️⃣ Finally, I want to end the week by highlighting companies that I think are doing some great things in the  product marketing space, as well as some members of the community I regularly look to for advice, inspiration, and ideas.💡 https://t.co/mm86T4AH8I",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1496217161676824600,
+            "id_str": "1496217161676824576",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FMOhlMyXIAAM_sC.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMOhlMyXIAAM_sC.jpg",
+            "url": "https://t.co/mm86T4AH8I",
+            "display_url": "pic.twitter.com/mm86T4AH8I",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1496217168828112903/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1496217161676824600,
+            "id_str": "1496217161676824576",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/FMOhlMyXIAAM_sC.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FMOhlMyXIAAM_sC.jpg",
+            "url": "https://t.co/mm86T4AH8I",
+            "display_url": "pic.twitter.com/mm86T4AH8I",
+            "expanded_url": "https://twitter.com/pmmunderhood/status/1496217168828112903/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                61,
+                50
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/FMOhlMyXIAAM_sC.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496209426700595200,
+      "in_reply_to_status_id_str": "1496209426700595200",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 20:55:13 +0000 2022",
+      "id": 1496227100491137000,
+      "id_str": "1496227100491137027",
+      "full_text": "But enough of my jibber jabbering 🙊. I want to pose a question: \n\nFor current product marketers, had you heard about or really understood product marketing before applying to, or landing, a product marketing role?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        213
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:15:00 +0000 2022",
+      "id": 1496232076349259800,
+      "id_str": "1496232076349259784",
+      "full_text": "Full disclosure, I had no clue what product marketing was when I took my first product marketing gig. That may sound crazy, but it’s true, and definitely the BEST career choice I’ve ever made. 💯",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496227100491137000,
+      "in_reply_to_status_id_str": "1496227100491137027",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:30:00 +0000 2022",
+      "id": 1496235852539707400,
+      "id_str": "1496235852539707392",
+      "full_text": "When I was looking for my first role post-MBA, I knew I wanted to get into tech in a marketing-role, ideally in gaming. Fortunately enough, I had an in through a family friend (#networking 🤝) at a local studio who put me in touch with their head of HR.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "networking",
+            "indices": [
+              177,
+              188
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496232076349259800,
+      "in_reply_to_status_id_str": "1496232076349259784",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:31:53 +0000 2022",
+      "id": 1496236327628648400,
+      "id_str": "1496236327628648453",
+      "full_text": "At my first informal chat, she asked me: “Well we’ve got two opportunities, one in product marketing, and one in corporate marketing.” 🤔",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496235852539707400,
+      "in_reply_to_status_id_str": "1496235852539707392",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:31:54 +0000 2022",
+      "id": 1496236328693944300,
+      "id_str": "1496236328693944323",
+      "full_text": "I had just finished chatting with a product manager who had recently transitioned into the role from product marketing. He seemed like a decent guy, and something about “corporate marketing” sounded really boring. 😑",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496236327628648400,
+      "in_reply_to_status_id_str": "1496236327628648453",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:31:54 +0000 2022",
+      "id": 1496236330577281000,
+      "id_str": "1496236330577281025",
+      "full_text": "So, in a moment of mild panic, I said: “Product marketing, definitely product marketing.” And with that, a product marketer was born. 🐣",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496236328693944300,
+      "in_reply_to_status_id_str": "1496236328693944323",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 21:31:54 +0000 2022",
+      "id": 1496236331734810600,
+      "id_str": "1496236331734810626",
+      "full_text": "In hindsight it was the better of the two options, especially when you consider the person they hired to do corporate marketing was let go several months later and the role was never backfilled. 😅",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496236330577281000,
+      "in_reply_to_status_id_str": "1496236330577281025",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Tue Feb 22 22:00:00 +0000 2022",
+      "id": 1496243403364835300,
+      "id_str": "1496243403364835328",
+      "full_text": "Alright, that’s it for today. I’ll be back tomorrow with a look at the life of a lone wolf 🐺 product marketer compared to that of life within a product marketing team 👥.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 13:35:00 +0000 2022",
+      "id": 1496478701323755500,
+      "id_str": "1496478701323755524",
+      "full_text": "Morning Twitter! I’m back for day 2️⃣ as guest author, and as promised, I’ll be taking a look at what it’s like being a lone wolf product marketer vs. what it’s like being part of a team of product marketers.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 13:36:19 +0000 2022",
+      "id": 1496479034313691100,
+      "id_str": "1496479034313691139",
+      "full_text": "In between tweets, I'll be catching the @PMMalliance's Product Marketing MisUnderstood event, starting soon! ⏳ https://t.co/ASvPVBtNsb",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              40,
+              52
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ASvPVBtNsb",
+            "expanded_url": "https://twitter.com/PMMalliance/status/1496470109900222471",
+            "display_url": "twitter.com/PMMalliance/st…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1496470109900222500,
+      "quoted_status_id_str": "1496470109900222471",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ASvPVBtNsb",
+        "expanded": "https://twitter.com/PMMalliance/status/1496470109900222471",
+        "display": "twitter.com/PMMalliance/st…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Feb 23 13:00:51 +0000 2022",
+        "id": 1496470109900222500,
+        "id_str": "1496470109900222471",
+        "full_text": "Product Marketing MisUnderstood begins in just 1 hour! 🥳\n\nIn one day, you’ll have the insights you need to prove your value as a product marketer.\n\nIt’s not too late to register and tune in now!\n\n👉 https://t.co/nN2nLHjL8Y\n\n#productmarketing",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          240
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "productmarketing",
+              "indices": [
+                223,
+                240
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/nN2nLHjL8Y",
+              "expanded_url": "https://pmmalliance.co/3pvVmfZ",
+              "display_url": "pmmalliance.co/3pvVmfZ",
+              "indices": [
+                198,
+                221
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">Agorapulse app</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1118077712286068700,
+          "id_str": "1118077712286068736"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 14:20:17 +0000 2022",
+      "id": 1496490097050534000,
+      "id_str": "1496490097050533888",
+      "full_text": "Let's start with a poll: would you rather be a solo product marketer, or, would you rather be part of a product marketing team?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 14:55:03 +0000 2022",
+      "id": 1496498847119560700,
+      "id_str": "1496498847119560711",
+      "full_text": "As someone who’s done both, it’s hard for me to pick a clear winner. However, there are definitely some pros and things to consider for each. Let’s start with the lone wolf approach.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496490097050534000,
+      "in_reply_to_status_id_str": "1496490097050533888",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 16:10:00 +0000 2022",
+      "id": 1496517708380352500,
+      "id_str": "1496517708380352515",
+      "full_text": "🐺✅1️⃣ - As a lone wolf, you have as much control as your manager (CEO/CMO/CPO) will give you, which is often quite a bit. This autonomy allows you to define product marketing as you see fit, ideally based on the needs of the broader org. and your customers.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496498847119560700,
+      "in_reply_to_status_id_str": "1496498847119560711",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 16:31:13 +0000 2022",
+      "id": 1496523048832352300,
+      "id_str": "1496523048832352263",
+      "full_text": "🐺✅2️⃣ - Working solo often (but not always) gives you the space to experiment freely. You can try new things, see what works and what doesn’t, and essentially steer the product marketing ship in any direction you choose.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496517708380352500,
+      "in_reply_to_status_id_str": "1496517708380352515",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 16:46:23 +0000 2022",
+      "id": 1496526867003805700,
+      "id_str": "1496526867003805707",
+      "full_text": "🐺✅3️⃣ - When you’re the lone product marketer, you become the subject matter expert within your org. People will come to you with asks, questions, and for input. Who doesn’t love feeling needed?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496523048832352300,
+      "in_reply_to_status_id_str": "1496523048832352263",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 17:45:00 +0000 2022",
+      "id": 1496541616219164700,
+      "id_str": "1496541616219164673",
+      "full_text": "But it’s not always rainbows 🌈 and butterflies 🦋 when there’s no batman to your robin. Here are some important things to consider and keep in mind if you’re pursuing a role as a lone wolf product marketer.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 18:41:07 +0000 2022",
+      "id": 1496555737580982300,
+      "id_str": "1496555737580982280",
+      "full_text": "🐺🤔1️⃣ - The pressure is real. As the sole product marketer, expectations are high, esp. in an org. where some may have experience working with, or a preconceived notion of, what product marketing can/should deliver. Not having support to back you can put you under fast.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496541616219164700,
+      "in_reply_to_status_id_str": "1496541616219164673",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 19:01:40 +0000 2022",
+      "id": 1496560911838023700,
+      "id_str": "1496560911838023681",
+      "full_text": "🐺🤔2️⃣ - Not having a partner or partners in crime can be isolating. Without a team, you don’t have like-minded product marketers to bounce ideas off of, seek advice from, or benchmark against. You know what they say, it’s lonely at the top.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496555737580982300,
+      "in_reply_to_status_id_str": "1496555737580982280",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 19:15:00 +0000 2022",
+      "id": 1496564266228498400,
+      "id_str": "1496564266228498434",
+      "full_text": "🐺🤔3️⃣ - If you’re not only the sole product marketer, but also the first, you’ll likely spend a lot of your time explaining what product marketing is. There’s nothing quite like introducing yourself, and then spending 10-15 minutes explaining what you’ve been hired to do.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496560911838023700,
+      "in_reply_to_status_id_str": "1496560911838023681",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 20:00:01 +0000 2022",
+      "id": 1496575595504803800,
+      "id_str": "1496575595504803840",
+      "full_text": "What about being part of a product marketing team? \n🤝 Even if it’s a team of two, there are some definite perks, and again, things to consider, of not going solo.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 20:35:54 +0000 2022",
+      "id": 1496584623865925600,
+      "id_str": "1496584623865925640",
+      "full_text": "👥✅1️⃣ - More hands make light work. Being part of a team helps share the product marketing load, oftentimes allowing each member to support a smaller number of product teams, or focus on a specific area of product marketing.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496575595504803800,
+      "in_reply_to_status_id_str": "1496575595504803840",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 20:55:01 +0000 2022",
+      "id": 1496589435953205200,
+      "id_str": "1496589435953205258",
+      "full_text": "👥✅2️⃣ - One of the things I’ve most enjoyed about joining a team of product marketers is having a group of people to give my work, ideas, or questions, a second, third or fourth set of eyes. This has always improved the quality of the deliverable.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496584623865925600,
+      "in_reply_to_status_id_str": "1496584623865925640",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 20:55:01 +0000 2022",
+      "id": 1496589437094043600,
+      "id_str": "1496589437094043655",
+      "full_text": "👥✅3️⃣ - Having more product marketers within an org. helps to spread the product marketing gospel. This in turn means people are more likely to “get” and respect what product marketing does and is capable of, allowing you to have built-in credibility.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496589435953205200,
+      "in_reply_to_status_id_str": "1496589435953205258",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 21:15:32 +0000 2022",
+      "id": 1496594599711809500,
+      "id_str": "1496594599711809547",
+      "full_text": "Being part of a team is great, but it’s not always for everyone. Here are some things to keep in mind.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 21:15:33 +0000 2022",
+      "id": 1496594601708302300,
+      "id_str": "1496594601708302344",
+      "full_text": "👥🤔1️⃣ - You have to be good at sharing your toys. When you’re on a team, you can’t expect to be given everything, and every decision won’t be up to you. This almost always yields better results, but for some, that loss of autonomy and ownership is hard.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496594599711809500,
+      "in_reply_to_status_id_str": "1496594599711809547",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 21:15:33 +0000 2022",
+      "id": 1496594603012759600,
+      "id_str": "1496594603012759552",
+      "full_text": "👥🤔2️⃣ - You’re not always in the spotlight. Working at the intersection of marketing, product, sales and success, product marketers are used to being in the thick of it. On a team, you’re not always involved in every conversation or decision that impacts product marketing.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496594601708302300,
+      "in_reply_to_status_id_str": "1496594601708302344",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 21:15:33 +0000 2022",
+      "id": 1496594604237500400,
+      "id_str": "1496594604237500420",
+      "full_text": "👥🤔3️⃣ - If you find yourself on a rockstar team, you the bar only gets higher and higher, set at the level of your team’s strongest performer. For those just starting out, it can feel like a real challenge to deliver at the same level and live up to lofty expectations.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496594603012759600,
+      "in_reply_to_status_id_str": "1496594603012759552",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Wed Feb 23 23:25:50 +0000 2022",
+      "id": 1496627391124447200,
+      "id_str": "1496627391124447244",
+      "full_text": "That’s a wrap for today everyone! I’ll be back tomorrow to share my thoughts on being a product marketing athlete 🏃‍♀️compared to being a product marketing specialist. 🏋️‍♂️",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 14:10:31 +0000 2022",
+      "id": 1496850028933140500,
+      "id_str": "1496850028933140487",
+      "full_text": "It's day 3️⃣ of my tour as guest author, but I want to briefly shift away from product marketing and acknowledge what's happening in Ukraine. I know I, and many product marketers hope for the safety of the people of Ukraine and innocent Russians caught up in what's going on.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 14:30:14 +0000 2022",
+      "id": 1496854990786281500,
+      "id_str": "1496854990786281483",
+      "full_text": "Are you a product marketing athlete 🏃‍♀️ (i.e. a skilled generalist that is responsible for many, if not all, aspects of product marketing at your org.) or a  specialist 🧠 (i.e. focused on one specific area, like comp. intel., go-to-market, market/customer research etc.)?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 15:30:01 +0000 2022",
+      "id": 1496870036023263200,
+      "id_str": "1496870036023263238",
+      "full_text": "I consider myself lucky 🍀 to have started my product marketing journey as an athlete, before transitioning into a more specialized role where I am today at @getjobber.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GetJobber",
+            "name": "Jobber",
+            "id": 199406266,
+            "id_str": "199406266",
+            "indices": [
+              156,
+              166
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496854990786281500,
+      "in_reply_to_status_id_str": "1496854990786281483",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 16:01:11 +0000 2022",
+      "id": 1496877880390869000,
+      "id_str": "1496877880390868995",
+      "full_text": "When considering your next product marketing move, it's important to be aware of the type of role on offer. Depending on your skills, personal preferences, and areas of interest, you may prioritize being an athlete 🏃‍♀️ over being a specialist 🧠, or vice versa.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 16:01:12 +0000 2022",
+      "id": 1496877882001567700,
+      "id_str": "1496877882001567745",
+      "full_text": "Let's explore the benefits of each, as well as some important things to keep in mind.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496877880390869000,
+      "in_reply_to_status_id_str": "1496877880390868995",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 17:11:59 +0000 2022",
+      "id": 1496895694669549600,
+      "id_str": "1496895694669549568",
+      "full_text": "🏃‍♀️✅1️⃣ - As an athlete, you get exposure to a range of product marketing responsibilities. This will help build out a robust tool kit that can be leveraged in future roles, even ones outside of product marketing.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 17:11:59 +0000 2022",
+      "id": 1496895696238264300,
+      "id_str": "1496895696238264322",
+      "full_text": "🏃‍♀️✅2️⃣ - You'll quickly learn what you enjoy doing, and what you don't. The only way to discover what does or doesn't interest you is to try. As an athlete, you can see if you're into comp. intel., positioning messaging, pricing and packaging, or go-to-market.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496895694669549600,
+      "in_reply_to_status_id_str": "1496895694669549568",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 17:11:59 +0000 2022",
+      "id": 1496895697769013200,
+      "id_str": "1496895697769013264",
+      "full_text": "🏃‍♀️✅3️⃣ - The variety of work you'll be doing is sure to keep you busy and each day different. Some days or projects will require you to focus in on certain areas more than others, but it's unlikely any two days will ever be the same.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496895696238264300,
+      "in_reply_to_status_id_str": "1496895696238264322",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 19:15:37 +0000 2022",
+      "id": 1496926809732141000,
+      "id_str": "1496926809732141073",
+      "full_text": "Of course, being a product marketing athlete 🏃‍♀️ can be mentally exhausting, so there are definitely some things to consider if you're looking at becoming one yourself.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 19:15:38 +0000 2022",
+      "id": 1496926812651212800,
+      "id_str": "1496926812651212819",
+      "full_text": "🏃‍♀️🤔1️⃣ - What's that saying? Jack of all trades, master of none, right? As an athlete, you may develop a broad toolkit, but it might not be overly deep in certain areas. By trying to cover it all, you may find projects that require focus in one area more challenging.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496926809732141000,
+      "in_reply_to_status_id_str": "1496926809732141073",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 19:15:38 +0000 2022",
+      "id": 1496926814303924200,
+      "id_str": "1496926814303924229",
+      "full_text": "🏃‍♀️🤔2️⃣ - While variety is refreshing and keeps you on your toes, it can become very tiresome. Having to constantly context switch and flex different muscles can be exciting at first, but eventually you may find that you need time for deep thinking in one particular area.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496926812651212800,
+      "in_reply_to_status_id_str": "1496926812651212819",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 19:15:39 +0000 2022",
+      "id": 1496926815914541000,
+      "id_str": "1496926815914541063",
+      "full_text": "🏃‍♀️🤔3️⃣ - As you become more senior in your career and as product marketing evolves and matures, new roles within the space may require a depth of knowledge in a particular area that you haven't developed fully, making getting out of a generalized role more challenging.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496926814303924200,
+      "in_reply_to_status_id_str": "1496926814303924229",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 20:55:14 +0000 2022",
+      "id": 1496951876788658200,
+      "id_str": "1496951876788658179",
+      "full_text": "But what about the specialist opportunities 🧠? I've seen more and more product marketing roles being posted that ask candidates to be experienced in, and take ownership of (if hired) specific areas of product marketing, like comp. intel., go-to-market, research etc.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 20:55:14 +0000 2022",
+      "id": 1496951878483157000,
+      "id_str": "1496951878483157006",
+      "full_text": "Let's look at some of the benefits ✅ and things to consider 🤔 when exploring those opportunities.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496951876788658200,
+      "in_reply_to_status_id_str": "1496951876788658179",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:00:33 +0000 2022",
+      "id": 1496953218126921700,
+      "id_str": "1496953218126921729",
+      "full_text": "🧠✅1️⃣ - By being specialized, you have a clear understand of the size and scope of your sandbox. There is less ambiguity around what you can and can't influence, as well as the degree of autonomy you have to make decisions and recommendations.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:00:34 +0000 2022",
+      "id": 1496953220245119000,
+      "id_str": "1496953220245118985",
+      "full_text": "🧠✅2️⃣ - Focusing on a specific area allows you to become even more of a subject matter expert by developing a deep understanding of your solution, customers, and the KPIs you can directly influence through the lens of your area of focus.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        237
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496953218126921700,
+      "in_reply_to_status_id_str": "1496953218126921729",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:00:34 +0000 2022",
+      "id": 1496953221864202200,
+      "id_str": "1496953221864202246",
+      "full_text": "🧠✅3️⃣ - You can hone in on an area of product marketing that you enjoy. I've found in my current role that I ❤️ go-to-market and positioning and messaging. While focused on GTM myself, I still get to dabble in comp. intel and research, but within the context of my GTM efforts.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496953220245119000,
+      "in_reply_to_status_id_str": "1496953220245118985",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:05:25 +0000 2022",
+      "id": 1496954439302799400,
+      "id_str": "1496954439302799364",
+      "full_text": "Speaking of positioning and messaging, I love this analogy from @raechellambert! https://t.co/sqk14n0wmA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        80
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raechellambert",
+            "name": "Raechel Lambert",
+            "id": 748493160,
+            "id_str": "748493160",
+            "indices": [
+              64,
+              79
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sqk14n0wmA",
+            "expanded_url": "https://twitter.com/raechellambert/status/1496856782165135362",
+            "display_url": "twitter.com/raechellambert…",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1496856782165135400,
+      "quoted_status_id_str": "1496856782165135362",
+      "quoted_status_permalink": {
+        "url": "https://t.co/sqk14n0wmA",
+        "expanded": "https://twitter.com/raechellambert/status/1496856782165135362",
+        "display": "twitter.com/raechellambert…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Feb 24 14:37:21 +0000 2022",
+        "id": 1496856782165135400,
+        "id_str": "1496856782165135362",
+        "full_text": "#Positioning &amp; #messaging is like building a house.\n\nIf you agree on positioning/messaging, you've poured the foundation—the basement is in place.\n\nBut if you change value props/benefit statements on V3 of website copy, you're tearing down drywall to relocate the basement.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          277
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Positioning",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "text": "messaging",
+              "indices": [
+                19,
+                29
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 748493160,
+          "id_str": "748493160"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:30:02 +0000 2022",
+      "id": 1496960634361200600,
+      "id_str": "1496960634361200641",
+      "full_text": "Specialization is great, don't get me wrong, but it's not for everyone. Let's explore some of the things someone looking to specialize should keep in mind.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:30:02 +0000 2022",
+      "id": 1496960635439046700,
+      "id_str": "1496960635439046663",
+      "full_text": "🧠🤔1️⃣ - When you specialize, you might not be able to keep up with/can develop a blindspot for other areas within your org. or more generally within the product marketing space. This requires you to be more proactive about learning (if you can find the time to).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496960634361200600,
+      "in_reply_to_status_id_str": "1496960634361200641",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:30:02 +0000 2022",
+      "id": 1496960636533805000,
+      "id_str": "1496960636533805059",
+      "full_text": "🧠🤔2️⃣ - What if you decide to specialize, but grow tired of the specialization? As someone who hates being bored at work, I was careful to select a specialization that still involved a certain degree of variety and change. Not all specialized roles can offer that.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496960635439046700,
+      "in_reply_to_status_id_str": "1496960635439046663",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 21:30:03 +0000 2022",
+      "id": 1496960638483980300,
+      "id_str": "1496960638483980290",
+      "full_text": "🧠🤔3️⃣ - Much like  being part of a broader team, the more specialized you become, the less involvement you have in key decisions that could indirectly impact your slice of product marketing. Taking a step back in one area to focus on another can be scary.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1496960636533805000,
+      "in_reply_to_status_id_str": "1496960636533805059",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Feb 24 22:00:01 +0000 2022",
+      "id": 1496968182732669000,
+      "id_str": "1496968182732668933",
+      "full_text": "That's a wrap on day 3️⃣. I'm very much looking forward to tomorrow where I'll be shining the spotlight on some rockstar marketers and product marketers that I am often inspired by. See you tomorrow!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 18:26:14 +0000 2022",
+      "id": 1497276769820463000,
+      "id_str": "1497276769820463106",
+      "full_text": "It's the final day as my time as guest host of @pmmunderhood 😭 - I'm sad to see it end, but I'm excited about what I am going to share today: some of the best and brightest in the product marketing and marketing community!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pmmunderhood",
+            "name": "Product Marketing Underhood",
+            "id": 1252951365619507200,
+            "id_str": "1252951365619507200",
+            "indices": [
+              47,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 19:55:00 +0000 2022",
+      "id": 1497299106955333600,
+      "id_str": "1497299106955333635",
+      "full_text": "As host of the Product Marketing Life podcast 🎧🎙, I have a love of product marketing-related podcasts. You can see a list of my favourites here. https://t.co/ulxfJ438Yg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ulxfJ438Yg",
+            "expanded_url": "https://twitter.com/pmm_mark/status/1481301687465828360",
+            "display_url": "twitter.com/pmm_mark/statu…",
+            "indices": [
+              145,
+              168
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1481301687465828400,
+      "quoted_status_id_str": "1481301687465828360",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ulxfJ438Yg",
+        "expanded": "https://twitter.com/pmm_mark/status/1481301687465828360",
+        "display": "twitter.com/pmm_mark/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jan 12 16:26:58 +0000 2022",
+        "id": 1481301687465828400,
+        "id_str": "1481301687465828360",
+        "full_text": "Some of my favourite, active #productmarketing #podcasts, a thread.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          67
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "text": "productmarketing",
+              "indices": [
+                29,
+                46
+              ]
+            },
+            {
+              "text": "podcasts",
+              "indices": [
+                47,
+                56
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1480560968077881300,
+          "id_str": "1480560968077881348"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:01:32 +0000 2022",
+      "id": 1497300752951242800,
+      "id_str": "1497300752951242752",
+      "full_text": "Time to take a look at the non-product marketers I regularly look to for marketing advice and inspiration.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:07:30 +0000 2022",
+      "id": 1497302255850111000,
+      "id_str": "1497302255850110984",
+      "full_text": "@terryoinfluence is a font of #marketing and #advertising knowledge. I'm a big fan of his Under the Influence podcast and his broader @apostrophepod network, including the infinitely listenable We Regret To Inform You show about stories and lessons in failure. Oh, and he's 🇨🇦,👍!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "marketing",
+            "indices": [
+              30,
+              40
+            ]
+          },
+          {
+            "text": "advertising",
+            "indices": [
+              45,
+              57
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terryoinfluence",
+            "name": "Terry O'Reilly",
+            "id": 18691807,
+            "id_str": "18691807",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "apostrophepod",
+            "name": "Apostrophe Podcast Company",
+            "id": 1071867125919334400,
+            "id_str": "1071867125919334401",
+            "indices": [
+              134,
+              148
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497300752951242800,
+      "in_reply_to_status_id_str": "1497300752951242752",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:12:05 +0000 2022",
+      "id": 1497303406922326000,
+      "id_str": "1497303406922326022",
+      "full_text": "Of course there's @davegerhardt, who I first heard about through one his podcasts (surprise, surprise). His LinkedIn takes are 🧑‍🍳💋 and his @DGMGmarketing community is a great source of marketing info. and opportunities. Check out his new book too! https://t.co/ghhz1UgBfB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "davegerhardt",
+            "name": "Dave Gerhardt",
+            "id": 83886883,
+            "id_str": "83886883",
+            "indices": [
+              18,
+              31
+            ]
+          },
+          {
+            "screen_name": "DGMGmarketing",
+            "name": "DGMG",
+            "id": 1256668722422583300,
+            "id_str": "1256668722422583296",
+            "indices": [
+              140,
+              154
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ghhz1UgBfB",
+            "expanded_url": "https://www.amazon.ca/Founder-Brand-Story-Competitive-Advantage-ebook/dp/B09PMHFJLK",
+            "display_url": "amazon.ca/Founder-Brand-…",
+            "indices": [
+              249,
+              272
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497302255850111000,
+      "in_reply_to_status_id_str": "1497302255850110984",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:15:15 +0000 2022",
+      "id": 1497304202657222700,
+      "id_str": "1497304202657222657",
+      "full_text": "Another fellow 🇨🇦 is Alex McDonnell. A former product marketer, Alex is one of the go-to voices in #competitiveintelligence. His Dance Battle podcast (surprisingly not about dancing) is another one of my recommended listens. Check him out on LinkedIn https://t.co/icfqATr4pd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "competitiveintelligence",
+            "indices": [
+              99,
+              123
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/icfqATr4pd",
+            "expanded_url": "http://linkedin.com/in/alexqmcdonnell",
+            "display_url": "linkedin.com/in/alexqmcdonn…",
+            "indices": [
+              251,
+              274
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497303406922326000,
+      "in_reply_to_status_id_str": "1497303406922326022",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:19:41 +0000 2022",
+      "id": 1497305320011542500,
+      "id_str": "1497305320011542530",
+      "full_text": "Speaking of #competitiveintelligence, I'm a big fan of Adam McQueen's work. Adam and his team regularly pump out quality content for @kluein. Whether it's the Competitive Enablement Show or top-shelf LinkedIn posts, Adam is another must-follow. https://t.co/zYbruBXq7h",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "competitiveintelligence",
+            "indices": [
+              12,
+              36
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kluein",
+            "name": "klue",
+            "id": 1509904382,
+            "id_str": "1509904382",
+            "indices": [
+              133,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zYbruBXq7h",
+            "expanded_url": "https://www.linkedin.com/in/adam-mcqueen-032a5b10b/",
+            "display_url": "linkedin.com/in/adam-mcquee…",
+            "indices": [
+              245,
+              268
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497304202657222700,
+      "in_reply_to_status_id_str": "1497304202657222657",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:25:18 +0000 2022",
+      "id": 1497306731994570800,
+      "id_str": "1497306731994570762",
+      "full_text": "@kluein Let's keep the #competitiveintelligence train rolling 🚂 and shoutout @AMcBick. He just dropped Competitive Snacks https://t.co/LtynEAa6Ut and is also working on launching his Competitive Playbook course https://t.co/sXGa4cDBte. Both are worth checking out for sure.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        273
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "competitiveintelligence",
+            "indices": [
+              23,
+              47
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kluein",
+            "name": "klue",
+            "id": 1509904382,
+            "id_str": "1509904382",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "AMcBick",
+            "name": "Andy McCotter-Bicknell",
+            "id": 1397341740000964600,
+            "id_str": "1397341740000964611",
+            "indices": [
+              77,
+              85
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LtynEAa6Ut",
+            "expanded_url": "http://competitivesnacks.com/",
+            "display_url": "competitivesnacks.com",
+            "indices": [
+              122,
+              145
+            ]
+          },
+          {
+            "url": "https://t.co/sXGa4cDBte",
+            "expanded_url": "http://competitiveplaybook.com/",
+            "display_url": "competitiveplaybook.com",
+            "indices": [
+              211,
+              234
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497305320011542500,
+      "in_reply_to_status_id_str": "1497305320011542530",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:28:40 +0000 2022",
+      "id": 1497307579684380700,
+      "id_str": "1497307579684380675",
+      "full_text": "A former product marketer himself, @_danieljmurphy is another person worth a follow. If you like what you see (and you definitely will), you should check out this Product Launch Masterclass, a great place to learn about all-things go-to-market. https://t.co/o3x4Fy73q9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_danieljmurphy",
+            "name": "Daniel J. Murphy",
+            "id": 229722466,
+            "id_str": "229722466",
+            "indices": [
+              35,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/o3x4Fy73q9",
+            "expanded_url": "http://theproductlaunchmasterclass.com",
+            "display_url": "theproductlaunchmasterclass.com",
+            "indices": [
+              245,
+              268
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497306731994570800,
+      "in_reply_to_status_id_str": "1497306731994570762",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:31:30 +0000 2022",
+      "id": 1497308291671732200,
+      "id_str": "1497308291671732229",
+      "full_text": "Another former product marketer (now founder, podcast host, author, &amp; career advisor - where does he find the time?!) is @alex_dea. I had him on the Product Marketing Life pod &amp; could have talked to him for hours &amp; hours. Al's doing great things for aspiring product marketers.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        289
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alex_dea",
+            "name": "Al Dea",
+            "id": 218179068,
+            "id_str": "218179068",
+            "indices": [
+              125,
+              134
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497307579684380700,
+      "in_reply_to_status_id_str": "1497307579684380675",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:33:53 +0000 2022",
+      "id": 1497308891973132300,
+      "id_str": "1497308891973132288",
+      "full_text": "When it comes to #positioning, there are few experts better than @aprildunford, who literally wrote the book on it. Anyone tackling positioning for their own product HAS TO read Obviously Awesome. If they haven't, they're obviously not awesome... https://t.co/QZUNXfGvfN",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "positioning",
+            "indices": [
+              17,
+              29
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aprildunford",
+            "name": "April Dunford",
+            "id": 8880932,
+            "id_str": "8880932",
+            "indices": [
+              65,
+              78
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/QZUNXfGvfN",
+            "expanded_url": "https://aprildunford.com",
+            "display_url": "aprildunford.com",
+            "indices": [
+              247,
+              270
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497308291671732200,
+      "in_reply_to_status_id_str": "1497308291671732229",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:35:56 +0000 2022",
+      "id": 1497309409231388700,
+      "id_str": "1497309409231388673",
+      "full_text": "Last, but certainly not least, there's @peeplaja - he's definitely shared some of the most insightful and spicy takes I've ever come across, and they're all gold. Check him out and the great things he's doing over at https://t.co/fJTsQCA6HB - a tool I've been following closely.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "peeplaja",
+            "name": "Pe:p Laja",
+            "id": 19130428,
+            "id_str": "19130428",
+            "indices": [
+              39,
+              48
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fJTsQCA6HB",
+            "expanded_url": "http://www.wynter.com",
+            "display_url": "wynter.com",
+            "indices": [
+              217,
+              240
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497308891973132300,
+      "in_reply_to_status_id_str": "1497308891973132288",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:39:36 +0000 2022",
+      "id": 1497310331038748700,
+      "id_str": "1497310331038748673",
+      "full_text": "Alright, here comes the big one. My long list of product marketers that are worth following here or on LinkedIn. I'll keep it short and sweet for each one, otherwise I'd be here tweeting all night...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:02 +0000 2022",
+      "id": 1497314717907492900,
+      "id_str": "1497314717907492864",
+      "full_text": "Mark Huber, Head of Brand &amp; Product Marketing @metadataio - https://t.co/dIZED4d6Y3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        87
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "metadataio",
+            "name": "metadata",
+            "id": 3037262376,
+            "id_str": "3037262376",
+            "indices": [
+              50,
+              61
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dIZED4d6Y3",
+            "expanded_url": "https://www.linkedin.com/in/markehuber/",
+            "display_url": "linkedin.com/in/markehuber/",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497310331038748700,
+      "in_reply_to_status_id_str": "1497310331038748673",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:02 +0000 2022",
+      "id": 1497314719346090000,
+      "id_str": "1497314719346089986",
+      "full_text": "@alex_virden, another @metadataio-ite, specifically in product marketing.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        73
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alex_virden",
+            "name": "Alex Virden",
+            "id": 378162884,
+            "id_str": "378162884",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "metadataio",
+            "name": "metadata",
+            "id": 3037262376,
+            "id_str": "3037262376",
+            "indices": [
+              22,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314717907492900,
+      "in_reply_to_status_id_str": "1497314717907492864",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:02 +0000 2022",
+      "id": 1497314720881250300,
+      "id_str": "1497314720881250304",
+      "full_text": "@JDomanPipe, product marketing manager @remote and author of the Building Momentum newsletter (a must read). https://t.co/fHgjfvbrII",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JDomanPipe",
+            "name": "James Doman-Pipe 📈 🏳️‍🌈",
+            "id": 870893108808036400,
+            "id_str": "870893108808036352",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "remote",
+            "name": "Remote",
+            "id": 2573522976,
+            "id_str": "2573522976",
+            "indices": [
+              39,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fHgjfvbrII",
+            "expanded_url": "https://www.buildingmomentum.io/welcome/",
+            "display_url": "buildingmomentum.io/welcome/",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314719346090000,
+      "in_reply_to_status_id_str": "1497314719346089986",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:03 +0000 2022",
+      "id": 1497314722387009500,
+      "id_str": "1497314722387009542",
+      "full_text": "@followdaniella, product marketing at @canva at @PMMalliance ambassador.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "followdaniella",
+            "name": "Daniella L",
+            "id": 2966275281,
+            "id_str": "2966275281",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "canva",
+            "name": "Canva",
+            "id": 36542528,
+            "id_str": "36542528",
+            "indices": [
+              38,
+              44
+            ]
+          },
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              48,
+              60
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314720881250300,
+      "in_reply_to_status_id_str": "1497314720881250304",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:03 +0000 2022",
+      "id": 1497314723657830400,
+      "id_str": "1497314723657830409",
+      "full_text": "@jesuisjuju, Director, Product Marketing at @loom.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jesuisjuju",
+            "name": "Julia, not Julie",
+            "id": 25929990,
+            "id_str": "25929990",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "loom",
+            "name": "Loom",
+            "id": 3661424780,
+            "id_str": "3661424780",
+            "indices": [
+              44,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314722387009500,
+      "in_reply_to_status_id_str": "1497314722387009542",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:03 +0000 2022",
+      "id": 1497314724983287800,
+      "id_str": "1497314724983287814",
+      "full_text": "@Tales_of_cake, Director Product Marketing at @intercom.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        56
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tales_of_cake",
+            "name": "Jasmine Jaume",
+            "id": 22034396,
+            "id_str": "22034396",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "intercom",
+            "name": "Intercom",
+            "id": 274788446,
+            "id_str": "274788446",
+            "indices": [
+              46,
+              55
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314723657830400,
+      "in_reply_to_status_id_str": "1497314723657830409",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:04 +0000 2022",
+      "id": 1497314726228988000,
+      "id_str": "1497314726228987915",
+      "full_text": "@raechellambert, co-founder and head of product marketing at @olivineagency.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raechellambert",
+            "name": "Raechel Lambert",
+            "id": 748493160,
+            "id_str": "748493160",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "olivineagency",
+            "name": "Olivine Marketing",
+            "id": 1101166138136891400,
+            "id_str": "1101166138136891397",
+            "indices": [
+              61,
+              75
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314724983287800,
+      "in_reply_to_status_id_str": "1497314724983287814",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:04 +0000 2022",
+      "id": 1497314727608950800,
+      "id_str": "1497314727608950792",
+      "full_text": "@richkingpma, founder of the @PMMalliance. If you haven't heard of the Product Marketing Alliance you must have been living under a rock for the past couple of years (for which I wouldn't blame you...).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "richkingpma",
+            "name": "Richard King",
+            "id": 1168425214943879200,
+            "id_str": "1168425214943879168",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "PMMalliance",
+            "name": "Product Marketing Alliance",
+            "id": 1118077712286068700,
+            "id_str": "1118077712286068736",
+            "indices": [
+              29,
+              41
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314726228988000,
+      "in_reply_to_status_id_str": "1497314726228987915",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:04 +0000 2022",
+      "id": 1497314729039212500,
+      "id_str": "1497314729039212548",
+      "full_text": "@pmmcody, Head of Product Marketing at @DoolyHQ.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pmmcody",
+            "name": "Cody Bernard",
+            "id": 1123589045773316100,
+            "id_str": "1123589045773316097",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "DoolyHQ",
+            "name": "DoolyHQ",
+            "id": 958028026964451300,
+            "id_str": "958028026964451328",
+            "indices": [
+              39,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314727608950800,
+      "in_reply_to_status_id_str": "1497314727608950792",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:05 +0000 2022",
+      "id": 1497314730574155800,
+      "id_str": "1497314730574155780",
+      "full_text": "@maryrshirley, Marketing Leader at @Adobe and podcast host of the Women in Product Marketing show https://t.co/9rq4hUs0PY",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maryrshirley",
+            "name": "Mary Shirley Sheehan",
+            "id": 22537660,
+            "id_str": "22537660",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Adobe",
+            "name": "Adobe",
+            "id": 63786611,
+            "id_str": "63786611",
+            "indices": [
+              35,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9rq4hUs0PY",
+            "expanded_url": "https://sharebird.com/h/product-marketing/s/women-in-product-marketing",
+            "display_url": "sharebird.com/h/product-mark…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314729039212500,
+      "in_reply_to_status_id_str": "1497314729039212548",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:05 +0000 2022",
+      "id": 1497314732084281300,
+      "id_str": "1497314732084281350",
+      "full_text": "Meredith Davis, Product Marketing Manager at @Meta (https://t.co/i72J3Fbw4U) and Host of “Behind the Scenes” Product Marketing Podcast. https://t.co/9rq4hUJCey",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Meta",
+            "name": "Meta",
+            "id": 2425151,
+            "id_str": "2425151",
+            "indices": [
+              45,
+              50
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i72J3Fbw4U",
+            "expanded_url": "https://www.linkedin.com/in/meredithjdavis/",
+            "display_url": "linkedin.com/in/meredithjda…",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "url": "https://t.co/9rq4hUJCey",
+            "expanded_url": "https://sharebird.com/h/product-marketing/s/women-in-product-marketing",
+            "display_url": "sharebird.com/h/product-mark…",
+            "indices": [
+              136,
+              159
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314730574155800,
+      "in_reply_to_status_id_str": "1497314730574155780",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:05 +0000 2022",
+      "id": 1497314733736743000,
+      "id_str": "1497314733736742917",
+      "full_text": "@JeffreyVocell Director of Product Marketing at @Iterable and host of The Product Marketing Experts podcast. https://t.co/LMmIsKRXci",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "JeffreyVocell",
+            "name": "Jeffrey Vocell",
+            "id": 18360478,
+            "id_str": "18360478",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "Iterable",
+            "name": "Iterable",
+            "id": 1100185856,
+            "id_str": "1100185856",
+            "indices": [
+              48,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/LMmIsKRXci",
+            "expanded_url": "https://sharebird.com/h/product-marketing/s/the-product-marketing-experts",
+            "display_url": "sharebird.com/h/product-mark…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314732084281300,
+      "in_reply_to_status_id_str": "1497314732084281350",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:06 +0000 2022",
+      "id": 1497314735938846700,
+      "id_str": "1497314735938846724",
+      "full_text": "@jdprater Head of Marketing at @osmosdata and Host of the Chills and Thrills Podcast. https://t.co/Dxy7FLDIzA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jdprater",
+            "name": "JD Prater",
+            "id": 1364460864,
+            "id_str": "1364460864",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "osmosdata",
+            "name": "osmosdata",
+            "id": 1407086073554030600,
+            "id_str": "1407086073554030595",
+            "indices": [
+              31,
+              41
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Dxy7FLDIzA",
+            "expanded_url": "https://sharebird.com/h/product-marketing/s/thrills-and-chills-establishing-product-marketing",
+            "display_url": "sharebird.com/h/product-mark…",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314733736743000,
+      "in_reply_to_status_id_str": "1497314733736742917",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:06 +0000 2022",
+      "id": 1497314737671098400,
+      "id_str": "1497314737671098373",
+      "full_text": "@sean_broderickFollow Head of Product Marketing at @edesk and Host of The Product Marketing AI Podcast. https://t.co/6Wa5UZDNIm",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eDesk",
+            "name": "eDesk",
+            "id": 405106665,
+            "id_str": "405106665",
+            "indices": [
+              51,
+              57
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6Wa5UZDNIm",
+            "expanded_url": "https://podcasts.apple.com/ie/podcast/the-product-marketing-ai-podcast/id1597806223",
+            "display_url": "podcasts.apple.com/ie/podcast/the…",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314735938846700,
+      "in_reply_to_status_id_str": "1497314735938846724",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:07 +0000 2022",
+      "id": 1497314739638222800,
+      "id_str": "1497314739638222853",
+      "full_text": "@Marcus_Andrews, Director of Product Marketing at\n@Pendoio and expert in all-things strategic narrative and product led growth.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Marcus_Andrews",
+            "name": "Marcus Andrews",
+            "id": 15825711,
+            "id_str": "15825711",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "pendoio",
+            "name": "pendo.io",
+            "id": 1535434712,
+            "id_str": "1535434712",
+            "indices": [
+              50,
+              58
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314737671098400,
+      "in_reply_to_status_id_str": "1497314737671098373",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:07 +0000 2022",
+      "id": 1497314740938449000,
+      "id_str": "1497314740938448902",
+      "full_text": "There are many many many more I've missed. Check out my Connections on LinkedIn for a detailed list! https://t.co/2iddkbPNVi",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2iddkbPNVi",
+            "expanded_url": "https://www.linkedin.com/in/markassini/",
+            "display_url": "linkedin.com/in/markassini/",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314739638222800,
+      "in_reply_to_status_id_str": "1497314739638222853",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 20:57:08 +0000 2022",
+      "id": 1497314742519668700,
+      "id_str": "1497314742519668745",
+      "full_text": "Finally, and arguably most importantly for this week, @NatashaKatson product marketing manager at @Staffbase, who runs this community-driven account!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              54,
+              68
+            ]
+          },
+          {
+            "screen_name": "Staffbase",
+            "name": "Staffbase",
+            "id": 355260451,
+            "id_str": "355260451",
+            "indices": [
+              98,
+              108
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1497314740938449000,
+      "in_reply_to_status_id_str": "1497314740938448902",
+      "in_reply_to_user_id": 1252951365619507200,
+      "in_reply_to_user_id_str": "1252951365619507200",
+      "in_reply_to_screen_name": "pmmunderhood",
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Feb 25 21:15:00 +0000 2022",
+      "id": 1497319240101150700,
+      "id_str": "1497319240101150724",
+      "full_text": "Well, that's it for me as guest author. Thanks again to @NatashaKatson for letting me take the reins. You can follow me at @pmm_mark or on LinkedIn https://t.co/2iddkbPNVi.\n\nWherever you're reading this from, I hope you stay safe and are as well as you can be. \n\nMark signing out!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NatashaKatson",
+            "name": "Natasha Katson",
+            "id": 1303822400656740400,
+            "id_str": "1303822400656740358",
+            "indices": [
+              56,
+              70
+            ]
+          },
+          {
+            "screen_name": "pmm_mark",
+            "name": "Mark A.",
+            "id": 1480560968077881300,
+            "id_str": "1480560968077881348",
+            "indices": [
+              123,
+              132
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2iddkbPNVi",
+            "expanded_url": "https://www.linkedin.com/in/markassini/",
+            "display_url": "linkedin.com/in/markassini/",
+            "indices": [
+              148,
+              171
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1252951365619507200,
+        "id_str": "1252951365619507200"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ]
+}
